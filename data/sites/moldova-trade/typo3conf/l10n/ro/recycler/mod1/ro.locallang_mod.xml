@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="mlang_labels_tabdescr">Unealta vă permite să restaurați elementele șterse sau să le ștergeți permanent din baza de date. Aceste acțiuni pot fi aplicate unei singure sau mai multor înregistrări, inclusiv recursiv (ex. restaurarea unei pagini poate restaura toate elementele conținute de acea pagină). Filtrarea per pagină sau tabelă vă permite o vizualizare rapidă a elementelor șterse înainte de a specifica ce acțiune veți întreprinde.</label>
+			<label index="mlang_labels_tablabel">Reciclare TYPO3</label>
+			<label index="mlang_tabs_tab">Reciclare</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

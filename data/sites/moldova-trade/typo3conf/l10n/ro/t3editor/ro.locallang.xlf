@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns:t3="http://typo3.org/schemas/xliff" version="1.0">
+  <file t3:id="1415814999" source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:37Z" product-name="t3editor" target-language="ro">
+    <header/>
+    <body>
+      <trans-unit id="deactivate" xml:space="preserve" approved="yes">
+				<source>Deactivate t3editor</source>
+			<target state="translated">Dezactivați t3editor</target></trans-unit>
+      <trans-unit id="template" xml:space="preserve" approved="yes">
+				<source>Template</source>
+			<target state="translated">Template</target></trans-unit>
+      <trans-unit id="file" xml:space="preserve" approved="yes">
+				<source>File</source>
+			<target state="translated">Fișier</target></trans-unit>
+      <trans-unit id="delimiter" xml:space="preserve" approved="yes">
+				<source>:</source>
+			<target state="translated">:</target></trans-unit>
+      <trans-unit id="constants" xml:space="preserve" approved="yes">
+				<source>Constants</source>
+			<target state="translated">Constante</target></trans-unit>
+      <trans-unit id="setup" xml:space="preserve" approved="yes">
+				<source>Setup</source>
+			<target state="translated">Setup</target></trans-unit>
+      <trans-unit id="unknownContentType" xml:space="preserve" approved="yes">
+				<source>Unknown content type:</source>
+			<target state="translated">Tip de conținut necunoscut:</target></trans-unit>
+      <trans-unit id="pageIDInteger" xml:space="preserve" approved="yes">
+				<source>Syntax error: Parameter pageID must be a valid integer.</source>
+			<target state="translated">Eroare de sintaxă: Parametrul pageID trebuie să fie un număr întreg valid.</target></trans-unit>
+      <trans-unit id="noPermission" xml:space="preserve" approved="yes">
+				<source>Access denied: No permission to template records.</source>
+			<target state="translated">Acces interzis: nu dispuneți de permisii pentru template.</target></trans-unit>
+      <trans-unit id="typeIDMissing" xml:space="preserve" approved="yes">
+				<source>Syntax error: At least parameter typeID has to be supplied.</source>
+			<target state="translated">Eroare de sintaxă: Cel puțin parametrul typeID trebuie să fie trimis.</target></trans-unit>
+      <trans-unit id="js.label_lines" xml:space="preserve" approved="yes">
+				<source>lines</source>
+			<target state="translated">linii</target></trans-unit>
+      <trans-unit id="js.label_documentModified" xml:space="preserve" approved="yes">
+				<source>document has been modified</source>
+			<target state="translated">documentul a fost modificat</target></trans-unit>
+      <trans-unit id="js.label_errorWhileSaving" xml:space="preserve" approved="yes">
+				<source>An error occurred while saving the data.</source>
+			<target state="translated">O eroare a intervenit în timpul salvării datelor.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

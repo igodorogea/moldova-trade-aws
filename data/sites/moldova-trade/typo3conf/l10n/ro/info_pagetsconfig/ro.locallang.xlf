@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ro" datatype="plaintext" original="messages" date="2015-07-29T23:22:01Z" product-name="info_pagetsconfig">
+		<header/>
+		<body>
+			<trans-unit id="editThisColumn" approved="yes">
+				<source>Edit the field '%s' for all listed pages</source>
+				<target state="translated">Editare câmp '%s'</target>
+			</trans-unit>
+			<trans-unit id="editTSconfig" approved="yes">
+				<source>Edit TSconfig for this page</source>
+				<target state="translated">Editare TSconfig pentru pagina curentă</target>
+			</trans-unit>
+			<trans-unit id="editTSconfig_all" approved="yes">
+				<source>Edit TSconfig for all shown pages</source>
+				<target state="translated">Editare TSconfig pentru toate paginile</target>
+			</trans-unit>
+			<trans-unit id="editTSconfig_default" approved="yes">
+				<source>Default Configuration from TYPO3_CONF_VARS</source>
+				<target state="translated">Cionfiguraţia implicită pentru TYPO3_CONF_VARS</target>
+			</trans-unit>
+			<trans-unit id="mod_pagetsconfig" approved="yes">
+				<source>Page TSconfig</source>
+				<target state="translated">Pagina TSconfig</target>
+			</trans-unit>
+			<trans-unit id="sort_alphabetic">
+				<source>Sort alphabetically:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tsconf_configFields" approved="yes">
+				<source>View TSconfig fields content</source>
+				<target state="translated">Vezi conţinut câmpuri TSconfig</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_0" approved="yes">
+				<source>All</source>
+				<target state="translated">Tot</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1" approved="yes">
+				<source>Module key ('mod') with overruling user settings</source>
+				<target state="translated">Modul ('mod') cu setări pentru utilizatori</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1a" approved="yes">
+				<source>Module: Web&gt;Page</source>
+				<target state="translated">Modul: Web&gt;Pagini</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1b" approved="yes">
+				<source>Module: Web&gt;View</source>
+				<target state="translated">Modul: Web&gt;Vizualizare</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1c" approved="yes">
+				<source>Module: Web&gt;Modules</source>
+				<target state="translated">Modul: Web&gt;Module</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1d" approved="yes">
+				<source>Module: Web&gt;List</source>
+				<target state="translated">Modul: Web&gt;Listă</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1e" approved="yes">
+				<source>Module: Web&gt;Info</source>
+				<target state="translated">Modul: Web&gt;Info</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1f" approved="yes">
+				<source>Module: Web&gt;Func</source>
+				<target state="translated">Modul: Web&gt;Func</target>
+			</trans-unit>
+			<trans-unit id="tsconf_parts_1g" approved="yes">
+				<source>Module: Web&gt;Template</source>
+				<target state="translated">Modul: Web&gt;Şablon</target>
+			</trans-unit>
+			<trans-unit id="tsconf_title" approved="yes">
+				<source>Page TSconfig</source>
+				<target state="translated">Pagina TSconfig</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

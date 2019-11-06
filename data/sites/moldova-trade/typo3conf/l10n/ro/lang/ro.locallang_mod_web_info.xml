@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="depth_0">Această pagină</label>
+			<label index="depth_1">Primul nivel</label>
+			<label index="depth_2">Al doilea nivel</label>
+			<label index="depth_3">Al treilea nivel</label>
+			<label index="mlang_labels_tabdescr">Modulul Web&gt;Info este axat pe informațiile statistice ale paginilor. Acestea includ statistici legate de accesarea paginilor și schimbarea log-urilor care vă vor permite cunoașterea istoriei paginii. De asemenea, puteți vedea numărul de înregistrări din fiecare pagină ca și setările existente, prezentate într-o structură arborescenta clasică.</label>
+			<label index="mlang_labels_tablabel">Informații referitoare la pagină, ex. statistica accesărilor, schimbare log-uri, contorizare înregistrări</label>
+			<label index="mlang_tabs_tab">Informații</label>
+			<label index="title">Informații pagină</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="content.description">Zona de știri dedicată editorilor. HTML este dezactivat, însă, puteți folosi linii noi.</label>
+			<label index=".description">Știrile de sistem sunt afișate pe pagina de conectare TYPO3, permițând administratorilor să informeze editorii despre evenimente și mentenanțe viitoare.</label>
+			<label index="hidden.description">Această opțiune va ascunde știrile ce sunt afișate pe ecranul de conectare.</label>
+			<label index="title.description">Introduceți titlul unei știri.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

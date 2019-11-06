@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="clip_deleteMarked">Sterge elementele marcate</label>
+			<label index="clip_deleteMarkedWarning">Sunteti sigur ca vreti sa stergeti toate inregistrarile marcate din tabel '%s'?</label>
+			<label index="clip_duplicates">Marcheaza dublurile</label>
+			<label index="clip_editMarked">Editeaza elementele marcate</label>
+			<label index="clip_markRecords">Marcheaza tot/Nu marcheaza</label>
+			<label index="clip_paste">Copie in continutul clipboard-ului</label>
+			<label index="clip_pasteAfter">Adaugă copie după: Conținutul clipboard-ului este inserat după această înregistrare</label>
+			<label index="clip_pasteInto">Copie in: Continutul clipboard-ului este inserat in aceasta pagina</label>
+			<label index="clip_selectMarked">Transfera toate inregistrarile selectate in clipboard</label>
+			<label index="contractView">Listează toate tabelele</label>
+			<label index="defaultLanguage">Implicit</label>
+			<label index="delete">Sterge inregistrarea</label>
+			<label index="deleteWarning">Sunteți sigur că vreți să ștergeți această înregistrare?</label>
+			<label index="displayVersions">Afișează versiunile</label>
+			<label index="edit">Editeaza inregistrare</label>
+			<label index="editPage">Editeaza pagina</label>
+			<label index="editShownColumns">Editează toate câmpurile înregistrărilor</label>
+			<label index="editThisColumn">Editează câmpul '%s' înregistrării</label>
+			<label index="expandView">Listează numai acest tabel</label>
+			<label index="hide">Ascunde inregistrarea</label>
+			<label index="hidePage">Ascunde pagina</label>
+			<label index="history">Afiseaza istoria schimbarilor / Anuleaza</label>
+			<label index="largeControl">Vedere de ansamblu</label>
+			<label index="localization">Vedere localizare</label>
+			<label index="Localize">Tradu în:</label>
+			<label index="missingTcaColumnsMessage">Atenție: Nu a fost găsit nici un câmp pentru tabela "%s". $TCA['%s']['columns'] nu conține definițiile necesare.</label>
+			<label index="missingTcaColumnsMessageTitle">Definiția TCA lipsește</label>
+			<label index="mlang_labels_tabdescr">Modulul Web&gt;List oferă accesul detaliat la datele salvate pe pagină.</label>
+			<label index="mlang_labels_tablabel">Lista înregistrărilor din baza de date</label>
+			<label index="mlang_tabs_tab">Listă</label>
+			<label index="moveDown">Muta mai jos in lista</label>
+			<label index="move_page">Muta pagina</label>
+			<label index="move_record">Repozitioneaza elementul de continut</label>
+			<label index="moveUp">Muta mai sus in lista</label>
+			<label index="multipleLanguages">Toate limbile</label>
+			<label index="new">Inregistrare noua</label>
+			<label index="newPage">Creeaza pagina noua dupa aceasta pagina</label>
+			<label index="newRecord">Creeaza inregistrare noua dupa aceasta inregistrare</label>
+			<label index="newRecordGeneral">Creeaza inregistrare noua</label>
+			<label index="nextLevel">Muta aceasta pagina pentru a fi o subpagina a celei de mai sus</label>
+			<label index="pageIndicator">Pagina %1$s din %2$d</label>
+			<label index="permissions">Stabilește permisiuni pentru pagina</label>
+			<label index="prevLevel">Muta aceasta pagina dupa pagina curenta</label>
+			<label index="rangeIndicator">Înregistrări %1$d - %2$d</label>
+			<label index="restore">Restaurare înregistrare</label>
+			<label index="restoreWarning">Sunteți sigur că doriți să restaurați această înregistrare ștearsă?</label>
+			<label index="showClipBoard">Arată clipboard-ul</label>
+			<label index="showInfo">Afiseaza informatii</label>
+			<label index="unHide">Arata inregistrarea</label>
+			<label index="unHidePage">Arata pagina</label>
+			<label index="viewRecords">Afișare înregistrări pentru</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

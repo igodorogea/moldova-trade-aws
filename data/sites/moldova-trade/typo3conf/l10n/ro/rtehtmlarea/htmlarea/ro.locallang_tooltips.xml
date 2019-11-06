@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="about">Despre editor</label>
+			<label index="bold">Îngroşat</label>
+			<label index="copy">Copie selecţia</label>
+			<label index="createlink">Inserează link web</label>
+			<label index="cut">Şterge selecţia</label>
+			<label index="fontname">Font</label>
+			<label index="fontsize">Mărime font</label>
+			<label index="forecolor">Culoare font</label>
+			<label index="formatblock">Tip paragraf</label>
+			<label index="hilitecolor">Culoare decor</label>
+			<label index="htmlmode">Ascunde/Arată sursa HTML</label>
+			<label index="indent">Măreşte indentare</label>
+			<label index="inserthorizontalrule">Linie orizontală</label>
+			<label index="insertimage">Inserează/modifică imagine</label>
+			<label index="insertorderedlist">Listă ordonată</label>
+			<label index="inserttable">Inserează tabel</label>
+			<label index="insertunorderedlist">Listă bullet</label>
+			<label index="italic">Italic</label>
+			<label index="justifycenter">Justificat centrat</label>
+			<label index="justifyfull">Justificat</label>
+			<label index="justifyleft">Justificat la stânga</label>
+			<label index="justifyright">Justificat la dreapta</label>
+			<label index="killword">Şterge taguri MSOffice</label>
+			<label index="lefttoright">Direcţie de la stânga la dreapta</label>
+			<label index="outdent">Scade indentare</label>
+			<label index="paste">Lipeşte din clipboard</label>
+			<label index="popupeditor">Măreşte editorul</label>
+			<label index="print">Printează document</label>
+			<label index="redo">Refă ultima acţiune</label>
+			<label index="removeformat">Şterge formatarea</label>
+			<label index="righttoleft">Direcţie de la dreapta la stânga</label>
+			<label index="showhelp">Ajutor în folosirea editorului</label>
+			<label index="strikethrough">Tăiat</label>
+			<label index="subscript">Subscript</label>
+			<label index="superscript">Superscript</label>
+			<label index="textindicator">Stil curent</label>
+			<label index="underline">Subliniat</label>
+			<label index="undo">Anulează ultima acţiune</label>
+			<label index="unlink">Şterge link</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

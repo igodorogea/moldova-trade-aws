@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+      <label index="mlang_labels_tablabel">Vizualizare log</label>
+      <label index="mlang_labels_tabdescr">Permite acces la întreg logul de backend Typo3 &lt;br/&gt;&lt;em&gt;Acces pentru utilizatori 'admin' doar&lt;/em&gt;</label>
+      <label index="mlang_tabs_tab">Log</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

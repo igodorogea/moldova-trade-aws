@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="cssstyledcontent.config.removePositionTypes">Șterge tipurile de poziție nefolosite: Opțiunea va dezactiva pozițiile pentru imagini ce nu au sens pentru elementele cu CType=image (va păstra doar opțiunile "deasupra centrat", "centrat" și "dreapta")</label>
+			<label index="cssstyledcontent.config.setPageTSconfig">Setare configurație PageTSconfig implicită: Dacă o să folosiți această extensie implicit cu această bază de date atunci setați această opțiune. Astfel nu trebuie să setați o configurație PageTSconfig pentru fiecare pagină în parte, ceea ce va trebui să faceți dacă această opțiune nu este activă.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

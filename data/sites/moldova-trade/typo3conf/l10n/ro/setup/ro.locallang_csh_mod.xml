@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index=".alttitle">Utilizator &gt; Modul Setări</label>
+			<label index=".description">Modulul de Setări permite utilizatorului backend să customizeze TYPO3 aşa cum doreşte. Aceasta include limba de backend şi numeroase alte interfeţe şi dotări.</label>
+			<label index=".details">&lt;b&gt;Notă [Pentru administratori]:&lt;/b&gt; Aceste setări pot fi suprascrise sau pot avea valorile lor implicite modificate de către "TSconfig Utilizator". Pentru a afla mai multe, consultați linkul de mai jos!</label>
+			<label index="_.image">EXT:setup/cshimages/setup8.png,
+EXT:setup/cshimages/setup7.png</label>
+			<label index=".image_descr"/>
+			<label index="language.alttitle">Selecţie limbă Backend</label>
+			<label index="language.description">Selectaţi limba pe care doriţi să o folosiţi în Backend. Majoritatea părţilor din backendul TYPO3 sunt traduse şi în alte limbi (pentru utilizatori standard).</label>
+			<label index="language.details"/>
+			<label index="_language.image">EXT:setup/cshimages/lang.png</label>
+			<label index="language.image_descr">TYPO3 este tradus în aproape 40 de limbi. Engleza este limba implicită și toate etichetele trebuie să fie mai întâi disponibile în Engleză. Această captură ecran vă afișează traduceri pentru Ebraică, Arabă, Rusă și Chineză.</label>
+			<label index="option_beUser_email.alttitle">Adresa dumneavoastră de email</label>
+			<label index="option_beUser_email.description">Asigurați-vă că această adresă de email este validă. Aceasta este adresa email de contact ce va fi folosită de administrator pentru a vă contacta. De asemenea, e posibil ca sistemul TYPO3 să aibă nevoie să vă trimită mesaje la anumite intervalede timp iar această adresă va fi folosită pentru comunicare.</label>
+			<label index="option_beUser_realName.alttitle">Numele real</label>
+			<label index="option_beUser_realName.description">Introduceţi numele dumneavoastră aici.</label>
+			<label index="option_condensedMode.alttitle">Mod condensat</label>
+			<label index="option_condensedMode.description"/>
+			<label index="_option_condensedMode.image">EXT:setup/cshimages/setup3.png,
+EXT:setup/cshimages/setup4.png</label>
+			<label index="option_condensedMode.image_descr"/>
+			<label index="_option_condensedMode.seeAlso">_MOD_user_setup:option_condensedMode</label>
+			<label index="option_copyLevels.alttitle">Copiere recursivă</label>
+			<label index="option_copyLevels.description">Când copiaţi o pagină, subpaginile pot fi şi ele copiate dacă selectaţi această opţiune. Numărul setat aici defineşte numărul de nivele aflate sub pagină care să fie incluse în operaţia de copiere.</label>
+			<label index="option_disableCMlayers.alttitle"/>
+			<label index="option_disableCMlayers.description"/>
+			<label index="_option_disableCMlayers.image">EXT:setup/cshimages/setup9.png</label>
+			<label index="option_disableCMlayers.image_descr"/>
+			<label index="option_edit_docModuleUpload.alttitle">Permite upload fişiere în formularele de editare</label>
+			<label index="option_edit_docModuleUpload.description"/>
+			<label index="option_edit_docModuleUpload.details"/>
+			<label index="_option_edit_docModuleUpload.image">EXT:setup/cshimages/setup9.png</label>
+			<label index="option_edit_RTE.alttitle">Permite Editorul Rich Text</label>
+			<label index="option_edit_RTE.description">Dacă e setat, Editorul Rich Text din TYPO3 va fi disponibil. În mod normal această opţiune ar trebui setată.</label>
+			<label index="option_edit_RTE.details"/>
+			<label index="_option_edit_RTE.image">EXT:setup/cshimages/lang.png</label>
+			<label index="option_edit_showFieldHelp.alttitle">Mod Ajutor Dependent de Context (CSH)</label>
+			<label index="option_edit_showFieldHelp.description"/>
+			<label index="option_edit_showFieldHelp.details"/>
+			<label index="_option_edit_showFieldHelp.image">EXT:setup/cshimages/setup11.png,
+EXT:setup/cshimages/setup10.png</label>
+			<label index="option_edit_showFieldHelp.image_descr"/>
+			<label index="option_edit_wideDocument.alttitle">Decor document larg</label>
+			<label index="option_edit_wideDocument.description">Setarea acestei opţiuni va lărgi mărimea implicită a formularelor de editare a conţinutului cu aproape 50%</label>
+			<label index="option_emailMeAtLogin.alttitle">Notificare la conectare</label>
+			<label index="option_emailMeAtLogin.description">Dacă setați această opțiune atunci veți primi un email de la TYPO3 de fiecare dată cînd dumneavoastră (sau altcineva) se va conecta folosind utilizatorul dumneavoastră. Veți dori probabil să primiți astfel de "notificări" ca și măsură de securitate pentru a vedea dacă altcineva vă știe parola și vă folosește contul.</label>
+			<label index="option_enableFlashUploader.alttitle">Activează încărcarea folosind Flash</label>
+			<label index="option_enableFlashUploader.description"/>
+			<label index="option_enableInstallTool.alttitle">Control administrator pentru reactivarea accesului la Unealta de Instalare</label>
+			<label index="option_enableInstallTool.description">Apăsând pe acest buton, un fișier typo3conf/ENABLE_INSTALL_TOOL va fi creat (sau șters dacă există deja). Fișierul va debloca accesul la Unealta de Instalare (o parolă este încă necesară pentru acces!) și va fi șters automat peste 1 oră.</label>
+			<label index="option_flexibleTextareas_MaxHeight.alttitle">Înălțimea maximă a zonelor de text flexibile</label>
+			<label index="option_flexibleTextareas_MaxHeight.description">Definire înălțime maximă a zonelor de text flexibile (în pixeli).</label>
+			<label index="option_helpText.alttitle"/>
+			<label index="option_helpText.description"/>
+			<label index="option_maxTitleLen.alttitle">Lungime maximă text</label>
+			<label index="option_maxTitleLen.description"/>
+			<label index="_option_maxTitleLen.image">EXT:setup/cshimages/setup9.png</label>
+			<label index="option_maxTitleLen.image_descr"/>
+			<label index="option_newPasswordAgain.alttitle">Schimbare parolă, confirmaţi</label>
+			<label index="option_newPasswordAgain.description">Confirmaţi noua parolă reintroducând-o, exact ca mai sus. Dacă cele două parole nu se potrivesc, parola nu va fi schimbată.</label>
+			<label index="option_newPassword.alttitle">Schimbă parola</label>
+			<label index="option_newPassword.description">Introduceţi o nouă parolă pentru cont:</label>
+			<label index="option_newPassword.details">Parolele sunt criptate la un hash MD5 când părăsiţi câmpul, astfel că parola nu e trimisă ca şi text.</label>
+			<label index="option_noMenuMode.alttitle">Mod navigare</label>
+			<label index="option_noMenuMode.description">Setare moduri alternative meniu backend</label>
+			<label index="option_noMenuMode.details"/>
+			<label index="_option_noMenuMode.image">EXT:setup/cshimages/setup1.png,
+EXT:setup/cshimages/setup2.png</label>
+			<label index="option_noMenuMode.image_descr"/>
+			<label index="_option_noMenuMode.seeAlso">_MOD_user_setup:option_condensedMode</label>
+			<label index="option_recursiveDelete.alttitle">Ştergere recursivă</label>
+			<label index="option_recursiveDelete.description"/>
+			<label index="option_recursiveDelete.details"/>
+			<label index="option_resizeTextareas.alttitle">Permite redimensionarea zonelor de text</label>
+			<label index="option_resizeTextareas.description">Această opțiune vă permite redimensionarea zonelor de text. Veți vedea cursorul de redimensionare de îndată ce îl deplasați la marginile zonei de text.</label>
+			<label index="option_resizeTextareas_Flexible.alttitle">Zonele de text sunt flexibile</label>
+			<label index="option_resizeTextareas_Flexible.description">Această opțiune va face ca zonele de text să fie flexibile. Înălțimea lor va crește automat în timp ce scrieți text. Limita este valoarea maximă setată (implicit are valoarea 600).</label>
+			<label index="option_resizeTextareas_MaxHeight.alttitle">Înălțimea maximă a zonelor de text</label>
+			<label index="option_resizeTextareas_MaxHeight.description">Definire înălțime maximă a zonelor de text (în pixeli).</label>
+			<label index="option_showHiddenFilesAndFolders.description">Definește dacă doriți să listați toate fișierele și directoarele ascunse (al căror nume începe cu .) în lista de fișiere și în navigatorul de elemente.</label>
+			<label index="option_showHiddenFilesAndFolders.details">Implicit fișierele ascunse nu sunt afișate în lista de fișiere, în navigatorul de elemente și în selectorul de link-uri. Această opțiune vă permite să afișați și fișierele ascunse.</label>
+			<label index="option_showThumbs.alttitle">Arată thumbnailuri implicit</label>
+			<label index="option_showThumbs.description"/>
+			<label index="_option_showThumbs.image">EXT:setup/cshimages/setup9.png</label>
+			<label index="option_showThumbs.image_descr"/>
+			<label index="option_startModule.alttitle">Modul start</label>
+			<label index="option_startModule.description">Vă permite selectarea modulului care să fie apelat când vă logaţi în partea de Backend. Modulul implicit este "Despre module".</label>
+			<label index="reset.alttitle">Resetare toate valorile la cele implicite</label>
+			<label index="reset.description">Dacă selectaţi această opţiune toate setările din acest modul vor fi resetate la cele implicite.</label>
+			<label index="reset.details">Aceasta nu se aplică numelui de utilizator, adresei de email şi parolei.</label>
+			<label index="_.seeAlso">Configurare TSConfig utilizator | http://docs.typo3.org/typo3cms/TSconfigReference/UserTsconfig/Setup/Index.html</label>
+			<label index="simuser.alttitle">Simulare utilizator backend</label>
+			<label index="simuser.description">Această opțiune permite utilizatorilor "admin" să modifice setările pentru un alt utilizator backend din sistem.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

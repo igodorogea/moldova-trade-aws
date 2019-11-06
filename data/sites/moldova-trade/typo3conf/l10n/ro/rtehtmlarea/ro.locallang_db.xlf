@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ro" datatype="plaintext" original="messages" date="2015-08-20T00:50:40Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="tx_rtehtmlarea_acronym" approved="yes">
+				<source>Abbreviation</source>
+				<target state="translated">Acronim</target>
+			</trans-unit>
+			<trans-unit id="tx_rtehtmlarea_acronym.acronym" approved="yes">
+				<source>Abbreviation</source>
+				<target state="translated">Acronim</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="tx_rtehtmlarea_acronym.static_lang_isocode">
+				<source>Language of the abbreviation</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tx_rtehtmlarea_acronym.term" approved="yes">
+				<source>Term</source>
+				<target state="translated">Termen</target>
+			</trans-unit>
+			<trans-unit id="tx_rtehtmlarea_acronym.type" approved="yes">
+				<source>Type</source>
+				<target state="translated">Tip</target>
+			</trans-unit>
+			<trans-unit id="tx_rtehtmlarea_acronym.type.I.0" approved="yes">
+				<source>Acronym</source>
+				<target state="translated">Acronim</target>
+			</trans-unit>
+			<trans-unit id="tx_rtehtmlarea_acronym.type.I.1" approved="yes">
+				<source>Abbreviation</source>
+				<target state="translated">Abreviere</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

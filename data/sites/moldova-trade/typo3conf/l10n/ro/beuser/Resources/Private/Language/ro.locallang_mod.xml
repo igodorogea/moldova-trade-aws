@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="mlang_labels_tabdescr">Administrare utilizatori backend</label>
+			<label index="mlang_labels_tablabel">Utilizatori Backend</label>
+			<label index="mlang_tabs_tab">Utilizatori Backend</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

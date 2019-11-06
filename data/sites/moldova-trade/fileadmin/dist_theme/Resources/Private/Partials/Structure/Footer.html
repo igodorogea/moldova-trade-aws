@@ -1,0 +1,37 @@
+<footer>
+	<section class="footer-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4">
+					<f:cObject typoscriptObjectPath="lib.dynamicContentSlide" data="{pageUid: '{data.uid}', colPos: '10'}" />
+				</div>
+				<div class="col-sm-4">
+					<f:cObject typoscriptObjectPath="lib.dynamicContentSlide" data="{pageUid: '{data.uid}', colPos: '11'}" />
+				</div>
+				<div class="col-sm-4">
+					<f:cObject typoscriptObjectPath="lib.dynamicContentSlide" data="{pageUid: '{data.uid}', colPos: '12'}" />
+
+					<form id="newsletter_form" class="newsletter-form" method="POST" action="#newsletter_form">
+						<div class="input-group input-group-lg">
+							<input type="email" class="form-control" name="email" placeholder="youremail@domain.com">
+							<span class="input-group-btn">
+								<button class="btn btn-primary" type="button"><i class="fa fa-spinner fa-spin"></i><span>Subscribe</span>
+								</button>
+							</span>
+						</div>
+						<div class="alert"></div>
+					</form>
+
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="meta-section">
+		<div class="container">
+			<div class="copyright" role="contentinfo">
+				<f:format.html>{themeCopyrightText}</f:format.html>
+			</div>
+		</div>
+	</section>
+</footer>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="documentation.actions">Acțiuni</label>
+			<label index="documentation.actions.download">Descarcă document</label>
+			<label index="documentation_manager">Gestionarul de documentație</label>
+			<label index="documentation.shortcut">Cheie de extensie</label>
+			<label index="documentation.title">Titlul</label>
+			<label index="documentation.type">Tip</label>
+			<label index="downloadDocumentation">Descarcă documentația</label>
+			<label index="downloadFailed">Descărcarea a eșuat</label>
+			<label index="downloadFailedDetails">Documentația pentru "%s" nu a putut fi descărcată din cauza erorii: %s (%d).</label>
+			<label index="downloadFailedNoArchive">Nici o arhivă a documentației nu a putut fi găsită pe docs.typo3.org.</label>
+			<label index="downloadSucceeded">Documentația generată a fost descărcată cu succes.</label>
+			<label index="searchTemplate.submitButton">Începe</label>
+			<label index="showDocumentation">Afisează documentația</label>
+			<label index="tx_documentation_domain_model_document">Document</label>
+			<label index="tx_documentation_domain_model_document.extension_key">Cheie extensie</label>
+			<label index="tx_documentation_domain_model_documentformat">Format document</label>
+			<label index="tx_documentation_domain_model_documentformat.format">Format</label>
+			<label index="tx_documentation_domain_model_documentformat.format.title">Afisează documentația ca %s</label>
+			<label index="tx_documentation_domain_model_documentformat.path">Cale</label>
+			<label index="tx_documentation_domain_model_document.package_key">Cheie pachet</label>
+			<label index="tx_documentation_domain_model_document.title">Titlul</label>
+			<label index="tx_documentation_domain_model_documenttranslation">Traducere document</label>
+			<label index="tx_documentation_domain_model_documenttranslation.actions">Acțiuni</label>
+			<label index="tx_documentation_domain_model_documenttranslation.description">Descriere</label>
+			<label index="tx_documentation_domain_model_documenttranslation.language">Limbă</label>
+			<label index="tx_documentation_domain_model_document.translations">Traduceri</label>
+			<label index="tx_documentation_domain_model_documenttranslation.title">Titlul</label>
+			<label index="tx_documentation_domain_model_document.version">Versiune</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

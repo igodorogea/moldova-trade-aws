@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="Bottom:">Jos:</label>
+			<label index="Bottom padding">Padding jos</label>
+			<label index="image_url"/>
+			<label index="image_url_invalid"/>
+			<label index="Left padding">Padding stânga</label>
+			<label index="Right:">Dreapta:</label>
+			<label index="Right padding">Padding dreapta</label>
+			<label index="Top:">Sus:</label>
+			<label index="Top padding">Padding sus</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

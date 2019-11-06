@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="query_from_action_loaded">Query din acțiunea "%s" încărcat!</label>
+			<label index="query_loaded">Query "%s" încărcat!</label>
+			<label index="query_notsaved">Nici un query nu a fost salvat!</label>
+			<label index="query_removed">Query "%s" șters!</label>
+			<label index="query_saved">Query salvat!</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="activeOnly">Doar activi</label>
+			<label index="activeSessions">Sesiuni active</label>
+			<label index="admin">Administrator</label>
+			<label index="adminOnly">Doar administratori</label>
+			<label index="allowedLanguages">Limitează la limbile</label>
+			<label index="any">Oricare</label>
+			<label index="backendUserAdministration">Administrare utilizatori Backend</label>
+			<label index="backendUserGroup">Grup de utilizatori</label>
+			<label index="backendUserGroups">Membru al grupurilor</label>
+			<label index="backendUserListing">Listă utilizatori Backend</label>
+			<label index="backendUsers">Utilizatori Backend</label>
+			<label index="both">Ambele</label>
+			<label index="changeToMode">[schimbare fără retur la conexiunea actuală]</label>
+			<label index="compare">Compară</label>
+			<label index="compareBackendUsers">Compară utilizatori Backend</label>
+			<label index="compareUserList">Compară lista de utilizatori</label>
+			<label index="confirm">Sunteți sigur că doriți să ștergeți acest utilizator Backend %s ?</label>
+			<label index="dbMountPoints">Puncte acces Arborescență</label>
+			<label index="disable">Dezactivează</label>
+			<label index="disableIpLock">Dezactivează blocarea cu IP</label>
+			<label index="email">Email</label>
+			<label index="endDateAndTime">Stop</label>
+			<label index="endSession">Termină sesiunea</label>
+			<label index="fileMounts">Puncte acces fișiere</label>
+			<label index="filter">Filtru</label>
+			<label index="inactiveOnly">Doar inactivi</label>
+			<label index="ipAddress">Adresă IP</label>
+			<label index="lastAccess">Ultimul acces</label>
+			<label index="lastLogin">Ultima conectare</label>
+			<label index="loginBefore">Deja conectat</label>
+			<label index="never">Niciodată</label>
+			<label index="neverLoggedIn">Niciodată conectat</label>
+			<label index="no">Nu</label>
+			<label index="normalUserOnly">Doar utilizatori normali</label>
+			<label index="onlineUsers">Utilizatori conectați</label>
+			<label index="reallyLogout">Deconectare finală</label>
+			<label index="realName">Nume real</label>
+			<label index="section.compare">Compară</label>
+			<label index="startDateAndTime">Start</label>
+			<label index="status">Statut</label>
+			<label index="switchBackMode">[schimbare cu retur la conexiunea actuală]</label>
+			<label index="userName">Nume utilizator</label>
+			<label index="users">Utilizatori</label>
+			<label index="yes">Da</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

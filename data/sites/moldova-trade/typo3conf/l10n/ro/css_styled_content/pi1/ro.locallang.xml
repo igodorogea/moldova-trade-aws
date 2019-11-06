@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="eIcon.bodytext">Editează conţinut text</label>
+			<label index="eIcon.bullets">Editează listă</label>
+			<label index="eIcon.caption">Editează text imagine</label>
+			<label index="eIcon.caption_position">Editați alinierea titlului imaginii</label>
+			<label index="eIcon.filelist">Editează listă fişiere</label>
+			<label index="eIcon.form">Editează formular email</label>
+			<label index="eIcon.header">Editează header</label>
+			<label index="eIcon.html">Editează conţinut HTML</label>
+			<label index="eIcon.images">Editează imagini</label>
+			<label index="eIcon.login">Editează element logare</label>
+			<label index="eIcon.menuSitemap">Editează harte sit / meniu</label>
+			<label index="eIcon.multimedia">Editează element multimedia</label>
+			<label index="eIcon.page">Pagina:</label>
+			<label index="eIcon.plugin">Schimbă/configurează plugin</label>
+			<label index="eIcon.recordList">Editează listă înregistrări</label>
+			<label index="eIcon.search">Editează element căutare</label>
+			<label index="eIcon.subheader">Editează subheader</label>
+			<label index="eIcon.table">Editează tabel</label>
+			<label index="label.toTop">Mergi sus</label>
+			<label index="login.login">Login</label>
+			<label index="login.logout">Logout</label>
+			<label index="login.password">Parolă:</label>
+			<label index="login.username">Utilizator:</label>
+			<label index="menu.bypassNavigation">Mascați blocul de navigare</label>
+			<label index="search.emptySearch">Ne pare rău, căutarea nu a returnat nici un rezultat!</label>
+			<label index="search.headersKeywords">Cuvinte cheie şi titluri</label>
+			<label index="search.pageContent">Conţinut pagină</label>
+			<label index="search.resultRange">Rezultat cautare: ###RANGELOW###-###RANGEHIGH### din ###TOTAL###</label>
+			<label index="search.searchButton">Caută acum!</label>
+			<label index="search.searchIn">Caută în:</label>
+			<label index="search.searchResultNext">Următorul</label>
+			<label index="search.searchResultPrev">Precedentul</label>
+			<label index="search.searchWord">Cuvânt căutare:</label>
+			<label index="uploads.icon">Pictograma linkului spre fișierul %s</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

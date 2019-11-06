@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="bigControlPanel">Vedere extinsă</label>
+			<label index="c_file">Nume fisier</label>
+			<label index="c_fileext">Tip</label>
+			<label index="clipBoard">Arata buffer-ul pentru zona ecran</label>
+			<label index="clip_deleteMarked">Sterge fisiere marcate</label>
+			<label index="clip_deleteMarkedWarning">Sunteti sigur a vreti sa stergeti toate fisierele marcate din acest fisier?</label>
+			<label index="clip_markRecords">Marcheaza tot/Nu marca nimic</label>
+			<label index="clip_paste">Copiere in continutul buffer-ului pentru zona ecran</label>
+			<label index="clip_pasteInto">Copiere in: Continutul buffer-ului pentru zona ecran a fost inserat in acest fisier</label>
+			<label index="clip_selectMarked">Sterge fisiere marcate</label>
+			<label index="c__REF_">Ref</label>
+			<label index="c_rw">Citire/Scriere</label>
+			<label index="c_size">Marime</label>
+			<label index="c_tstamp">Data</label>
+			<label index="displayThumbs">Afiseaza thumbnails</label>
+			<label index="files">Fisiere</label>
+			<label index="folderNotFoundMessage">Directorul "%s" nu poate fi accesat. Încercare de folosire a directorului părinte.</label>
+			<label index="folderNotFoundTitle">Directorul nu a fost găsit.</label>
+			<label index="localDriverFlexform_basePath">Calea de bază:</label>
+			<label index="localDriverFlexform_basePath_placeholder"/>
+			<label index="localDriverFlexform_caseSensitive">Folosește identificatori sensibili la mărimea caracterelor</label>
+			<label index="localDriverFlexform_pathType">Tip cale:</label>
+			<label index="localDriverFlexform_pathType_absolute">absolută</label>
+			<label index="localDriverFlexform_pathType_relative">relativă</label>
+			<label index="missingFolderPermissionsMessage"/>
+			<label index="missingFolderPermissionsTitle"/>
+			<label index="mlang_labels_tabdescr">Acesta este sistemul de administrare al fișierelor din TYPO3. Acest modul vă permite accesarea fișierelor disponibile. Folosind acest modul puteți încarca, copia, muta și sterge fișiere de pe server.</label>
+			<label index="mlang_labels_tablabel">Listare fișiere în director</label>
+			<label index="mlang_tabs_tab">Listă de fișiere</label>
+			<label index="paramError">Eroare parametru:</label>
+			<label index="read">R</label>
+			<label index="recycler">Restaurator</label>
+			<label index="role_folder_recycler">Restaurator</label>
+			<label index="role_folder_temporary">Fișiere temporare</label>
+			<label index="storageNotBrowsableMessage">Încercați să accesați un director dintr-un depozit ce nu este navigabil.</label>
+			<label index="storageNotBrowsableTitle">Acces refuzat.</label>
+			<label index="targetNoDir">Ținta nu a fost un director!</label>
+			<label index="temp">Fișiere temporare</label>
+			<label index="write">W</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

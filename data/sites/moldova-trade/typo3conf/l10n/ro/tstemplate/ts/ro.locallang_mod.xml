@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="mlang_labels_tabdescr">Aici administraţi templateurile TypoScript ce configurează modul de afişare al paginii în frontend. Modulul oferă unelte specializate precum un browser de obiecte, editor de constante şi editare directă a templateului.&lt;br/&gt;&lt;em&gt;Acces doar pentru utilizatori 'admin'&lt;/em&gt;</label>
+			<label index="mlang_labels_tablabel">Unelte template</label>
+			<label index="mlang_tabs_tab">Template</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ro" datatype="plaintext" original="messages" date="2015-08-20T00:50:33Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Abbreviation" xml:space="preserve" approved="yes">
+				<source>Abbreviation</source>
+			<target state="translated">Abreviere</target></trans-unit>
+			<trans-unit id="Abridged_term" xml:space="preserve">
+				<source>Abridged Term:</source>
+			<target/></trans-unit>
+			<trans-unit id="Acronym" xml:space="preserve" approved="yes">
+				<source>Acronym</source>
+			<target state="translated">Acronim</target></trans-unit>
+			<trans-unit id="Cancel" xml:space="preserve" approved="yes">
+				<source>Cancel</source>
+			<target state="translated">Anulare</target></trans-unit>
+			<trans-unit id="Defined_term" xml:space="preserve" approved="yes">
+				<source>Pre-defined Acronyms and Abbreviations</source>
+			<target state="translated">Acronime şi abrevieri predefinite</target></trans-unit>
+			<trans-unit id="Delete" xml:space="preserve" approved="yes">
+				<source>Delete</source>
+			<target state="translated">Şterge</target></trans-unit>
+			<trans-unit id="Language" xml:space="preserve">
+				<source>Language:</source>
+			<target/></trans-unit>
+			<trans-unit id="OK" xml:space="preserve" approved="yes">
+				<source>OK</source>
+			<target state="translated">Ok</target></trans-unit>
+			<trans-unit id="Select_a_language" xml:space="preserve">
+				<source>Select a language</source>
+			<target/></trans-unit>
+			<trans-unit id="Select_an_acronym" xml:space="preserve" approved="yes">
+				<source>Select an acronym or abbreviation</source>
+			<target state="translated">Selectaţi un acronim sau o abreviere</target></trans-unit>
+			<trans-unit id="Select_a_term" xml:space="preserve" approved="yes">
+				<source>Select a term</source>
+			<target state="translated">Selectaţi un termen</target></trans-unit>
+			<trans-unit id="Term" xml:space="preserve" approved="yes">
+				<source>Term:</source>
+			<target state="translated">Termen:</target></trans-unit>
+			<trans-unit id="Term_to_abridge" xml:space="preserve">
+				<source>Term to abridge</source>
+			<target/></trans-unit>
+			<trans-unit id="Type_of_abridged_form" xml:space="preserve" approved="yes">
+				<source>Acronym or Abbreviation?</source>
+			<target state="translated">Acronim sau abreviere?</target></trans-unit>
+			<trans-unit id="Unabridged_term" xml:space="preserve">
+				<source>Unabridged Term:</source>
+			<target/></trans-unit>
+			<trans-unit id="Use_this_term" xml:space="preserve" approved="yes">
+				<source>Use this term:</source>
+			<target state="translated">Folosiţi acest termen:</target></trans-unit>
+			<trans-unit id="Use_this_term_explain" xml:space="preserve" approved="yes">
+				<source>Associate this term to the current selection</source>
+			<target state="translated">Asociaţi acest termen selecţiei curente</target></trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="action-items">Elemente acţiune</label>
+			<label index="component-items">Elemente componentă</label>
+			<label index="detail">Detalii</label>
+			<label index="frame-frame1">Cadru cu decor gri</label>
+			<label index="frame-frame2">Cadru cu decor galben</label>
+			<label index="important">Important</label>
+			<label index="name-of-person">Nume al persoanei</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

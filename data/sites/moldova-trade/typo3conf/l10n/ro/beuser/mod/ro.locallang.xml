@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+      <label index="pageTitle">Titlul paginii:</label>
+      <label index="path">Cale:</label>
+      <label index="user">Utilizator:</label>
+      <label index="group">Grup:</label>
+      <label index="everybody">Toată lumea:</label>
+      <label index="thisUser">Acest utilizator:</label>
+      <label index="mainGroup">Grup principal:</label>
+      <label index="editLock">Blocarea modificărilor previne toate editările</label>
+      <label index="noReadAccess">Utilizatorul nu dispune de acces-citire la aceste pagini din arborescență!</label>
+      <label index="live">[LIVE]</label>
+      <label index="defaultDraft">[Proiect implicit]</label>
+      <label index="notAccessible">ATENȚIE: Arborescența spațiului de lucru nu e accesibilă:</label>
+      <label index="compareUserSettings">Compară setările utilizatorilor</label>
+      <label index="listUsersOnline">Listează utilizatorii conectați</label>
+      <label index="backendUserAdministration">Administrare utilizatori Backend</label>
+      <label index="filemounts">Dosare fișiere</label>
+      <label index="webmounts">Arborescență pagini</label>
+      <label index="defaultUploadPath">Calea implicită pentru încărcare</label>
+      <label index="mainUserGroup">Grup principal de utilizatori</label>
+      <label index="memberOfGroups">Membru al grupului</label>
+      <label index="pageTypesAccess">Acces la tipurile de pagini</label>
+      <label index="selectTables">Alege tabelele</label>
+      <label index="modifyTables">Modifică tabele</label>
+      <label index="nonExcludeFields">Câmpuri non-exclude</label>
+      <label index="explicitAllowDeny">Autorizare/Refuzare explicită</label>
+      <label index="limitToLanguages">Limitează la limbile</label>
+      <label index="workspacePermissions">Permisii spațiu de lucru</label>
+      <label index="workspaceMembership">Adeziune la spațiul de lucru</label>
+      <label index="customOptions">Opțiuni personalizate</label>
+      <label index="modules">Module</label>
+      <label index="tsconfig">Configurație TS</label>
+      <label index="tsconfigHL">Configurație TS de nivel superior</label>
+      <label index="nonMountedReadablePages">Pagini vizibile non-mounted</label>
+      <label index="backToOverview">&lt; Înapoi la prezentarea generală</label>
+      <label index="userInfo">Info utilizator</label>
+      <label index="groupBy">Grupare după:</label>
+      <label index="update">Actualizare</label>
+      <label index="groupAndCompareUsers">Grupează si compară utilizatori</label>
+      <label index="tooManyUsers">Au fost prea mulți utilizatori:</label>
+      <label index="canOnlyDisplay">Acest instrument poate afișa doar următorul număr de utilizatori la un moment dat:</label>
+      <label index="newUser">Creează utilizator nou</label>
+      <label index="usernames">Nume de utilizatori:</label>
+      <label index="switchUserTo">Simulare utilizator:</label>
+      <label index="changeToMode">[schimbare fără retur la conexiunea actuală]</label>
+      <label index="switchBackMode">[schimbare cu retur la conexiunea actuală]</label>
+      <label index="cachedGrouplistsUpdated">(Toate listele de grupuri din cache au fost reîmprostătate.)</label>
+      <label index="result">Rezultat</label>
+      <label index="showInformation">Arată informația</label>
+      <label index="sureToDelete">Sunteți sigur că doriți să ștergeți acest element?</label>
+      <label index="delete">Șterge(!)</label>
+      <label index="timestamp">Dată și oră:</label>
+      <label index="host">Host:</label>
+      <label index="username">Nume utilizator:</label>
+      <label index="whoIsOnline">Cine este online</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

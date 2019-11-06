@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="sys_note">Notiță internă</label>
+			<label index="sys_note.category.I.1">Instrucțiuni</label>
+			<label index="sys_note.category.I.2">Template</label>
+			<label index="sys_note.category.I.3">Notițe</label>
+			<label index="sys_note.category.I.4">De-făcut</label>
+			<label index="sys_note.message">Mesaj:</label>
+			<label index="sys_note.personal">Personal:</label>
+			<label index="sys_note.subject"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

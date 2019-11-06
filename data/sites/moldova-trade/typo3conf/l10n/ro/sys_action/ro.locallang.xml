@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="action_BEu_db_mount">Puncte de start din arborele de pagini</label>
+			<label index="action_BEu_email">Adresă email</label>
+			<label index="action_BEu_hidden">Anulează utilizator</label>
+			<label index="action_BEu_password">Parola</label>
+			<label index="action_BEu_realName">Nume</label>
+			<label index="action_BEu_usergroups">Membru al grupurilor</label>
+			<label index="action_BEu_username">Nume login</label>
+			<label index="action_Create">Creează utilizator Backend</label>
+			<label index="action_createQuery"/>
+			<label index="action_download_file">Click aici pentru a downloada informaţiile exportate</label>
+			<label index="action_editQuery"/>
+			<label index="action_emptyQuery"/>
+			<label index="action_error">Eroare acţiune!</label>
+			<label index="action_error-access"/>
+			<label index="action_error-not-found"/>
+			<label index="action_lowlevelMissing"/>
+			<label index="action_not-found"/>
+			<label index="action_not-found-description"/>
+			<label index="action_notReady">Eroare: Configurarea acţiunii nu este terminată.</label>
+			<label index="action_noType">Eroare: Acţiunea nu a avut nici un tip definit.</label>
+			<label index="action_t1_legend_configuration"/>
+			<label index="action_t1_legend_generalFields"/>
+			<label index="action_t1_listOfUsers">Listă utilizatori backend</label>
+			<label index="action_t2_result">Rezultatul interogării</label>
+			<label index="action_t4_edit">Selectează înregistrarea pe care doriţi să o editaţi:</label>
+			<label index="action_toolbaritem"/>
+			<label index="action_Update">Modifică utilizator Backend</label>
+			<label index="description"/>
+			<label index="edit-sys_action"/>
+			<label index="error-password-empty"/>
+			<label index="error-username-empty"/>
+			<label index="error-wrong-email"/>
+			<label index="error-wrong-user"/>
+			<label index="new-sys_action"/>
+			<label index="success"/>
+			<label index="success-user-created"/>
+			<label index="success-user-updated"/>
+			<label index="sys_action"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="alt">Text alternativ</label>
+			<label index="border">Bordură</label>
+			<label index="bytes">bytes</label>
+			<label index="class">Stil</label>
+			<label index="currentImage">Imagine curentă</label>
+			<label index="dragDropImage">Drag'n'Drop</label>
+			<label index="float">Float</label>
+			<label index="folderTree">Arbore directoare</label>
+			<label index="height">Înălţime</label>
+			<label index="images">Imagini</label>
+			<label index="left">Stânga</label>
+			<label index="magicImage">Nouă imagine Magic</label>
+			<label index="magicImage_msg"/>
+			<label index="margin_lr">Margine stânga/dreapta</label>
+			<label index="margin_tb">Margine sus/jos</label>
+			<label index="nonFloating">Fără float</label>
+			<label index="notSet">Nesetat</label>
+			<label index="padding_bottom">Padding jos</label>
+			<label index="padding_left">Padding stânga</label>
+			<label index="padding_right">Padding dreapta</label>
+			<label index="padding_top">Padding sus</label>
+			<label index="path">Cale</label>
+			<label index="pixels">pixeli</label>
+			<label index="plainImage">Nouă imagine Plain</label>
+			<label index="plainImage_msg"/>
+			<label index="right">Dreapta</label>
+			<label index="title">Titlu</label>
+			<label index="update">Update</label>
+			<label index="uploadImage">Upload imagine</label>
+			<label index="width">Lungime</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

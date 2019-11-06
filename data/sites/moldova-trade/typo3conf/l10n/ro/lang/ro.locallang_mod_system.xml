@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="mlang_labels_tablabel">Observare stare sistem și adaptare parametrii sistem</label>
+			<label index="mlang_tabs_tab">Sistem</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

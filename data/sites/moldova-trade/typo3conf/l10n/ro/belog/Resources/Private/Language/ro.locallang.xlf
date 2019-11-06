@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ro" datatype="plaintext" original="messages" date="2015-07-29T22:35:43Z" product-name="belog">
+		<header/>
+		<body>
+			<trans-unit id="100" approved="yes">
+				<source>100</source>
+				<target state="translated">100</target>
+			</trans-unit>
+			<trans-unit id="1000" approved="yes">
+				<source>1000</source>
+				<target state="translated">1000</target>
+			</trans-unit>
+			<trans-unit id="20" approved="yes">
+				<source>20</source>
+				<target state="translated">20</target>
+			</trans-unit>
+			<trans-unit id="200" approved="yes">
+				<source>200</source>
+				<target state="translated">200</target>
+			</trans-unit>
+			<trans-unit id="50" approved="yes">
+				<source>50</source>
+				<target state="translated">50</target>
+			</trans-unit>
+			<trans-unit id="500" approved="yes">
+				<source>500</source>
+				<target state="translated">500</target>
+			</trans-unit>
+			<trans-unit id="action" approved="yes">
+				<source>Action:</source>
+				<target state="translated">Acțiune:</target>
+			</trans-unit>
+			<trans-unit id="action_1_1" approved="yes">
+				<source>Insert</source>
+				<target state="translated">Inserare</target>
+			</trans-unit>
+			<trans-unit id="action_1_2" approved="yes">
+				<source>Update</source>
+				<target state="translated">Actualizare</target>
+			</trans-unit>
+			<trans-unit id="action_1_3" approved="yes">
+				<source>Delete</source>
+				<target state="translated">Ștergere</target>
+			</trans-unit>
+			<trans-unit id="action_1_4" approved="yes">
+				<source>Move</source>
+				<target state="translated">Mută</target>
+			</trans-unit>
+			<trans-unit id="action_1_5" approved="yes">
+				<source>Check</source>
+				<target state="translated">Verificare</target>
+			</trans-unit>
+			<trans-unit id="action_2_1">
+				<source>Upload</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="action_2_2">
+				<source>Copy</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="action_2_3" approved="yes">
+				<source>Move</source>
+				<target state="translated">Mută</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="action_2_4" approved="yes">
+				<source>Delete</source>
+				<target state="translated">Ștergere</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="action_2_5">
+				<source>Rename</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="action_254_1">
+				<source>Change</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="action_255_1">
+				<source>LOGIN</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="action_255_2">
+				<source>LOGOUT</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="action_255_3">
+				<source>ATTEMPT</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="action_2_6">
+				<source>New</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="action_2_7">
+				<source>Unzip</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="action_2_8">
+				<source>New file</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="action_2_9">
+				<source>Edit</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="action_3_1">
+				<source>Clear&amp;nbsp;Cache</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="actionAll" approved="yes">
+				<source>All</source>
+				<target state="translated">Toate</target>
+			</trans-unit>
+			<trans-unit id="actionCache" approved="yes">
+				<source>Cache</source>
+				<target state="translated">Cache</target>
+			</trans-unit>
+			<trans-unit id="actionDatabase" approved="yes">
+				<source>Database</source>
+				<target state="translated">Baza de date</target>
+			</trans-unit>
+			<trans-unit id="actionErrors" approved="yes">
+				<source>Errors</source>
+				<target state="translated">Erori</target>
+			</trans-unit>
+			<trans-unit id="actionFile" approved="yes">
+				<source>File</source>
+				<target state="translated">Fișier</target>
+			</trans-unit>
+			<trans-unit id="actionLogin" approved="yes">
+				<source>Login</source>
+				<target state="translated">Login</target>
+			</trans-unit>
+			<trans-unit id="actionSettings" approved="yes">
+				<source>Settings</source>
+				<target state="translated">Setări</target>
+			</trans-unit>
+			<trans-unit id="adminLog" approved="yes">
+				<source>Administration log</source>
+				<target state="translated">Administrare jurnal log</target>
+			</trans-unit>
+			<trans-unit id="allUsers" approved="yes">
+				<source>[All users]</source>
+				<target state="translated">[Toți utilizatorii]</target>
+			</trans-unit>
+			<trans-unit id="any" approved="yes">
+				<source>[Any]</source>
+				<target state="translated">[Oricare]</target>
+			</trans-unit>
+			<trans-unit id="changesInFields" approved="yes">
+				<source>Changes in fields: %s.</source>
+				<target state="translated">Modificări în cîmpurile: %s</target>
+			</trans-unit>
+			<trans-unit id="chLog_l_action" approved="no">
+				<source>Action</source>
+				<target state="needs-translation">Acțiune:</target>
+				<note>85% 100% 100%</note>
+			</trans-unit>
+			<trans-unit id="chLog_l_details">
+				<source>Details</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="chLog_l_error">
+				<source>E</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="chLog_l_table">
+				<source>Table</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="chLog_l_time" approved="no">
+				<source>Time</source>
+				<target state="needs-translation">Oră:</target>
+				<note>80% 100% 100%</note>
+			</trans-unit>
+			<trans-unit id="chLog_l_types">
+				<source>Type</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="chLog_l_user" approved="no">
+				<source>User</source>
+				<target state="needs-translation">Utilizator:</target>
+				<note>80% 100% 100%</note>
+			</trans-unit>
+			<trans-unit id="chLog_menuDepth">
+				<source>Depth:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="chLog_menuTime" approved="no">
+				<source>Time</source>
+				<target state="needs-translation">Oră:</target>
+				<note>80% 100% 100%</note>
+			</trans-unit>
+			<trans-unit id="chLog_menuUsers" approved="no">
+				<source>Users</source>
+				<target state="needs-translation">Utilizatori:</target>
+				<note>83% 100% 100%</note>
+			</trans-unit>
+			<trans-unit id="chLog_time_0" approved="yes">
+				<source>This week</source>
+				<target state="translated">Această săptămînă</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="chLog_time_1" approved="yes">
+				<source>Last week</source>
+				<target state="translated">Săptămînă trecută</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="chLog_time_10" approved="yes">
+				<source>This month</source>
+				<target state="translated">Luna curentă</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="chLog_time_11" approved="yes">
+				<source>Last month</source>
+				<target state="translated">Ultima lună</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="chLog_time_12" approved="yes">
+				<source>Last 31 days</source>
+				<target state="translated">Ultimele 31 de zile</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="chLog_time_2" approved="yes">
+				<source>Last 7 days</source>
+				<target state="translated">Ultimele 7 zile</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="chLog_time_20" approved="yes">
+				<source>No limit</source>
+				<target state="translated">Nici o limită</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="chLog_title">
+				<source>Admin Changelog</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="chLog_users_0" approved="no">
+				<source>All users</source>
+				<target state="needs-translation">[Toți utilizatorii]</target>
+				<note>81% 100% 100%</note>
+			</trans-unit>
+			<trans-unit id="chLog_users_-1" approved="yes">
+				<source>Self</source>
+				<target state="translated">Propriu</target>
+				<note>100%</note>
+			</trans-unit>
+			<trans-unit id="draft" approved="yes">
+				<source>Draft</source>
+				<target state="translated">Ciornă</target>
+			</trans-unit>
+			<trans-unit id="forNonPageRelatedActions" approved="yes">
+				<source>for NON-PAGE related actions</source>
+				<target state="translated">pentru acțiuni NON-PAGE</target>
+			</trans-unit>
+			<trans-unit id="forPage" approved="yes">
+				<source>for PAGE "%s" (UID: %s)</source>
+				<target state="translated">pentru PAGE "%s" (UID: %s)</target>
+			</trans-unit>
+			<trans-unit id="forRootLevel" approved="yes">
+				<source>for ROOT LEVEL</source>
+				<target state="translated">pentru ROOT LEVEL</target>
+			</trans-unit>
+			<trans-unit id="group" approved="yes">
+				<source>Group:</source>
+				<target state="translated">Grup:</target>
+			</trans-unit>
+			<trans-unit id="groupByPage" approved="yes">
+				<source>Group by page:</source>
+				<target state="translated">Grupat după pagină:</target>
+			</trans-unit>
+			<trans-unit id="last31Days" approved="yes">
+				<source>Last 31 days</source>
+				<target state="translated">Ultimele 31 de zile</target>
+			</trans-unit>
+			<trans-unit id="last7Days" approved="yes">
+				<source>Last 7 days</source>
+				<target state="translated">Ultimele 7 zile</target>
+			</trans-unit>
+			<trans-unit id="lastMonth" approved="yes">
+				<source>Last month</source>
+				<target state="translated">Ultima lună</target>
+			</trans-unit>
+			<trans-unit id="lastWeek" approved="yes">
+				<source>Last week</source>
+				<target state="translated">Săptămînă trecută</target>
+			</trans-unit>
+			<trans-unit id="live" approved="yes">
+				<source>LIVE</source>
+				<target state="translated">LIVE</target>
+			</trans-unit>
+			<trans-unit id="logForNonPageRelatedActionsOrRootLevelOrPage" approved="yes">
+				<source>Log %s from %s to %s</source>
+				<target state="translated">Jurnal %s de la %s la %s</target>
+			</trans-unit>
+			<trans-unit id="max" approved="yes">
+				<source>Max:</source>
+				<target state="translated">Max:</target>
+			</trans-unit>
+			<trans-unit id="msg_1_0_1" approved="yes">
+				<source>Referer host '%s' and server host '%s' did not match!</source>
+				<target state="translated">Referer-ul gazdă '%s' și serverul gazdă '%s' nu se potrivesc!</target>
+			</trans-unit>
+			<trans-unit id="msg_1_1_11" approved="yes">
+				<source>Attempt to insert record on page '%s' (%s) where this table, %s, is not allowed</source>
+				<target state="translated">Încercare de a insera conținut pe pagina '%s' (%s) unde această tabelă, %s, nu este permisă</target>
+			</trans-unit>
+			<trans-unit id="msg_1_1_12" approved="yes">
+				<source>Attempt to insert a record on page '%s' (%s) from table '%s' without permissions. Or non-existing page.</source>
+				<target state="translated">Încercare de a insera conținut pe pagina '%s' (%s) din tabela '%s' fără autorizare. Sau pagina nu există.</target>
+			</trans-unit>
+			<trans-unit id="msg_1_2_1" approved="yes">
+				<source>Attempt to modify table '%s' without permission</source>
+				<target state="translated">Încercare de modificare a tabelei '%s' fără autorizare</target>
+			</trans-unit>
+			<trans-unit id="msg_1_2_10" approved="yes">
+				<source>Record '%s' (%s) was updated.</source>
+				<target state="translated">Înregistrarea '%s' (%s) a fost actualizată.</target>
+			</trans-unit>
+			<trans-unit id="msg_1_2_12" approved="yes">
+				<source>MySQL error: '%s' (%s)</source>
+				<target state="translated">Eroare MySQL: '%s' (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_2_2" approved="yes">
+				<source>Attempt to modify record '%s' (%s) without permission. Or non-existing page.</source>
+				<target state="translated">Încercare de modificare a înregistrării '%s' (%s) fără autorizare. Sau pagina nu există.</target>
+			</trans-unit>
+			<trans-unit id="msg_1_4_1" approved="yes">
+				<source>Attempt to move record '%s' (%s) to after a non-existing record (uid=%s)</source>
+				<target state="translated">Încercare de a muta înregistrarea '%s' (%s) după o înregistrare ce nu există (uid=%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_4_10" approved="yes">
+				<source>Attempt to move page '%s' (%s) to inside of its own rootline (at page '%s' (%s))</source>
+				<target state="translated">Încercare de a muta pagina '%s' (%s) în interiorul propriei rădăcini (la pagina '%s' (%s))</target>
+			</trans-unit>
+			<trans-unit id="msg_1_4_11" approved="yes">
+				<source>Attempt to insert record on page '%s' (%s) where this table, %s, is not allowed</source>
+				<target state="translated">Încercare de a insera o înregistrare pe pagina '%s' (%s) unde această tabelă, %s, nu este permisă</target>
+			</trans-unit>
+			<trans-unit id="msg_1_4_12" approved="yes">
+				<source>Attempt to insert a record on page '%s' (%s) from table '%s' without permissions. Or non-existing page.</source>
+				<target state="translated">Încercare de a insera o înregistrare pe pagina '%s' (%s) din tabela '%s' fără autorizare. Sau pagina nu există.</target>
+			</trans-unit>
+			<trans-unit id="msg_1_4_13">
+				<source>Attempt to move record '%s' (%s) to after another record, although the table has no sorting row.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg_1_4_14">
+				<source>Attempt to move record '%s' (%s) without having permissions to do so</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg_1_4_2" approved="yes">
+				<source>Moved record '%s' (%s) to page '%s' (%s)</source>
+				<target state="translated">Înregistrarea '%s' (%s) a fost mutată la pagina '%s' (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_4_3" approved="yes">
+				<source>Moved record '%s' (%s) from page '%s' (%s)</source>
+				<target state="translated">Înregistrarea '%s' (%s) a fost mutată de pe pagina '%s' (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_4_4" approved="yes">
+				<source>Moved record '%s' (%s) on page '%s' (%s)</source>
+				<target state="translated">Înregistrarea '%s' (%s) a fost mutată pe pagina '%s' (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_5_1">
+				<source>You cannot change the 'doktype' of page '%s' to the desired value.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg_1_5_10">
+				<source>Could not delete file '%s' (does not exist). (%s)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg_1_5_11">
+				<source>Copying file '%s' failed!: No destination file (%s) possible!. (%s)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg_1_5_12">
+				<source>File extension '%s' is not allowed. (%s)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg_1_5_13">
+				<source>File size (%s) of file '%s' exceeds limit (%s). (%s)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg_1_5_14">
+				<source>The destination (%s) or the source file (%s) does not exist. (%s)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg_1_5_15">
+				<source>Copying to file '%s' failed! (%s)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg_1_5_16">
+				<source>Copying file '%s' failed!: The destination path (%s) may be write protected. Please make it write enabled!. (%s)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg_1_5_2">
+				<source>'doktype' of page '%s' could not be changed because the page contains records from disallowed tables; %s</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg_1_5_3">
+				<source>Too few items in the list of values. (%s)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg_2_9_1">
+				<source>File saved to '%s', bytes: %s, MD5: %s </source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="noLimit" approved="yes">
+				<source>No limit</source>
+				<target state="translated">Nici o limită</target>
+			</trans-unit>
+			<trans-unit id="overview" approved="yes">
+				<source>Overview</source>
+				<target state="translated">Vedere de ansamblu</target>
+			</trans-unit>
+			<trans-unit id="pagenameWithUID" approved="yes">
+				<source>%s" [UID: %s]</source>
+				<target state="translated">%s" [UID: %s]</target>
+			</trans-unit>
+			<trans-unit id="self" approved="yes">
+				<source>Self</source>
+				<target state="translated">Propriu</target>
+			</trans-unit>
+			<trans-unit id="set" approved="yes">
+				<source>Set</source>
+				<target state="translated">Fixare</target>
+			</trans-unit>
+			<trans-unit id="showHistory" approved="yes">
+				<source>Show History</source>
+				<target state="translated">Arată istoricul</target>
+			</trans-unit>
+			<trans-unit id="thisMonth" approved="yes">
+				<source>This month</source>
+				<target state="translated">Luna curentă</target>
+			</trans-unit>
+			<trans-unit id="thisWeek" approved="yes">
+				<source>This week</source>
+				<target state="translated">Această săptămînă</target>
+			</trans-unit>
+			<trans-unit id="time" approved="yes">
+				<source>Time:</source>
+				<target state="translated">Oră:</target>
+			</trans-unit>
+			<trans-unit id="timeInfo" approved="yes">
+				<source>These pages have log messages from %s to %s</source>
+				<target state="translated">Aceste pagini au mesaje de jurnal de la %s la %s</target>
+			</trans-unit>
+			<trans-unit id="type_1" approved="yes">
+				<source>DB</source>
+				<target state="translated">BDD</target>
+			</trans-unit>
+			<trans-unit id="type_2">
+				<source>FILE</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="type_254">
+				<source>SETTING</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="type_255">
+				<source>LOGIN</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="type_3">
+				<source>CACHE</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="user" approved="yes">
+				<source>User:</source>
+				<target state="translated">Utilizator:</target>
+			</trans-unit>
+			<trans-unit id="userDefined" approved="yes">
+				<source>User defined</source>
+				<target state="translated">Definit de utilizator</target>
+			</trans-unit>
+			<trans-unit id="userGroup" approved="yes">
+				<source>Group:</source>
+				<target state="translated">Grup:</target>
+			</trans-unit>
+			<trans-unit id="users" approved="yes">
+				<source>Users:</source>
+				<target state="translated">Utilizatori:</target>
+			</trans-unit>
+			<trans-unit id="workspace" approved="yes">
+				<source>Workspace:</source>
+				<target state="translated">Spațiu de lucru:</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

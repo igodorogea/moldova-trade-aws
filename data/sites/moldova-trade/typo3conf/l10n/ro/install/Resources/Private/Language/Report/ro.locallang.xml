@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="environment.status.message.error"/>
+			<label index="environment.status.message.info"/>
+			<label index="environment.status.message.notice"/>
+			<label index="environment.status.message.ok"/>
+			<label index="environment.status.message.warning"/>
+			<label index="environment.status.title">Verificare sistem</label>
+			<label index="environment.status.value">%1s Test(e)</label>
+			<label index="status_directoryDoesNotExist">%s nu există.</label>
+			<label index="status_directoryDoesNotExistCouldNotCreate">%s nu există și nu a putut fi creat.</label>
+			<label index="status_directoryMustBeWritable">%s trebuie să aibă drept de scriere.</label>
+			<label index="status_directoryShouldAlsoBeWritable">De asemenea, ar fi trebuit să aibă drept de scriere, dacă ar fi existat.</label>
+			<label index="status_directoryShouldBeWritable">%s ar trebui să aibă drept de scriere.</label>
+			<label index="status_fileSystem">Sistem de fișiere</label>
+			<label index="status_missingDirectory">Directorul necesar lipsește</label>
+			<label index="status_nonExistingDirectory">Directorul nu există</label>
+			<label index="status_recommendedWritableDirectory">Directorul ar trebui să aibă drept de scriere</label>
+			<label index="status_remainingUpdates">Actualizări restante</label>
+			<label index="status_requiredWritableDirectory">Directorul nu are drept de scriere</label>
+			<label index="status_writable">Drept de scriere</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

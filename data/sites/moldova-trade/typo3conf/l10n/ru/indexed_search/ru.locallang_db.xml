@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+      <label index="index_config">Конфигурация индексирования</label>
+      <label index="index_config.title">Название:</label>
+      <label index="index_config.description">Описание:</label>
+      <label index="index_config.type.I.1">Записи в базе данных</label>
+      <label index="index_config.type.I.2">Содержимое файлов в файловой системе сервера</label>
+      <label index="index_config.type.I.3">Внешние URL</label>
+      <label index="index_config.type.I.4">Дерево страниц</label>
+      <label index="index_config.type.I.5">Мета-конфигурация</label>
+      <label index="index_config.type">Тип:</label>
+      <label index="index_config.depth.I.0">Одна страница</label>
+      <label index="index_config.depth.I.1">1 уровень</label>
+      <label index="index_config.depth.I.2">2 уровня</label>
+      <label index="index_config.depth.I.3">3 уровня</label>
+      <label index="index_config.depth">Глубина:</label>
+      <label index="index_config.table2index">Индексируемые таблицы:</label>
+      <label index="index_config.alternative_source_pid">Альтернативный страницы:</label>
+      <label index="index_config.get_params">Строка параметер GET (с заменой ###UID###)</label>
+      <label index="index_config.fields">Поля (первое - название):</label>
+      <label index="index_config.externalUrl">Внешний URL (например, "http://www.domain.org/"):</label>
+      <label index="index_config.chashcalc">Вычислить cHash (принудительное кеширование)?</label>
+      <label index="index_config.filepath">Путь к директории с нужными файлами:</label>
+      <label index="index_config.extensions">Индексировать только файлы с расширениями: (список через запятую)</label>
+      <label index="index_config.url_deny">Введите части URL-адресов, которые следует отбросить при индексировании:</label>
+      <label index="index_config.records_indexonchange">Индексировать записи сразу после сохранения?:</label>
+      <label index="index_config.timer_next_indexing">Следующее индексирование запланировано на (если не указано, то сразу):</label>
+      <label index="index_config.timer_offset">Смещение от полуночи:</label>
+      <label index="index_config.timer_frequency">Как часто вы хотите производить переиндексацию?</label>
+      <label index="index_config.timer_frequency.I.0">Раз в час</label>
+      <label index="index_config.timer_frequency.I.1">Раз в сутки</label>
+      <label index="index_config.timer_frequency.I.2">Раз в неделю</label>
+      <label index="index_config.recordsbatch">Сколько записей в минуту индексировать (по умолчанию 100):</label>
+      <label index="index_config.set_id">ID сессии (если &gt; нуля, запущено задание индексирования):</label>
+      <label index="index_config.indexcfgs">Конфигурация индексирования:</label>
+      <label index="index_config.parameterCfgs">Комбинация параметров конфигурации ([tablename]:&amp;[param]=###UID###):</label>
+      <label index="index_config.rootpage">Корневая страница:</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

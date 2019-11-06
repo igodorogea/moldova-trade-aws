@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="property.error">Erori de validare pentru proprietatea "%s"</label>
+			<label index="validator.alphanumeric.notvalid">Textul introdus nu conține doar caractere alfanumerice.</label>
+			<label index="validator.datetime.notvalid">Textul introdus nu este un obiect DateTime valid. Am primit: '%s'</label>
+			<label index="validator.emailaddress.notvalid">Valoarea introdusă nu este o adresă email validă.</label>
+			<label index="validator.float.notvalid">Valoarea introdusă nu este un număr real valid.</label>
+			<label index="validator.genericobject.noobject">Valoarea nu este un obiect.</label>
+			<label index="validator.integer.notvalid">Valoarea introdusă nu este un număr întreg valid.</label>
+			<label index="validator.notempty.empty">Valoarea introdusă este vidă.</label>
+			<label index="validator.notempty.null">Valoarea introdusă este NULL.</label>
+			<label index="validator.number.notvalid">Valoarea introdusă nu este un număr valid.</label>
+			<label index="validator.numberrange.notvalid">Valoarea introdusă nu este un număr valid.</label>
+			<label index="validator.numberrange.range">Valoarea introdusă nu se află în intervalul valid (%s - %s).</label>
+			<label index="validator.regularexpression.empty">Expresia regulară este goală.</label>
+			<label index="validator.regularexpression.error">Expresia regulară '%s' conține erori.</label>
+			<label index="validator.regularexpression.nomatch">Valoarea introdusă nu respectă modelul.</label>
+			<label index="validator.stringlength.between">Lungimea textului introdus trebuie să aibă între %s și %s caractere.</label>
+			<label index="validator.stringlength.exceed">Lungimea textului introdus depăsește %s caractere.</label>
+			<label index="validator.stringlength.less">Lungimea textului introdus are mai puțin de %s caractere.</label>
+			<label index="validator.string.notvalid">Este necesar să introduceți un text valid.</label>
+			<label index="validator.text.notvalid">Valoarea introdusă nu este un text valid (ex: conține tag-uri HTML)</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ro" datatype="plaintext" original="messages" date="2015-08-20T00:31:13Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="age" approved="yes">
+				<source>Age</source>
+				<target state="translated">Vîrstă</target>
+			</trans-unit>
+			<trans-unit id="changes" approved="yes">
+				<source>Changelog</source>
+				<target state="translated">Schimbari asupra inregistrarii</target>
+			</trans-unit>
+			<trans-unit id="delete" approved="yes">
+				<source>delete</source>
+				<target state="translated">ştergere</target>
+			</trans-unit>
+			<trans-unit id="differenceMsg" approved="yes">
+				<source>In the Difference column you can see the changes at every modification of records. New changes are displayed in &lt;span class="diff-g"&gt;green colored text&lt;/span&gt; and the &lt;span class="diff-r"&gt;red colored text&lt;/span&gt; are the old values which were removed.</source>
+				<target state="translated">In coloana Diferente &lt;font color=green&gt;textul verde&lt;/font&gt; reprezinta noile valori, iar &lt;font color==red&gt;textul rosu reprezinta vechile valori ce au fost inlaturate.</target>
+			</trans-unit>
+			<trans-unit id="differences" approved="yes">
+				<source>Differences</source>
+				<target state="translated">Diferenţe</target>
+			</trans-unit>
+			<trans-unit id="elementHistory" approved="yes">
+				<source>You are currently seeing the history for an element.</source>
+				<target state="translated">Momentan vizualizaţi istoricul unui element.</target>
+			</trans-unit>
+			<trans-unit id="elementHistory_link" approved="yes">
+				<source>Show the full page history!</source>
+				<target state="translated">Afişează întregul istoric al paginii!</target>
+			</trans-unit>
+			<trans-unit id="externalChange" approved="yes">
+				<source>Intermediate external change!</source>
+				<target state="translated">Intermediaza schimbare externa</target>
+			</trans-unit>
+			<trans-unit id="fullView" approved="yes">
+				<source>Return to full view</source>
+				<target state="translated">Retur la vederea completă</target>
+			</trans-unit>
+			<trans-unit id="insert" approved="yes">
+				<source>insert</source>
+				<target state="translated">inserare</target>
+			</trans-unit>
+			<trans-unit id="linkRecordHistory" approved="yes">
+				<source>Limit history to this record</source>
+				<target state="translated">Limitează istoricul la această înregistrare</target>
+			</trans-unit>
+			<trans-unit id="markState" approved="yes">
+				<source>mark this change</source>
+				<target state="translated">marchează această modificare</target>
+			</trans-unit>
+			<trans-unit id="maxSteps" approved="yes">
+				<source>Show entries:</source>
+				<target state="translated">Afişează înregistrări:</target>
+			</trans-unit>
+			<trans-unit id="maxSteps_all" approved="yes">
+				<source>ALL</source>
+				<target state="translated">TOATE</target>
+			</trans-unit>
+			<trans-unit id="maxSteps_marked" approved="yes">
+				<source>marked</source>
+				<target state="translated">marcat</target>
+			</trans-unit>
+			<trans-unit id="mergedDifferences" approved="yes">
+				<source>Preview for Rollback</source>
+				<target state="translated">Previzualizare pentru Restaurare</target>
+			</trans-unit>
+			<trans-unit id="no" approved="yes">
+				<source>No</source>
+				<target state="translated">Nu</target>
+			</trans-unit>
+			<trans-unit id="noDifferences" approved="yes">
+				<source>There are no differences to the current page!</source>
+				<target state="translated">Nu există diferenţe faţă de pagina curentă!</target>
+			</trans-unit>
+			<trans-unit id="return" approved="yes">
+				<source>Return</source>
+				<target state="translated">Revenire</target>
+			</trans-unit>
+			<trans-unit id="returnLink" approved="yes">
+				<source>Click here to go back</source>
+				<target state="translated">Apasati aici pentru revenire la pagina anterioara</target>
+			</trans-unit>
+			<trans-unit id="revertAll" approved="yes">
+				<source>Rollback all changes shown</source>
+				<target state="translated">Restaurare toate modificările afişate</target>
+			</trans-unit>
+			<trans-unit id="revertField" approved="yes">
+				<source>Rollback single field</source>
+				<target state="translated">Refacere valori vechi ale acestui camp</target>
+			</trans-unit>
+			<trans-unit id="revertRecord" approved="yes">
+				<source>Rollback single record</source>
+				<target state="translated">Restaurare element</target>
+				<note>77%</note>
+			</trans-unit>
+			<trans-unit id="settings" approved="yes">
+				<source>Settings</source>
+				<target state="translated">Setări</target>
+			</trans-unit>
+			<trans-unit id="showDiff" approved="yes">
+				<source>Show differences:</source>
+				<target state="translated">Afişează diferenţe:</target>
+			</trans-unit>
+			<trans-unit id="showDiff_inline" approved="yes">
+				<source>Inline</source>
+				<target state="translated">Inline</target>
+			</trans-unit>
+			<trans-unit id="showDiff_no" approved="yes">
+				<source>No</source>
+				<target state="translated">Nu</target>
+			</trans-unit>
+			<trans-unit id="showInsertDelete" approved="yes">
+				<source>Show inserts/deletes of records:</source>
+				<target state="translated">Afişează inserările/ştergerile de elemente:</target>
+			</trans-unit>
+			<trans-unit id="showSubElements" approved="yes">
+				<source>Show sub elements:</source>
+				<target state="translated">Afişează subelemente:</target>
+			</trans-unit>
+			<trans-unit id="sumUpChanges" approved="yes">
+				<source>Rollback (Preview)</source>
+				<target state="translated">Acumuleaza schimbari pana in acest moment</target>
+			</trans-unit>
+			<trans-unit id="tableUid" approved="yes">
+				<source>Table:uid</source>
+				<target state="translated">Tabel/Uid</target>
+			</trans-unit>
+			<trans-unit id="time" approved="yes">
+				<source>Time</source>
+				<target state="translated">Timp</target>
+			</trans-unit>
+			<trans-unit id="title" approved="yes">
+				<source>Show record history</source>
+				<target state="translated">Arata istoria inregistrarilor</target>
+			</trans-unit>
+			<trans-unit id="unmarkState" approved="yes">
+				<source>unMark this change</source>
+				<target state="translated">demarchează această modificare</target>
+			</trans-unit>
+			<trans-unit id="user" approved="yes">
+				<source>User</source>
+				<target state="translated">Utilizator</target>
+			</trans-unit>
+			<trans-unit id="yes" approved="yes">
+				<source>Yes</source>
+				<target state="translated">Da</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

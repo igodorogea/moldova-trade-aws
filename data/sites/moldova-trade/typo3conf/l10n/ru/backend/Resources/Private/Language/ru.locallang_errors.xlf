@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ru" datatype="plaintext" original="messages" date="2015-07-29T22:32:38Z" product-name="backend">
+		<header/>
+		<body>
+			<trans-unit id="foldertreeview.noFolders.message">
+				<source>You do not have access to any folder. Please ask your administrator to fix access permissions for your account.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="None">
+					<target>У Вас нет доступа ко всем директориям. Пожалуйста сообщите сис. администратору для исправления доступа на Вашем аккаунте.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="foldertreeview.noFolders.title">
+				<source>No folders available</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="None">
+					<target>Нет доступных директорий</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="no_modules_registered">
+				<source>No modules have been registered. Please contact your system administrator.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="None">
+					<target>Нет зарегистрированных модулей. Пожалуйста свяжитесь с сис. администратором</target>
+				</alt-trans>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

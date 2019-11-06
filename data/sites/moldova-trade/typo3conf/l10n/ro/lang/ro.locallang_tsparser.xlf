@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ro" datatype="plaintext" original="messages" date="2015-08-20T00:31:14Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="tsparser_ext.make_copy" approved="yes">
+				<source>This will make a copy of the current file, '%s'. Do you really want that?</source>
+				<target state="translated">Aceasta va crea o copie a fișierului curent, '%s'. Sunteți sigur că doriți să faceți asta?</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

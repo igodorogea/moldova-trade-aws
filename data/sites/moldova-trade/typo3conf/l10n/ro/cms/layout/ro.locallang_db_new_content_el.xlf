@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ro" datatype="plaintext" original="messages" date="2015-07-29T22:48:04Z" product-name="cms">
+		<header/>
+		<body>
+			<trans-unit id="common" xml:space="preserve" approved="yes">
+				<source>Typical page content</source>
+			<target state="translated">Conţinut tipic</target></trans-unit>
+			<trans-unit id="common_bulletList_description" xml:space="preserve" approved="yes">
+				<source>A single bullet list.</source>
+			<target state="translated">O simplă listă</target></trans-unit>
+			<trans-unit id="common_bulletList_title" xml:space="preserve" approved="yes">
+				<source>Bullet List</source>
+			<target state="translated">Listă</target></trans-unit>
+			<trans-unit id="common_headerOnly_description" xml:space="preserve">
+				<source>Adds a header only.</source>
+			<target/></trans-unit>
+			<trans-unit id="common_headerOnly_title" xml:space="preserve">
+				<source>Header Only</source>
+			<target/></trans-unit>
+			<trans-unit id="common_imagesOnly_description" xml:space="preserve" approved="yes">
+				<source>Any number of images aligned in columns and rows with a caption.</source>
+			<target state="translated">Orice număr de imagini aliniate în coloane şi rânduri, având şi o descriere sub imagine.</target></trans-unit>
+			<trans-unit id="common_imagesOnly_title" xml:space="preserve" approved="yes">
+				<source>Images Only</source>
+			<target state="translated">Doar imagini</target></trans-unit>
+			<trans-unit id="common_regularText_description" xml:space="preserve" approved="yes">
+				<source>A regular text element with header and bodytext fields.</source>
+			<target state="translated">Text element standard cu header şi cîmpuri pentru conţinut</target></trans-unit>
+			<trans-unit id="common_regularText_title" xml:space="preserve" approved="yes">
+				<source>Regular Text Element</source>
+			<target state="translated">Element text standard</target></trans-unit>
+			<trans-unit id="common_table_description" xml:space="preserve" approved="yes">
+				<source>A simple table.</source>
+			<target state="translated">Tabel simplu cu până la 8 coloane</target></trans-unit>
+			<trans-unit id="common_table_title" xml:space="preserve" approved="yes">
+				<source>Table</source>
+			<target state="translated">Tabel</target></trans-unit>
+			<trans-unit id="common_textImage_description" xml:space="preserve" approved="yes">
+				<source>Any number of images wrapped right around a regular text element.</source>
+			<target state="translated">Orice număr de imagini afişate în jurul conţinutului text</target></trans-unit>
+			<trans-unit id="common_textImage_title" xml:space="preserve" approved="yes">
+				<source>Text &amp; Images</source>
+			<target state="translated">Text cu imagine</target></trans-unit>
+			<trans-unit id="forms" xml:space="preserve" approved="yes">
+				<source>Form elements</source>
+			<target state="translated">Element de tip formular</target></trans-unit>
+			<trans-unit id="forms_login_description" xml:space="preserve" approved="yes">
+				<source>Login/logout form used to password protect pages allowing only authorised website users and groups access.</source>
+			<target state="translated">Formular de logare/delogare utilizat pentru a proteja pagini cu parolă pentru a permite doar persoanelor şi grupurilor autorizate să aibă acces.</target></trans-unit>
+			<trans-unit id="forms_login_title" xml:space="preserve" approved="yes">
+				<source>Login Form</source>
+			<target state="translated">Form logare</target></trans-unit>
+			<trans-unit id="forms_mail_description" xml:space="preserve" approved="yes">
+				<source>A mail form allowing website users to submit responses.</source>
+			<target state="translated">Un formular de email ce permite vizitatorilor să trimită întrebări</target></trans-unit>
+			<trans-unit id="forms_mail_title" xml:space="preserve" approved="yes">
+				<source>Mail Form</source>
+			<target state="translated">Formular de email</target></trans-unit>
+			<trans-unit id="forms_search_description" xml:space="preserve" approved="yes">
+				<source>Draws a search form and the search result if a search is performed.</source>
+			<target state="translated">Afişează un formular de căutare şi rezultatele căutării, în cazul în care căutarea este efectuată</target></trans-unit>
+			<trans-unit id="forms_search_title" xml:space="preserve" approved="yes">
+				<source>Search Form</source>
+			<target state="translated">Formular de căutare</target></trans-unit>
+			<trans-unit id="plugins" xml:space="preserve" approved="yes">
+				<source>Plugins</source>
+			<target state="translated">Plugin-uri</target></trans-unit>
+			<trans-unit id="plugins_general_description" xml:space="preserve" approved="yes">
+				<source>Select this element type to insert a plugin which cannot be found amongst the options below.</source>
+			<target state="translated">Selectează acest tip de element pentru a insera un plugin care nu poate fi găsit în opţiunile de mai jos</target></trans-unit>
+			<trans-unit id="plugins_general_title" xml:space="preserve" approved="yes">
+				<source>General Plugin</source>
+			<target state="translated">Plugin general</target></trans-unit>
+			<trans-unit id="sel1" xml:space="preserve" approved="yes">
+				<source>Please select the type of page content you wish to create:</source>
+			<target state="translated">Alegeţi tipul de conţinut al paginii pe care doriţi să-l creaţi:</target></trans-unit>
+			<trans-unit id="sel2" xml:space="preserve" approved="yes">
+				<source>Now, click the position where you wish to place the element on the page:</source>
+			<target state="translated">Acum, click pe poziţia în care vreţi să plasaţi elementul în pagină:</target></trans-unit>
+			<trans-unit id="special" xml:space="preserve" approved="yes">
+				<source>Special elements</source>
+			<target state="translated">Elemente speciale</target></trans-unit>
+			<trans-unit id="special_divider_description" xml:space="preserve">
+				<source>This element inserts a visual divider, which is by default a horizontal line.</source>
+			<target/></trans-unit>
+			<trans-unit id="special_divider_title" xml:space="preserve">
+				<source>Divider</source>
+			<target/></trans-unit>
+			<trans-unit id="special_filelinks_description" xml:space="preserve" approved="yes">
+				<source>Makes a list of files for download.</source>
+			<target state="translated">Creează o listă de fişiere pentru download.</target></trans-unit>
+			<trans-unit id="special_filelinks_title" xml:space="preserve" approved="yes">
+				<source>File Links</source>
+			<target state="translated">Linkuri la fişiere</target></trans-unit>
+			<trans-unit id="special_media_description" xml:space="preserve">
+				<source>Inserts a media element like a Flash animation, audio file or video clip.</source>
+			<target/></trans-unit>
+			<trans-unit id="special_media_title" xml:space="preserve">
+				<source>Media</source>
+			<target/></trans-unit>
+			<trans-unit id="special_menus_description" xml:space="preserve">
+				<source>Creates a menu of pages, sitemap or other special menus.</source>
+			<target/></trans-unit>
+			<trans-unit id="special_menus_title" xml:space="preserve">
+				<source>Special Menus</source>
+			<target/></trans-unit>
+			<trans-unit id="special_multimedia_description" xml:space="preserve" approved="yes">
+				<source>Inserts a media element like a Flash animation, audio file or video clip.</source>
+			<target state="translated">Inserează un element media precum o animaţie Flash, fişier audio sau video.</target></trans-unit>
+			<trans-unit id="special_multimedia_title" xml:space="preserve" approved="yes">
+				<source>Multimedia</source>
+			<target state="translated">Multimedia</target></trans-unit>
+			<trans-unit id="special_plainHTML_description" xml:space="preserve" approved="yes">
+				<source>With this element you can insert raw HTML code on the page.</source>
+			<target state="translated">Cu acest element puteţi insera conţinut HTML neformatat direct în pagină</target></trans-unit>
+			<trans-unit id="special_plainHTML_title" xml:space="preserve" approved="yes">
+				<source>Plain HTML</source>
+			<target state="translated">Doar HTML</target></trans-unit>
+			<trans-unit id="special_qtobject_description" xml:space="preserve">
+				<source>Inserts a Quicktime element like a Quicktime audio file or video clip (*.mov).</source>
+			<target/></trans-unit>
+			<trans-unit id="special_qtobject_title" xml:space="preserve">
+				<source>Inserts a Quicktime element.</source>
+			<target/></trans-unit>
+			<trans-unit id="special_shortcut_description" xml:space="preserve">
+				<source>With this element you can embed other content elements.</source>
+			<target/></trans-unit>
+			<trans-unit id="special_shortcut_title" xml:space="preserve">
+				<source>Insert records</source>
+			<target/></trans-unit>
+			<trans-unit id="special_sitemap_title" xml:space="preserve" approved="yes">
+				<source>Sitemap</source>
+			<target state="translated">Hartă site</target></trans-unit>
+			<trans-unit id="special_swfobject_description" xml:space="preserve">
+				<source>Inserts Flash media element, audio file or video clip.</source>
+			<target/></trans-unit>
+			<trans-unit id="special_swfobject_title" xml:space="preserve">
+				<source>Inserts a Flash media element.</source>
+			<target/></trans-unit>
+		</body>
+	</file>
+</xliff>

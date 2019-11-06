@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="endText">Pot apărea diferenţe în ceea ce priveşte opţiunile disponibile în funcţie de site şi permisiuni</label>
+			<label index="introtext">Sistem de Management a Conţinutului Site-urilor</label>
+			<label index="introtext2">Scurtă descriere a modulelor disponibile:</label>
+			<label index="userInfo">Sînteţi conectat cu pseudonimul:</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="about">Despre</label>
+			<label index="and">și</label>
+			<label index="ascending">Crescător</label>
+			<label index="back">Înapoi</label>
+			<label index="byteSizeUnits">B| KB| MB| GB</label>
+			<label index="cancel">Anulare</label>
+			<label index="category">Categorie</label>
+			<label index="close">Închide</label>
+			<label index="delete">Șterge</label>
+			<label index="descending">Descrescător</label>
+			<label index="details">Detalii</label>
+			<label index="disable">Dezactivare</label>
+			<label index="disabled">Dezactivat</label>
+			<label index="down">Coboară</label>
+			<label index="download">Descărcare</label>
+			<label index="edit">Modificare</label>
+			<label index="editField">Modificare cîmp</label>
+			<label index="editFile">Modificare fișier</label>
+			<label index="enable">Activare</label>
+			<label index="enabled">Activat</label>
+			<label index="file">Fișier</label>
+			<label index="files">Fișiere</label>
+			<label index="first">Primul</label>
+			<label index="folder">Director</label>
+			<label index="from">De la</label>
+			<label index="go">Mergeți</label>
+			<label index="goTo">Mergeți la</label>
+			<label index="help">Ajutor</label>
+			<label index="item">Element</label>
+			<label index="items">Elemente</label>
+			<label index="last">Ultimul</label>
+			<label index="left">Stînga</label>
+			<label index="login">Conectare</label>
+			<label index="logout">Deconectare</label>
+			<label index="more">Mai mult</label>
+			<label index="move">Mutare</label>
+			<label index="new">Nou</label>
+			<label index="next">Următor</label>
+			<label index="no">Nu</label>
+			<label index="ok">OK</label>
+			<label index="open">Deschide</label>
+			<label index="page">Pagină</label>
+			<label index="pages">Pagini</label>
+			<label index="previous">Precedent</label>
+			<label index="print">Imprimare</label>
+			<label index="reload">Reîncărcare</label>
+			<label index="right">Dreapta</label>
+			<label index="save">Salvare</label>
+			<label index="saveAndClose">Salvare și închidere</label>
+			<label index="saveAndCloseDoc">Salvare și închidere document</label>
+			<label index="saveAndCreateNewDoc">Salvare și creare document nou</label>
+			<label index="saveAndViewPage">Salvare și vizualizare pagină</label>
+			<label index="search">Căutare</label>
+			<label index="send">Trimite</label>
+			<label index="start">Start</label>
+			<label index="stop">Stop</label>
+			<label index="submit">Trimite</label>
+			<label index="to">La</label>
+			<label index="tsRef">Referință TS</label>
+			<label index="up">Urcă</label>
+			<label index="upload">Încărcare</label>
+			<label index="user">Utilizator</label>
+			<label index="users">Utilizatori</label>
+			<label index="view">Vizualizare</label>
+			<label index="yes">Da</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="author.description">Introduceți numele dumneavoastră.</label>
+			<label index="category.description">Selectați o categorie ce descrie caracterul notiței.</label>
+			<label index=".description">Notă internă atașată unei pagini.</label>
+			<label index=".details">Un mod simplu de a atașa note informative unei pagini pentru probleme legate de backend. Folosiți-l pentru notificări, instrucțiuni, etc.</label>
+			<label index="email.description">Introduceți adresa dumneavoastră de email.</label>
+			<label index="message.description">Aceasta este notița.</label>
+			<label index="personal.description">Bifați dacă nu doriți ca alți utilizatori să vadă această notiță.</label>
+			<label index="_.seeAlso">pagini</label>
+			<label index="subject.description">Introduceți un titlu pentru notiță.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

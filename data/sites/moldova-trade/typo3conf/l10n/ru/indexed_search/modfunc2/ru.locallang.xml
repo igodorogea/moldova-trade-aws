@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+      <label index="title">Статистика индексирующего поиска</label>
+      <label index="title2">Список самых частых поисковых запросов</label>
+      <label index="noresults">Нет результатов</label>
+      <label index="all">Все</label>
+      <label index="last30days">Последние 30 дней</label>
+      <label index="last24hours">Последние 24 часа</label>
+      <label index="justthispage">Статистика только этой страницы</label>
+      <label index="allpages">Статистика всех страниц. Выберите страницу, содержащую форму индексирующего поиска, чтобы увидеть различную статистику</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

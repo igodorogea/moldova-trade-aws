@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="error-access"/>
+			<label index="error_header"/>
+			<label index="error_no-instance"/>
+			<label index="lCancel">Anuleaza</label>
+			<label index="lCreate">Creeaza</label>
+			<label index="lDelete">Sterge</label>
+			<label index="lDelete_warning">Esti sigur ca vrei sa stergi acest utilizator?</label>
+			<label index="lHomedir">Directorul principal</label>
+			<label index="listSeparator_Groups">__Grupuri:__</label>
+			<label index="lNone">[nimic]</label>
+			<label index="lReplyAddress">Adresa de raspuns este adresa ta de email</label>
+			<label index="lSelf">Individual</label>
+			<label index="lSendNew">Trimite mesaj</label>
+			<label index="lSendReply">Raspunde la mesaj</label>
+			<label index="lUpdate">Actualizeaza</label>
+			<label index="mlang_tabs_tab"/>
+			<label index="no-tasks"/>
+			<label index="taskcenter-about"/>
+			<label index="taskcenter-admin"/>
+			<label index="taskcenter-adminheader"/>
+			<label index="task_description"/>
+			<label index="task_overview"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

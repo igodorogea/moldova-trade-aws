@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="base.description"/>
+			<label index="_base.seeAlso"/>
+			<label index=".description"/>
+			<label index=".details"/>
+			<label index="hidden.description"/>
+			<label index="hidden.details"/>
+			<label index="_.image"/>
+			<label index="path.description"/>
+			<label index="path.details"/>
+			<label index="_path.image"/>
+			<label index="path.image_descr"/>
+			<label index="_path.seeAlso"/>
+			<label index="_.seeAlso"/>
+			<label index="title.description"/>
+			<label index="_title.image"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

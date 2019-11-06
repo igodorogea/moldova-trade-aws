@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="mlang_labels_tabdescr">Gestionează extensiile TYPO3 dintr-un depozit central. Extensiile TYPO3 includ plugin-uri, module, extensii ale claselor, cod de configurare, etc. &lt;br /&gt;&lt;em&gt;Acess doar pentru utilizatorii 'admin'!&lt;/em&gt;</label>
+			<label index="mlang_labels_tablabel">Gestionarul de extensii TYPO3</label>
+			<label index="mlang_tabs_tab">Manager de extensii</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

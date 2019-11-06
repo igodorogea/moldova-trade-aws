@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="autoSize">Mărime auto</label>
+			<label index="computer">Calculator</label>
+			<label index="customWidth">Mărime personalizată</label>
+			<label index="mobile">Mobil</label>
+			<label index="tablet">Tabletă</label>
+			<label index="width">Lățime</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="tsparser_ext.make_copy">Aceasta va crea o copie a fișierului curent, '%s'. Sunteți sigur că doriți să faceți asta?</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

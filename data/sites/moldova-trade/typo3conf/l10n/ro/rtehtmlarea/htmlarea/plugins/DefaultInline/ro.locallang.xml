@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="Bold-Tooltip">Îngroşat</label>
+			<label index="Italic-Tooltip">Italic</label>
+			<label index="StrikeThrough-Tooltip">Tăiat</label>
+			<label index="Subscript-Tooltip">Subscript</label>
+			<label index="Superscript-Tooltip">Superscript</label>
+			<label index="Underline-Tooltip">Subliniat</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

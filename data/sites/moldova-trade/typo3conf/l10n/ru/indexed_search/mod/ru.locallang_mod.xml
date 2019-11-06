@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+      <label index="mlang_labels_tablabel">Просмотр статистики механизма индексирования</label>
+      <label index="mlang_labels_tabdescr">Позволяет вам управлять настройками механизма индексирования, просматривать статистику индексированных страниц. Индексирование должно быть разрешено в TypoScript-шаблоне. &lt;br /&gt;&lt;em&gt;Доступ только для администраторов!&lt;/em&gt;</label>
+      <label index="mlang_tabs_tab">Индексирование</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

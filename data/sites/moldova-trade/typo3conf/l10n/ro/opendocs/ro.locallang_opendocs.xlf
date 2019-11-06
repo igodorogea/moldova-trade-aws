@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ro" datatype="plaintext" original="messages" date="2015-07-30T00:35:44Z" product-name="opendocs">
+		<header/>
+		<body>
+			<trans-unit id="no_docs" approved="yes">
+				<source>There are no open documents at this time.</source>
+				<target state="translated">Momentan, nu există documente deschise.</target>
+			</trans-unit>
+			<trans-unit id="open_docs" approved="yes">
+				<source>Open Documents</source>
+				<target state="translated">Documente deschise</target>
+			</trans-unit>
+			<trans-unit id="recent_docs" approved="yes">
+				<source>Recently Used Documents</source>
+				<target state="translated">Documente utilizate recent</target>
+			</trans-unit>
+			<trans-unit id="toolbaritem" approved="yes">
+				<source>Open and Recently Used Documents</source>
+				<target state="translated">Documente deschise și folosite recent</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="adminOptions">Tablou administrator</label>
+			<label index="adminPanelTitle">PANOU DE ADMINISTRARE TYPO3</label>
+			<label index="cache">Depoziteaza</label>
+			<label index="cache_cacheEntries">Depoziteaza datele</label>
+			<label index="cache_clearLevels">Curata nivelele</label>
+			<label index="cache_doit">Sterge depozitul acum!</label>
+			<label index="cache_noCache">Nu depozita</label>
+			<label index="div_Levels_0">Aceasta pagina</label>
+			<label index="div_Levels_1">Subnivel +1</label>
+			<label index="div_Levels_2">Subnivel +2</label>
+			<label index="edit">Editeaza</label>
+			<label index="edit_db_list">Modulul Web&gt;List</label>
+			<label index="edit_displayFieldIcons">Afiseaza Icoane Editare</label>
+			<label index="edit_displayIcons">Afiseaza Tablou Editare</label>
+			<label index="edit_editFormsOnPage">Editeaza formulare in pagina</label>
+			<label index="edit_editNoPopup">Fara pagini pop-up</label>
+			<label index="edit_editPageOverlay">Editare proprietăți ale paginii traduse</label>
+			<label index="edit_editPageProperties">Editare proprietăți pagină</label>
+			<label index="edit_move_page">Muta pagina</label>
+			<label index="edit_newContentElement">Creeaza un element nou de continut</label>
+			<label index="edit_newPage">Creeaza pagina noua</label>
+			<label index="edit_openAB">Deschide backend Typo3</label>
+			<label index="edit_recordHistory">Vezi istoria modificarii inregistrarilor</label>
+			<label index="info">Info</label>
+			<label index="info_countUserInt">Număr de obiecte USER_INT</label>
+			<label index="info_DocumentSize">Mărime document</label>
+			<label index="info_feuserId">Id FE-USER conectat</label>
+			<label index="info_feuserName">Nume FE-USER conectat</label>
+			<label index="info_groupList">Combinație grup Frontenduser</label>
+			<label index="info_id">Uid pagină</label>
+			<label index="info_imagesOnPage">Imagini pe această pagină</label>
+			<label index="info_imagesSize">Total mărime imagini</label>
+			<label index="info_noCache">Pagină în cache</label>
+			<label index="info_noCache_no">Nu</label>
+			<label index="info_noCache_yes">Da</label>
+			<label index="info_totalParsetime">Timp total de analiză</label>
+			<label index="info_type">Tip pagină</label>
+			<label index="p_delete">Sterge</label>
+			<label index="p_deleteConfirm">Sunteti sigur ca vreti sa stergeti aceasta inregistrare?</label>
+			<label index="p_editRecord">Editeaza inregistrare</label>
+			<label index="p_hide">Ascunde</label>
+			<label index="p_hideConfirm">Ascunzand o inregistrare o va face sa fie invizibila pe pagina de web si va trebui sa intrati in backend sau sa activati vizionarea frontend inainte de a avea din nou posibilitatea editarii. Continuati?</label>
+			<label index="p_moveDown">Muta mai jos</label>
+			<label index="p_moveUp">Muta mai sus</label>
+			<label index="p_newRecordAfter">Noua inregistrare dupa</label>
+			<label index="p_newSubpage">Subpagina noua</label>
+			<label index="preview">Vizionare</label>
+			<label index="preview_showHiddenPages">Arata paginile ascunse</label>
+			<label index="preview_showHiddenRecords">Arata inregistrarile ascunse</label>
+			<label index="preview_simulateDate">Simuleaza timp</label>
+			<label index="preview_simulateUserGroup">Simuleaza grup utilizatori</label>
+			<label index="publish">Pubicat</label>
+			<label index="publish_doit">Publica acum!</label>
+			<label index="publish_levels">Nivel publicare</label>
+			<label index="publish_tree">Pagini publicate</label>
+			<label index="p_unhide">Arata</label>
+			<label index="tsdebug">TypoScript</label>
+			<label index="tsdebug_displayContent">Afiseaza continut</label>
+			<label index="tsdebug_displayMessages">Afiseaza measje</label>
+			<label index="tsdebug_displayQueries">Explica sarcinile SELECT</label>
+			<label index="tsdebug_displayTimes">Afiseaza de fiecare data</label>
+			<label index="tsdebug_forceTemplateParsing">Forteaza randare TS</label>
+			<label index="tsdebug_LR">Urmareste randarea continutului</label>
+			<label index="tsdebug_tree">Afiseaza structura:</label>
+			<label index="update">Modifica</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

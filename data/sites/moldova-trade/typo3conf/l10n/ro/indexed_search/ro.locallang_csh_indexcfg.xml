@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="alternative_source_pid.description"/>
+			<label index="_alternative_source_pid.seeAlso"/>
+			<label index="chashcalc.description"/>
+			<label index="_chashcalc.seeAlso"/>
+			<label index="depth.description">Nivele recursivitate.</label>
+			<label index="depth.details">Pentru indxarea fişierelor acesta este nivelul de directoare în care să se parcurgă. Pentru URL extern este adâncimea la care crawler-ul va avansa în linkurile de pe pagină.</label>
+			<label index="_depth.seeAlso"/>
+			<label index=".description"/>
+			<label index="description.description">Dacă e necesar, introduceţi o descriere sau alte informaţii importante în acest câmp.</label>
+			<label index=".details"/>
+			<label index="extensions.description">Dacă doriţi să indexaţi doar anumite fişiere dintr-un director, introduceţi o listă de extensii de fişiere aici. Exemplu: "html,pdf,doc"</label>
+			<label index="_extensions.seeAlso"/>
+			<label index="externalUrl.description">Introduceţi adresa sitului extern pe care doriţi să îl indexaţi.</label>
+			<label index="fieldlist.description">Introduceţi o listă de valori separate prin virgulă ce doriţi să fie indexate. Primul câmp va fi folosit ca şi titlul rezultatului căutării.</label>
+			<label index="fieldlist.details"/>
+			<label index="_fieldlist.seeAlso"/>
+			<label index="filepath.description">Introduceţi calea în interiorul fileadmin/ unde vreţi să fie indexate fişierele.</label>
+			<label index="filepath.details">Exemplu: "fileadmin/newsletters/"</label>
+			<label index="get_params.description"/>
+			<label index="get_params.details"/>
+			<label index="_get_params.seeAlso"/>
+			<label index="hidden.description"/>
+			<label index="hidden.details"/>
+			<label index="_hidden.seeAlso"/>
+			<label index="indexcfgs.description"/>
+			<label index="recordsbatch.description"/>
+			<label index="_recordsbatch.seeAlso"/>
+			<label index="records_indexonchange.description"/>
+			<label index="_records_indexonchange.seeAlso"/>
+			<label index="starttime.description"/>
+			<label index="_starttime.seeAlso"/>
+			<label index="table2index.description">Specificaţi tabela din baza de date din care să fie indexate înregistrările.</label>
+			<label index="timer_frequency.description">Folosiţi această setare pentru a ajusta cât de des doriţi ca procesul de reindexare să ruleze pentru configuraţia făcută.</label>
+			<label index="_timer_frequency.seeAlso"/>
+			<label index="timer_next_indexing.description"/>
+			<label index="_timer_next_indexing.seeAlso"/>
+			<label index="timer_offset.description"/>
+			<label index="_timer_offset.seeAlso"/>
+			<label index="title.description">Specificaţi titlul configuraţiei.</label>
+			<label index="type.description">Selectaţi tipul de configurare indexată aici.</label>
+			<label index="type.details"/>
+			<label index="url_deny.description"/>
+			<label index="url_deny.details"/>
+			<label index="_url_deny.seeAlso"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

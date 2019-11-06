@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="search-text">Sunt %1$s rezultate pentru "%2$s".</label>
+			<label index="search-start">Pornește căutarea</label>
+			<label index="search-noresult">Nu s-au găsit articole.</label>
+			<label index="search-subject">Înainte</label>
+			<label index="search-minimumDate"/>
+			<label index="search-maximumDate"/>
+			<label index="more-link">Detalii</label>
+			<label index="back-link">Înapoi</label>
+			<label index="related-news">Similare</label>
+			<label index="related-files">Legături similare</label>
+			<label index="related-links">Legături similare</label>
+			<label index="author">autor: %s</label>
+			<label index="author_simple">autor: %s</label>
+			<label index="paginate_overall">Pagina %s din %s.</label>
+			<label index="paginate_next">Înainte</label>
+			<label index="paginate_previous">Înapoi</label>
+			<label index="categories"/>
+			<label index="tags"/>
+			<label index="entry">articol</label>
+			<label index="entries">articole</label>
+			<label index="month.01">Ianuarie</label>
+			<label index="month.02">Februarie</label>
+			<label index="month.03">Martie</label>
+			<label index="month.04">Aprilie</label>
+			<label index="month.05">Mai</label>
+			<label index="month.06">Iunie</label>
+			<label index="month.07">Iulie</label>
+			<label index="month.08">August</label>
+			<label index="month.09">Septembrie</label>
+			<label index="month.10">Octombrie</label>
+			<label index="month.11">Noiembrie</label>
+			<label index="month.12">Decembrie</label>
+			<label index="day.1"/>
+			<label index="day.2"/>
+			<label index="day.3"/>
+			<label index="day.4"/>
+			<label index="day.5"/>
+			<label index="day.6"/>
+			<label index="day.7"/>
+			<label index="dateFormat"/>
+			<label index="list_nonewsfound">Nu sunt articole.</label>
+			<label index="list_nocategoriesfound"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

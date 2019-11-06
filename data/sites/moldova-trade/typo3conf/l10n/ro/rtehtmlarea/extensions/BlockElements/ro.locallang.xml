@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="Address">Adresă</label>
+			<label index="Article"/>
+			<label index="Aside"/>
+			<label index="Container">Container</label>
+			<label index="Footer"/>
+			<label index="Header"/>
+			<label index="Heading 1">Heading 1</label>
+			<label index="Heading 2">Heading 2</label>
+			<label index="Heading 3">Heading 3</label>
+			<label index="Heading 4">Heading 4</label>
+			<label index="Heading 5">Heading 5</label>
+			<label index="Heading 6">Heading 6</label>
+			<label index="Long quotation">Citat</label>
+			<label index="Navigation"/>
+			<label index="No block">Fără formatare bloc</label>
+			<label index="Paragraph">Paragraf</label>
+			<label index="Preformatted">Preformatat</label>
+			<label index="Section">Container</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="tx_form_domain_model_element_button.value">Apăsați acest buton</label>
+			<label index="tx_form_domain_model_element_reset.value">Ștergeți valorile formularului</label>
+			<label index="tx_form_domain_model_element_submit.value">Trimiteți formularul</label>
+			<label index="tx_form_system_validate_alphabetic.error">Valoarea nu conține doar caractere alfabetice</label>
+			<label index="tx_form_system_validate_alphabetic.message">Folosiți caractere alfabetice</label>
+			<label index="tx_form_system_validate_alphabetic.message2">spațiile sunt permise</label>
+			<label index="tx_form_system_validate_alphanumeric.error">Valoarea nu conține doar cifre</label>
+			<label index="tx_form_system_validate_alphanumeric.message">Folosiți doar cifre</label>
+			<label index="tx_form_system_validate_alphanumeric.message2">spațiile sunt permise</label>
+			<label index="tx_form_system_validate_between.error">Valoarea nu este cuprinsă între %minimum și%maximum</label>
+			<label index="tx_form_system_validate_between.error2">inclusiv</label>
+			<label index="tx_form_system_validate_between.message">Valoare trebuie să fie cuprinsă între %minimum și %maximum</label>
+			<label index="tx_form_system_validate_between.message2">inclusiv</label>
+			<label index="tx_form_system_validate_date.error">Valoarea nu pare să fie o dată validă</label>
+			<label index="tx_form_system_validate_date.message">(%format)</label>
+			<label index="tx_form_system_validate_date.strftime.a">ddd</label>
+			<label index="tx_form_system_validate_date.strftime.A">dddd</label>
+			<label index="tx_form_system_validate_date.strftime.b">mmm</label>
+			<label index="tx_form_system_validate_date.strftime.B">mmmm</label>
+			<label index="tx_form_system_validate_date.strftime.d">dd</label>
+			<label index="tx_form_system_validate_date.strftime.e">d</label>
+			<label index="tx_form_system_validate_date.strftime.H">HH</label>
+			<label index="tx_form_system_validate_date.strftime.I">hh</label>
+			<label index="tx_form_system_validate_date.strftime.m">mm</label>
+			<label index="tx_form_system_validate_date.strftime.M">mm</label>
+			<label index="tx_form_system_validate_date.strftime.S">ss</label>
+			<label index="tx_form_system_validate_date.strftime.y">yy</label>
+			<label index="tx_form_system_validate_date.strftime.Y">yyyy</label>
+			<label index="tx_form_system_validate_digit.error">Valoarea nu conține doar cifre</label>
+			<label index="tx_form_system_validate_digit.message">Folosiți cifre</label>
+			<label index="tx_form_system_validate_email.error">Aceasta nu este o adresă de email validă</label>
+			<label index="tx_form_system_validate_email.message">(ion.popescu@domeniu.ro)</label>
+			<label index="tx_form_system_validate_equals.error">Valoarea nu este egală cu cea a cîmpului '%field'</label>
+			<label index="tx_form_system_validate_equals.message">Valoarea acestui cîmp trebuie să fie egală cu '%field'</label>
+			<label index="tx_form_system_validate_fileallowedtypes.error">Tipul de fișier nu este permis</label>
+			<label index="tx_form_system_validate_fileallowedtypes.message">(%allowedTypes)</label>
+			<label index="tx_form_system_validate_filemaximumsize.error">Mărimea fișierului este prea mare</label>
+			<label index="tx_form_system_validate_filemaximumsize.message">Mărimea fișierului trebuie să fie mai mică decît %maximum</label>
+			<label index="tx_form_system_validate_fileminimumsize.error">Mărimea fișierului este prea mică</label>
+			<label index="tx_form_system_validate_fileminimumsize.message">Mărimea fișierului trebuie să fie mai mare decît %minimum</label>
+			<label index="tx_form_system_validate_float.error">Valoarea nu pare să fie un număr real</label>
+			<label index="tx_form_system_validate_float.message">Introduceți un număr real</label>
+			<label index="tx_form_system_validate_greaterthan.error">Valoarea nu pare să fie mai mare decît %minimum</label>
+			<label index="tx_form_system_validate_greaterthan.message">Valoarea trebuie să fie mai mare decît %minimum</label>
+			<label index="tx_form_system_validate_inarray.error">Valoarea nu pare să fie validă</label>
+			<label index="tx_form_system_validate_inarray.message">Doar cîteva valori sunt posibile</label>
+			<label index="tx_form_system_validate_integer.error">Valoarea nu pare să fie un număr întreg</label>
+			<label index="tx_form_system_validate_integer.message">Folosiți un număr întreg</label>
+			<label index="tx_form_system_validate_ip.error">Valoarea nu pare să fie o adresă IP validă</label>
+			<label index="tx_form_system_validate_ip.message">(123.123.123.123)</label>
+			<label index="tx_form_system_validate_length.error">Lungimea este mai mică decît %minimum caractere</label>
+			<label index="tx_form_system_validate_length.error2">sau mai mare decît %maximum caractere</label>
+			<label index="tx_form_system_validate_length.message">Lungimea valorii trebuie să aibă minim %minimum caractere</label>
+			<label index="tx_form_system_validate_length.message2">și maximum %maximum caractere</label>
+			<label index="tx_form_system_validate_lessthan.error">Valoarea nu pare să fie mai mică decît %maximum</label>
+			<label index="tx_form_system_validate_lessthan.message">Valoarea trebuie să fie mai mică decît %maximum</label>
+			<label index="tx_form_system_validate_regexp.error">Valoarea nu corespunde pattern-ului</label>
+			<label index="tx_form_system_validate_regexp.message">Folosiți pattern-ul corect</label>
+			<label index="tx_form_system_validate_required.error">Acest cîmp este obligatoriu</label>
+			<label index="tx_form_system_validate_required.message">Obligatoriu</label>
+			<label index="tx_form_system_validate_uri.error">Valoarea nu pare să fie un URI</label>
+			<label index="tx_form_system_validate_uri.message">Valoarea trebuie să fie un URI</label>
+			<label index="tx_form_view_confirmation.confirm">Confirmare</label>
+			<label index="tx_form_view_confirmation.donotconfirm">Retur la formular</label>
+			<label index="tx_form_view_confirmation.message">Verificați vă rugăm valoarea introdusă și confirmați folosind butonul respectiv</label>
+			<label index="tx_form_view_mail.error">A intervenit o eroare la trimiterea formularului pe email</label>
+			<label index="tx_form_view_mail.success">Formularul a fost trimis cu succes pe email</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

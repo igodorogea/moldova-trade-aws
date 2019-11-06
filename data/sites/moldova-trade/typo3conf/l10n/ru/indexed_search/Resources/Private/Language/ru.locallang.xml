@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+      <label index="localizedOperandAnd">И</label>
+      <label index="localizedOperandOr">ИЛИ</label>
+      <label index="localizedOperandNot">НЕ</label>
+      <label index="rules.headline">Правила</label>
+      <label index="rules.text">Воспринимаются лишь слова с двумя и более символами&lt;br /&gt;
+Общее максимальное количество символов 200&lt;br /&gt;
+Для разделения слов используются пробелы, "" можно использовать для поиска целой строки (это не поиск индексов)&lt;br /&gt;
+И, ИЛИ и НЕ — слова префиксы, переназначающие операторы по умолчанию&lt;br /&gt;
++/|/- эквивалентно операторам И, ИЛИ и НЕ.&lt;br /&gt;
+Все искомые слова переводятся в нижний регистр.
+</label>
+      <label index="form.legend">Форма поиска</label>
+      <label index="form.searchFor">Поиск по</label>
+      <label index="form.extResume">Развёрнутое резюме</label>
+      <label index="form.atATime">за время</label>
+      <label index="form.orderBy">Порядок</label>
+      <label index="form.fromSection">Из раздела</label>
+      <label index="form.freeIndexUid">Категория</label>
+      <label index="form.searchIn">Поиск в</label>
+      <label index="form.match">Соответствие</label>
+      <label index="form.style">Стиль</label>
+      <label index="form.submit">Поиск</label>
+      <label index="form.addToSearch">Добавить к искомым словам</label>
+      <label index="form.linkToRegularSearch">Обычный поиск</label>
+      <label index="form.linkToAdvancedSearch">Настраиваемый поиск</label>
+      <label index="types.0">Отдельное слово</label>
+      <label index="types.1">Часть слова</label>
+      <label index="types.2">Слово начинается с</label>
+      <label index="types.3">Слово оканчивается на</label>
+      <label index="types.10">Звучит как</label>
+      <label index="types.20">Предложение</label>
+      <label index="defaultOperands.0">Все слова (И)</label>
+      <label index="defaultOperands.1">Любое из слов (ИЛИ)</label>
+      <label index="languageUids.-1">Все языки</label>
+      <label index="languageUids.0">По умолчанию</label>
+      <label index="sections.0">Сайт целиком</label>
+      <label index="sections.-1">Только на этой странице</label>
+      <label index="sections.-2">Основной + 1 уровень</label>
+      <label index="sections.-3">Уровень 2 и выше</label>
+      <label index="sections.RL1">Уровень 1:</label>
+      <label index="sections.RL1All">Все страницы уровня 1</label>
+      <label index="sections.RL2">- уровень 2:</label>
+      <label index="sections.RL2All">- все страницы уровня 2</label>
+      <label index="mediaTypes.0">Внутренние страницы</label>
+      <label index="mediaTypes.-1">Все медиа</label>
+      <label index="mediaTypes.-2">Все внешние</label>
+      <label index="indexingConfigurations.-1">Все, вперемешку</label>
+      <label index="indexingConfigurations.-2">Все, по категориям</label>
+      <label index="indexingConfigurations._0">Страницы</label>
+      <label index="indexingConfigurationHeader.-1">Различные категории</label>
+      <label index="indexingConfigurationHeader.0">Страницы сайта</label>
+      <label index="sortOrders.rank_flag">Вес/частота</label>
+      <label index="sortOrders.rank_freq">Частота</label>
+      <label index="sortOrders.rank_first">Ближе к началу</label>
+      <label index="sortOrders.rank_count">Количество слов</label>
+      <label index="sortOrders.mtime">Дата изменения</label>
+      <label index="sortOrders.title">Заголовок документа</label>
+      <label index="sortOrders.crdate">Дата создания</label>
+      <label index="sortOrders.descending">Сначала большие</label>
+      <label index="sortOrders.ascending">Сначала меньшие</label>
+      <label index="groupBy.sections">Иерархия разделов</label>
+      <label index="groupBy.flat">Простой список</label>
+      <label index="result.page">страница</label>
+      <label index="result.pages">страницы</label>
+      <label index="result.unnamedSection">Другое</label>
+      <label index="result.otherMatching">Другие соответствующие страницы того же документа:</label>
+      <label index="result.otherPageAsWell">ИНФОРМАЦИЯ: имеются и другие проиндексированные страницы. Возможно индексация другой группой пользователей или без групп.</label>
+      <label index="result.path">Путь:</label>
+      <label index="result.modified">Изменено:</label>
+      <label index="result.created">Создано:</label>
+      <label index="result.size">Размер:</label>
+      <label index="result.noResume">Замечание: эта выдача может не вполне соответствовать содержимому этой страницы. Невозможно показать анонс страницы.</label>
+      <label index="result.memberGroups">Требуется членство в группе номер %s</label>
+      <label index="result.ratingMatches">соответствия</label>
+      <label index="result.noResult">Результаты отсутствуют.</label>
+      <label index="result.inSection">в разделе</label>
+      <label index="result.inNsection">в %s разделе:</label>
+      <label index="result.inNsections">в %s разделах:</label>
+      <label index="searchFor">Поиск по</label>
+      <label index="searchFor.or">или</label>
+      <label index="searchFor.and">и</label>
+      <label index="searchFor.andnot">но не</label>
+      <label index="displayResults.previous">&lt; назад</label>
+      <label index="displayResults.page">страница</label>
+      <label index="displayResults.next">далее &gt;</label>
+      <label index="displayResults">Выведены результаты от &lt;strong&gt;%1$s до %2$s&lt;/strong&gt; из &lt;strong&gt;%3$s&lt;/strong&gt;</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

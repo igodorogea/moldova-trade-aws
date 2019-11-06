@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="fe_groups.tx_extbase_type">Tip de înregistrare</label>
+			<label index="fe_groups.tx_extbase_type.0">nedefinit</label>
+			<label index="fe_groups.tx_extbase_type.Tx_Extbase_Domain_Model_FrontendUserGroup">Tx_Extbase_Domain_Model_FrontendUserGroup</label>
+			<label index="fe_users.tx_extbase_type">Tip de înregistrare</label>
+			<label index="fe_users.tx_extbase_type.0">nedefinit</label>
+			<label index="fe_users.tx_extbase_type.Tx_Extbase_Domain_Model_FrontendUser">Tx_Extbase_Domain_Model_FrontendUser</label>
+			<label index="task.action">Comandă CommandController</label>
+			<label index="task.description">Permite comenzilor Extbase CommandController să fie configurate și executate prin intermediul librăriei scheduler.</label>
+			<label index="task.name">Sarcină Extbase CommandController</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

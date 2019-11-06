@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="mlang_labels_tabdescr">Modul Backend TYPO3 ce listează și afișează documentația extensiilor încărcate și a documentelor personale.</label>
+			<label index="mlang_labels_tablabel">Documentație</label>
+			<label index="mlang_tabs_tab">Documentație</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

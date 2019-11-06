@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="ATTRIBUTES">ATRIBUTE</label>
+			<label index="Cancel">Anulare</label>
+			<label index="Colors">Culori</label>
+			<label index="Enter the TAG you want to insert">Introduceţi tagul pe care doriţi să-i inseraţi</label>
+			<label index="No CSS class avaiable">Nici o clasă CSS nu este disponibilă</label>
+			<label index="Ok">Ok</label>
+			<label index="OPTIONS">OPŢIUNI</label>
+			<label index="Quick Tag Editor">Inserează tag</label>
+			<label index="TAGs">TAGuri</label>
+			<label index="There are some unclosed quote">Câteva ghilimele nu sunt închise</label>
+			<label index="This attribute already exists in the TAG">Acest atribut exista deja pentru TAG</label>
+			<label index="You have to select some text">Trebuie să selectaţi textul</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

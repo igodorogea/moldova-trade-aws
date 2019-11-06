@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="author">Autor:</label>
+			<label index="category.1">Instrucțiuni</label>
+			<label index="category.2">Template</label>
+			<label index="category.3">Note</label>
+			<label index="category.4">De-făcut</label>
+			<label index="date">Dată:</label>
+			<label index="personal">Personal:</label>
+			<label index="yes">Da</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

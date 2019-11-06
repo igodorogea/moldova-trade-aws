@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ro" datatype="plaintext" original="messages" date="2015-07-31T00:07:13Z" product-name="scheduler">
+		<header/>
+		<body>
+			<trans-unit id="cachingFrameworkGarbageCollection.description" xml:space="preserve" approved="yes">
+				<source>This task calls the garbage collection of configured caching framework caches which use one of the selected backends. This will free some space in cache backends which do not have an internal garbage collection. In case of the default database backend it is advisable to run this task once a day when the database is mostly idle.</source>
+			<target state="translated">Această sarcină apelează garbage collection pentru librăria de cache configurată. Acest lucru va elibera spațiu în backend-urile cache ce nu dispun de un garbage collector intern. Pentru backend-ul bazei de date curente este recomandat să executați această sarcină odată pe zi, cînd baza de date primește cele mai puține apeluri.</target></trans-unit>
+			<trans-unit id="cachingFrameworkGarbageCollection.name" xml:space="preserve" approved="yes">
+				<source>Caching framework garbage collection</source>
+			<target state="translated">Garbage collection pentru librăria de cache</target></trans-unit>
+			<trans-unit id="fileIndexing.description" xml:space="preserve" approved="yes">
+				<source>Runs indexing tasks based on an indexing configuration and a storage/folder information.</source>
+			<target state="translated">Execută sarcina de indexare bazată pe o configurare deja făcută și pe informațiile magaziei/directorului.</target></trans-unit>
+			<trans-unit id="fileIndexing.name" xml:space="preserve" approved="yes">
+				<source>[OBSOLETE] File Abstraction Layer: Indexing job</source>
+			<target state="translated">[OBSOLETE] File Abstraction Layer: Sarcină de indexare</target></trans-unit>
+			<trans-unit id="fileStorageExtraction.description" xml:space="preserve" approved="yes">
+				<source>Extracts metadata for all files in storage which have been changed since last run.</source>
+			<target state="translated">Extrage metainformațiile pentru toate fișierele din magazie ce au fost modificate de la ultima execuție.</target></trans-unit>
+			<trans-unit id="fileStorageExtraction.name" xml:space="preserve" approved="yes">
+				<source>File Abstraction Layer: Extract metadata in storage</source>
+			<target state="translated">File Abstraction Layer: Extracție metainformații în magazie</target></trans-unit>
+			<trans-unit id="fileStorageIndexing.description" xml:space="preserve" approved="yes">
+				<source>Updates the Index/Cache Data of a Storage; only needed if changes to the storage are possible outside the backend (FTP, RemoteStorages).</source>
+			<target state="translated">Actualizează informațiile Index/Cache ale unei magazii; necesară doar dacă modificările magaziei pot fi făcute în afara backend-ului (FTP, RemoteStorages).</target></trans-unit>
+			<trans-unit id="fileStorageIndexing.name" xml:space="preserve" approved="yes">
+				<source>File Abstraction Layer: Update storage index</source>
+			<target state="translated">File Abstraction Layer: Actualizare index magazie</target></trans-unit>
+			<trans-unit id="recyclerGarbageCollection.description" xml:space="preserve" approved="yes">
+				<source>This task empties all "_recycler_" folders below fileadmin. This helps free some space in the file system.</source>
+			<target state="translated">Această sarcină golește toate directoarele "_recycler_" din interiorul directorului fileadmin. Spațiu adițional va fi eliberat astfel.</target></trans-unit>
+			<trans-unit id="recyclerGarbageCollection.name" xml:space="preserve" approved="yes">
+				<source>Fileadmin garbage collection</source>
+			<target state="translated">Garbage collection pentru directorul fileadmin</target></trans-unit>
+			<trans-unit id="sleepTask.description" xml:space="preserve" approved="yes">
+				<source>This task does nothing but put PHP to sleep for a number of seconds. It is designed to test multiple executions.</source>
+			<target state="translated">Această sarcină nu face altceva decît să apeleze funcția PHP sleep timp de cîtea secunde. Scopul ei este de a testa multiple execuții.</target></trans-unit>
+			<trans-unit id="sleepTask.name" xml:space="preserve" approved="yes">
+				<source>Scheduler sleep task</source>
+			<target state="translated">Sarcină sleep a planificatorului</target></trans-unit>
+			<trans-unit id="tableGarbageCollection.description" xml:space="preserve" approved="no">
+				<source>Task to delete old entries from specific tables like sys_log. Use $GLOBALS['TYPO3_CONF_VARS']['SC_OPTIONS']['scheduler']['tasks']['tx_scheduler_TableGarbageCollection']['options']['tables'] to configure tables. Refer to the manual for more details.</source>
+			<target state="needs-translation">Sarcină ce șterge vechile intrări din anumite tabele precum sys_log. Folosiți $GLOBALS['TYPO3_CONF_VARS']['SC_OPTIONS']['scheduler']['tasks']['tx_scheduler_TableGarbageCollection']['options']['tables'] pentru a configura tabelele. Consultați manualul pentru mai multe detalii.</target></trans-unit>
+			<trans-unit id="tableGarbageCollection.name" xml:space="preserve" approved="yes">
+				<source>Table garbage collection</source>
+			<target state="translated">Tabelă garbage collection</target></trans-unit>
+			<trans-unit id="testTask.description" xml:space="preserve" approved="yes">
+				<source>The Scheduler test task just sends a mail to a given email address. It is designed to be used for testing purposes.</source>
+			<target state="translated">Sarcina de test a planificatorului va trimite un email la o anumită adresă de email. Scopul ei este de a permite testarea.</target></trans-unit>
+			<trans-unit id="testTask.name" xml:space="preserve" approved="yes">
+				<source>Scheduler test task</source>
+			<target state="translated">Sarcină de test a planificatorului</target></trans-unit>
+		</body>
+	</file>
+</xliff>

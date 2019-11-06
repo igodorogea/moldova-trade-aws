@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ro" datatype="plaintext" original="messages" date="2015-08-20T00:50:39Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Bottom:" approved="yes">
+				<source>Bottom:</source>
+				<target state="translated">Jos:</target>
+			</trans-unit>
+			<trans-unit id="Bottom padding" approved="yes">
+				<source>Bottom padding</source>
+				<target state="translated">Padding jos</target>
+			</trans-unit>
+			<trans-unit id="image_url">
+				<source>Image URL</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="image_url_invalid">
+				<source>The url could not be accessed or is not a valid image.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="Left padding" approved="yes">
+				<source>Left padding</source>
+				<target state="translated">Padding stânga</target>
+			</trans-unit>
+			<trans-unit id="Right:" approved="yes">
+				<source>Right:</source>
+				<target state="translated">Dreapta:</target>
+			</trans-unit>
+			<trans-unit id="Right padding" approved="yes">
+				<source>Right padding</source>
+				<target state="translated">Padding dreapta</target>
+			</trans-unit>
+			<trans-unit id="Top:" approved="yes">
+				<source>Top:</source>
+				<target state="translated">Sus:</target>
+			</trans-unit>
+			<trans-unit id="Top padding" approved="yes">
+				<source>Top padding</source>
+				<target state="translated">Padding sus</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

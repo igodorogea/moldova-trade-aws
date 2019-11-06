@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ro" datatype="plaintext" original="messages" date="2015-08-20T00:31:21Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="1" xml:space="preserve" approved="yes">
+				<source>Show page</source>
+			<target state="translated">Afișare pagină</target></trans-unit>
+			<trans-unit id="16" xml:space="preserve" approved="yes">
+				<source>Edit content</source>
+			<target state="translated">Editare conținut</target></trans-unit>
+			<trans-unit id="16_t" xml:space="preserve" approved="yes">
+				<source>Change/Add/Delete/Move content.</source>
+			<target state="translated">Schimba/Adauga/Sterge/Muta continut</target></trans-unit>
+			<trans-unit id="1_t" xml:space="preserve" approved="yes">
+				<source>Show/Copy page and content.</source>
+			<target state="translated">Afiseaza/Copie pagina si continutul</target></trans-unit>
+			<trans-unit id="2" xml:space="preserve" approved="yes">
+				<source>Edit page</source>
+			<target state="translated">Editare pagină</target></trans-unit>
+			<trans-unit id="2_t" xml:space="preserve" approved="yes">
+				<source>Change/Move page, eg. change pagetitle etc.</source>
+			<target state="translated">Schimba/Muta pagina, ex. schimba titlul paginii</target></trans-unit>
+			<trans-unit id="4" xml:space="preserve" approved="yes">
+				<source>Delete page</source>
+			<target state="translated">Ștergere pagină</target></trans-unit>
+			<trans-unit id="4_t" xml:space="preserve" approved="yes">
+				<source>Delete page and content.</source>
+			<target state="translated">Sterge pagina si continutul</target></trans-unit>
+			<trans-unit id="8" xml:space="preserve" approved="yes">
+				<source>New pages</source>
+			<target state="translated">Pagini noi</target></trans-unit>
+			<trans-unit id="8_t" xml:space="preserve" approved="yes">
+				<source>Create new pages under this page.</source>
+			<target state="translated">Creeaza pagini noi sub aceasta pagina</target></trans-unit>
+			<trans-unit id="Abort" xml:space="preserve" approved="yes">
+				<source>Abort</source>
+			<target state="translated">Renunta</target></trans-unit>
+			<trans-unit id="A_Denied" xml:space="preserve" approved="yes">
+				<source>Access Denied</source>
+			<target state="translated">Acces interzis</target></trans-unit>
+			<trans-unit id="A_Granted" xml:space="preserve" approved="yes">
+				<source>Access Granted</source>
+			<target state="translated">Acces permis</target></trans-unit>
+			<trans-unit id="ch_permissions" xml:space="preserve" approved="yes">
+				<source>Change permissions</source>
+			<target state="translated">Schimba drepturi</target></trans-unit>
+			<trans-unit id="def" xml:space="preserve" approved="yes">
+				<source>Definition: 'content' is records from all tables on a page - except from records from the table 'pages' (Pages).</source>
+			<target state="translated">Definitie: 'continutul' este reprezentat de inregistrarile din toate tabelele pentru o pagina, cu exceptia datelor din tabelul 'pages' (pagini).</target></trans-unit>
+			<trans-unit id="deleted" xml:space="preserve" approved="yes">
+				<source>deleted</source>
+			<target state="translated">șters</target></trans-unit>
+			<trans-unit id="Depth" xml:space="preserve" approved="yes">
+				<source>Depth</source>
+			<target state="translated">Profunzime</target></trans-unit>
+			<trans-unit id="Edit" xml:space="preserve" approved="yes">
+				<source>EDIT</source>
+			<target state="translated">EDITEAZA</target></trans-unit>
+			<trans-unit id="EditLock" xml:space="preserve" approved="yes">
+				<source>Lock</source>
+			<target state="translated">Blocare</target></trans-unit>
+			<trans-unit id="EditLock_descr" xml:space="preserve" approved="yes">
+				<source>The page and all content is locked for editing by all non-Admin users.</source>
+			<target state="translated">Pagina şi întreg conţinutul este blocat la editare pentru toţi utilizatorii.</target></trans-unit>
+			<trans-unit id="Everybody" xml:space="preserve" approved="yes">
+				<source>Everybody</source>
+			<target state="translated">Toti</target></trans-unit>
+			<trans-unit id="Group" xml:space="preserve" approved="yes">
+				<source>Group</source>
+			<target state="translated">Grup</target></trans-unit>
+			<trans-unit id="Legend" xml:space="preserve" approved="yes">
+				<source>Legend</source>
+			<target state="translated">Legenda</target></trans-unit>
+			<trans-unit id="levels" xml:space="preserve" approved="yes">
+				<source>levels</source>
+			<target state="translated">nivele</target></trans-unit>
+			<trans-unit id="mlang_labels_tabdescr" xml:space="preserve" approved="yes">
+				<source>Setting of page permissions is vital for controlling backend user access to pages. You can assign a user and a group as owners of a page and set access permissions for each.</source>
+			<target state="translated">Stabilirea drepturilor asupra paginii este vitala pentru a controla accesul la pagini al utilizatorilor backend. Puteti desemna un utilizator si un grup drept proprietar al paginii si se pot stabili drepturi pentru fiecare.</target></trans-unit>
+			<trans-unit id="mlang_labels_tablabel" xml:space="preserve" approved="yes">
+				<source>Page editing permissions</source>
+			<target state="translated">Editeaza permisiunile paginii</target></trans-unit>
+			<trans-unit id="mlang_tabs_tab" xml:space="preserve" approved="yes">
+				<source>Access</source>
+			<target state="translated">Acces</target></trans-unit>
+			<trans-unit id="Mode" xml:space="preserve" approved="yes">
+				<source>Mode</source>
+			<target state="translated">Mod</target></trans-unit>
+			<trans-unit id="notSet" xml:space="preserve" approved="yes">
+				<source>not set</source>
+			<target state="translated">nesetat</target></trans-unit>
+			<trans-unit id="Owner" xml:space="preserve" approved="yes">
+				<source>Owner</source>
+			<target state="translated">Proprietar</target></trans-unit>
+			<trans-unit id="pages_affected" xml:space="preserve" approved="yes">
+				<source>pages affected</source>
+			<target state="translated">pagini afectate</target></trans-unit>
+			<trans-unit id="permissions" xml:space="preserve" approved="yes">
+				<source>Permissions</source>
+			<target state="translated">Drepturi</target></trans-unit>
+			<trans-unit id="recursive" xml:space="preserve" approved="yes">
+				<source>Set recursively</source>
+			<target state="translated">Seteaza recursiv</target></trans-unit>
+			<trans-unit id="Save" xml:space="preserve" approved="yes">
+				<source>Save</source>
+			<target state="translated">Salveaza</target></trans-unit>
+			<trans-unit id="User" xml:space="preserve" approved="yes">
+				<source>User</source>
+			<target state="translated">Utilizator</target></trans-unit>
+			<trans-unit id="user_overview" xml:space="preserve" approved="yes">
+				<source>User overview</source>
+			<target state="translated">Afiseaza drepturi utilizator</target></trans-unit>
+			<trans-unit id="WorkspaceWarning" xml:space="preserve" approved="yes">
+				<source>Workspace Warning</source>
+			<target state="translated">Avertisment Spațiu de lucru</target></trans-unit>
+			<trans-unit id="WorkspaceWarningText" xml:space="preserve" approved="yes">
+				<source>Permissions you set in the workspace are effective on the elements only &lt;em&gt;after&lt;/em&gt; they are published! If you need to set permissions which are effective right now, you must do so in the Live workspace. (Permissions are always evaluated on the Live workspace record/placeholder of a draft version)</source>
+			<target state="translated">Permisiile setate în Spațiul de lucru sunt aplicate elementelor doar &lt;em&gt;după&lt;/em&gt; ce acestea sunt publicate! Dacă aveți nevoie să setați permisii ce trebuie să se aplice de îndată, trebuie să faceți modificările în spațiul de lucru Live. (Permisiile sunt întotdeauna evaluale în spațiul de lucru Live al unei versiuni ciornă)</target></trans-unit>
+		</body>
+	</file>
+</xliff>

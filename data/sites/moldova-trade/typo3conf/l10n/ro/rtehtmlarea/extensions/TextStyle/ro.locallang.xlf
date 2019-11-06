@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ro" datatype="plaintext" original="messages" date="2015-08-20T00:50:39Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="No style" xml:space="preserve" approved="yes">
+				<source>No text style</source>
+			<target state="translated">Nici un stil pentru text</target></trans-unit>
+		</body>
+	</file>
+</xliff>

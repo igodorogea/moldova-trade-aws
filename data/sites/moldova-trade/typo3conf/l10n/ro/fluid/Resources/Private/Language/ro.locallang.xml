@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="widget.pagination.first">primul</label>
+			<label index="widget.pagination.last">ultimul</label>
+			<label index="widget.pagination.next">următor</label>
+			<label index="widget.pagination.page">Pagina</label>
+			<label index="widget.pagination.previous">precedent</label>
+			<label index="widget.pagination.records">înregistrări</label>
+			<label index="widget.pagination.refresh">Reîncărcare</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

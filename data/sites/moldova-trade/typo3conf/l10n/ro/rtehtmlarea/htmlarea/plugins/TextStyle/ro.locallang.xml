@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="Element style">Stil element inline</label>
+			<label index="No style">Nici un stil pentru text</label>
+			<label index="Remove style">Şterge stil text</label>
+			<label index="Technische Universitat Ilmenau"/>
+			<label index="TextStyle-Tooltip">Aplică stil la textul selectat</label>
+			<label index="Unknown style">Stil text necunoscut</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

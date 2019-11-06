@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ro" datatype="plaintext" original="messages" date="2015-07-29T22:32:36Z" product-name="backend">
+		<header/>
+		<body>
+			<trans-unit id="foldertreeview.noFolders.message">
+				<source>You do not have access to any folder. Please ask your administrator to fix access permissions for your account.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="foldertreeview.noFolders.title">
+				<source>No folders available</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="no_modules_registered">
+				<source>No modules have been registered. Please contact your system administrator.</source>
+				<target/>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

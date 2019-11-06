@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="confirmUnlockInstallToolButton">Deblocare unealta de Instalare</label>
+			<label index="confirmUnlockInstallToolMessage">&lt;p&gt;Din motive de securitate unealta de Instalare este blocată.&lt;/p&gt;
+&lt;p&gt;Pentru a o activa, un fișier gol cu numele &lt;strong&gt;ENABLE_INSTALL_TOOL&lt;/strong&gt; trebuie să fie creat în directorul &lt;strong&gt;typo3conf/&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Făcând click pe butonul de mai jos, un fișier va fi creat pentru dumneavoastră deblocând astfel unealta de Instalare.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Notă de securitate: &lt;/strong&gt;Vă rugăm să vă deconectați din unealta de Instalare odată ce ați terminat cu modificările. Altfel, TYPO3 va blocal automat unealta de Instalare după o oră.&lt;/p&gt;
+				</label>
+			<label index="confirmUnlockInstallToolTitle">Unealta de Instalare este blocată</label>
+			<label index="mlang_labels_tabdescr">Furnizează o legătură simplă spre unealta de Instalare. Unealta de instalare (în typo3/install/) trebuie să fie activă.&lt;br /&gt;&lt;em&gt;Acces doar pentru utilizatorii 'admin'!&lt;/em&gt;</label>
+			<label index="mlang_labels_tablabel">Unealta de Instalare</label>
+			<label index="mlang_tabs_tab">Instalare</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

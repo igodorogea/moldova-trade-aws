@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="cms_description"/>
+			<label index="community_credits"/>
+			<label index="coredevs"/>
+			<label index="coredevs_detail"/>
+			<label index="donation_button"/>
+			<label index="donation_header"/>
+			<label index="donation_message"/>
+			<label index="extension"/>
+			<label index="extension_author"/>
+			<label index="extension_authors"/>
+			<label index="extension_list_info"/>
+			<label index="external_libraries"/>
+			<label index="external_thanks"/>
+			<label index="information"/>
+			<label index="information_detail"/>
+			<label index="minor">TYPO3 este un CMS flexibil si profesional, bazat pe PHP4 si MySQL. Typo3 este sub licenta Open Source.&lt;br /&gt;&lt;br /&gt;TYPO3 este &lt;b&gt; disponibil gratuit &lt;/b&gt; sub &lt;a href="http://typo3.com/1244.0.html" target="_blank"&gt; licenta TYPO3 (GNU/GPL)&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;%s %s&lt;br /&gt;</label>
+			<label index="mlang_labels_tabdescr">Afiseaza datele primare despre aplicatia TYPO3, versiunea si termenii licentei.</label>
+			<label index="mlang_labels_tablabel">Despre TYPO3</label>
+			<label index="mlang_tabs_tab">Despre</label>
+			<label index="title">Despre TYPO3</label>
+			<label index="typo3_logo"/>
+			<label index="welcome">Sistemul Profesional de Administrare a Continutului TYPO3</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

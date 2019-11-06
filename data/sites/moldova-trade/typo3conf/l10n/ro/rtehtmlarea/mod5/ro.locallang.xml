@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="expand">Extinde categoria</label>
+			<label index="filesize">Mărime fişier</label>
+			<label index="noTextSelection">Eroare: Nu a fost selectat nici un text pentru wrap.</label>
+			<label index="noTitle">Fără titlu</label>
+			<label index="pixels">Pixeli</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

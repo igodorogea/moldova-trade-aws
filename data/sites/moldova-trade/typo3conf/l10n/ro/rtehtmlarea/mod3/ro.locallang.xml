@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="addToList">Adaugă la listă...</label>
+			<label index="anchor_class">Stil</label>
+			<label index="anchor_title">Titlu</label>
+			<label index="clickToRedrawFullSize">Imaginea este mai mare decît apare aici! Click pentru a o vedea la mărimea reală.</label>
+			<label index="contentElements">Elemente de conţinut</label>
+			<label index="currentLink">Legătură curentă</label>
+			<label index="email">Email</label>
+			<label index="emailAddress">Adresă email</label>
+			<label index="extUrl">Adresă URL externă</label>
+			<label index="file">Fişier</label>
+			<label index="files">Fişiere</label>
+			<label index="findDragDrop">Găseşte imaginea, apoi click pe ea şi eliberează în editorul din pagina principală!</label>
+			<label index="folders"/>
+			<label index="folderTree">Structură director</label>
+			<label index="info">Info</label>
+			<label index="invalidChar">EROARE. Caracter invalid găsit în cale fişier (%s). Nu pot adăuga fişierul!</label>
+			<label index="linkRelationship"/>
+			<label index="newWindow">Fereastră nouă</label>
+			<label index="none">Gol - legătură nouă!</label>
+			<label index="noWebFolder">Nu puteţi muta imagini din acest director (galben), deoarece aparţine structurii interne a server-ului.</label>
+			<label index="page">Pagina</label>
+			<label index="page_id">Id pagină</label>
+			<label index="pageTree">Structura de pagini</label>
+			<label index="path">Cale</label>
+			<label index="query_parameters"/>
+			<label index="removeLink">Şterge legătura (link)</label>
+			<label index="selectRecords">Alege înregistrări</label>
+			<label index="setLink">Setare legătură</label>
+			<label index="special">Special</label>
+			<label index="target">Ţintă</label>
+			<label index="target_popUpWindow">Deschide în fereastră nouă</label>
+			<label index="target_popUpWindow_height">Înălţime</label>
+			<label index="target_popUpWindow_width">Lungime</label>
+			<label index="top">Sus</label>
+			<label index="update">Actualizare</label>
+			<label index="uploadImage">Upload imagine</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

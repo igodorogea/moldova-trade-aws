@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+      <label index="mlang_labels_tablabel">Administrarea utilizatorilor Backend</label>
+      <label index="mlang_labels_tabdescr">Modulul Administrare Utilizatori vă oferă o vedere de ansamblu a tuturor utilizatorilor backend. Îi puteţi grupa funcţie de proprietăţile lor, pentru a putea monitoriza permisiunile, căile rădăcină, configurările TS, grupurile de membri, etc...Acest modul este o unealtă indispensabilă dacă doriţi să fiţi sigur că toţi utilizatorii sînt corect configuraţi.</label>
+      <label index="mlang_tabs_tab">Administrare Utilizatori</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

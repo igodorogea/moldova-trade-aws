@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ro" datatype="plaintext" original="messages" date="2015-08-20T00:31:18Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="bigControlPanel" approved="yes">
+				<source>Extended view</source>
+				<target state="translated">Vedere extinsă</target>
+			</trans-unit>
+			<trans-unit id="c_file" approved="yes">
+				<source>File Name</source>
+				<target state="translated">Nume fisier</target>
+			</trans-unit>
+			<trans-unit id="c_fileext" approved="yes">
+				<source>Type</source>
+				<target state="translated">Tip</target>
+			</trans-unit>
+			<trans-unit id="clipBoard" approved="yes">
+				<source>Show clipboard</source>
+				<target state="translated">Arata buffer-ul pentru zona ecran</target>
+			</trans-unit>
+			<trans-unit id="clip_deleteMarked" approved="yes">
+				<source>Delete marked</source>
+				<target state="translated">Sterge fisiere marcate</target>
+			</trans-unit>
+			<trans-unit id="clip_deleteMarkedWarning" approved="yes">
+				<source>Are you sure you want to delete all marked files from this folder?</source>
+				<target state="translated">Sunteti sigur a vreti sa stergeti toate fisierele marcate din acest fisier?</target>
+			</trans-unit>
+			<trans-unit id="clip_markRecords" approved="yes">
+				<source>Mark All/Mark none</source>
+				<target state="translated">Marcheaza tot/Nu marca nimic</target>
+			</trans-unit>
+			<trans-unit id="clip_paste" approved="yes">
+				<source>Paste in clipboard content</source>
+				<target state="translated">Copiere in continutul buffer-ului pentru zona ecran</target>
+			</trans-unit>
+			<trans-unit id="clip_pasteInto" approved="yes">
+				<source>Paste into: Clipboard content is inserted into this folder</source>
+				<target state="translated">Copiere in: Continutul buffer-ului pentru zona ecran a fost inserat in acest fisier</target>
+			</trans-unit>
+			<trans-unit id="clip_selectMarked" approved="yes">
+				<source>Transfer the selection of files to clipboard</source>
+				<target state="translated">Sterge fisiere marcate</target>
+			</trans-unit>
+			<trans-unit id="c__REF_" approved="yes">
+				<source>Ref</source>
+				<target state="translated">Ref</target>
+			</trans-unit>
+			<trans-unit id="c_rw" approved="yes">
+				<source>RW</source>
+				<target state="translated">Citire/Scriere</target>
+			</trans-unit>
+			<trans-unit id="c_size" approved="yes">
+				<source>Size</source>
+				<target state="translated">Marime</target>
+			</trans-unit>
+			<trans-unit id="c_tstamp" approved="yes">
+				<source>Last Modified</source>
+				<target state="translated">Data</target>
+			</trans-unit>
+			<trans-unit id="displayThumbs" approved="yes">
+				<source>Display thumbnails</source>
+				<target state="translated">Afiseaza thumbnails</target>
+			</trans-unit>
+			<trans-unit id="files" approved="yes">
+				<source>files</source>
+				<target state="translated">Fisiere</target>
+			</trans-unit>
+			<trans-unit id="folderNotFoundMessage" approved="yes">
+				<source>The folder "%s" cannot be accessed. Trying to use parent folder(s).</source>
+				<target state="translated">Directorul "%s" nu poate fi accesat. Încercare de folosire a directorului părinte.</target>
+			</trans-unit>
+			<trans-unit id="folderNotFoundTitle" approved="yes">
+				<source>Folder not found.</source>
+				<target state="translated">Directorul nu a fost găsit.</target>
+			</trans-unit>
+			<trans-unit id="localDriverFlexform_basePath" approved="yes">
+				<source>Base path:</source>
+				<target state="translated">Calea de bază:</target>
+			</trans-unit>
+			<trans-unit id="localDriverFlexform_basePath_placeholder">
+				<source>Add storage path here. For example: myPath/folder/</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="localDriverFlexform_caseSensitive" approved="yes">
+				<source>Uses case sensitive identifiers</source>
+				<target state="translated">Folosește identificatori sensibili la mărimea caracterelor</target>
+			</trans-unit>
+			<trans-unit id="localDriverFlexform_pathType" approved="yes">
+				<source>Path type:</source>
+				<target state="translated">Tip cale:</target>
+			</trans-unit>
+			<trans-unit id="localDriverFlexform_pathType_absolute" approved="yes">
+				<source>absolute</source>
+				<target state="translated">absolută</target>
+			</trans-unit>
+			<trans-unit id="localDriverFlexform_pathType_relative" approved="yes">
+				<source>relative</source>
+				<target state="translated">relativă</target>
+			</trans-unit>
+			<trans-unit id="missingFolderPermissionsMessage">
+				<source>You have no access to the folder "%s".</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="missingFolderPermissionsTitle">
+				<source>Missing folder permissions</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tabdescr" approved="yes">
+				<source>This is the file administration system in TYPO3. It allows you to access the file mounts of your login. Through this module you can upload, copy, move an delete files on the server.</source>
+				<target state="translated">Acesta este sistemul de administrare al fișierelor din TYPO3. Acest modul vă permite accesarea fișierelor disponibile. Folosind acest modul puteți încarca, copia, muta și sterge fișiere de pe server.</target>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tablabel" approved="yes">
+				<source>Listing of files in the directory</source>
+				<target state="translated">Listare fișiere în director</target>
+			</trans-unit>
+			<trans-unit id="mlang_tabs_tab" approved="yes">
+				<source>Filelist</source>
+				<target state="translated">Listă de fișiere</target>
+			</trans-unit>
+			<trans-unit id="paramError" approved="yes">
+				<source>Parameter Error:</source>
+				<target state="translated">Eroare parametru:</target>
+			</trans-unit>
+			<trans-unit id="read" approved="yes">
+				<source>R</source>
+				<target state="translated">R</target>
+			</trans-unit>
+			<trans-unit id="recycler" approved="yes">
+				<source>Recycler</source>
+				<target state="translated">Restaurator</target>
+			</trans-unit>
+			<trans-unit id="role_folder_recycler" approved="yes">
+				<source>Recycler</source>
+				<target state="translated">Restaurator</target>
+			</trans-unit>
+			<trans-unit id="role_folder_temporary" approved="yes">
+				<source>Temporary files</source>
+				<target state="translated">Fișiere temporare</target>
+			</trans-unit>
+			<trans-unit id="storageNotBrowsableMessage" approved="yes">
+				<source>You are trying to access a folder in a storage that is not browsable.</source>
+				<target state="translated">Încercați să accesați un director dintr-un depozit ce nu este navigabil.</target>
+			</trans-unit>
+			<trans-unit id="storageNotBrowsableTitle" approved="yes">
+				<source>Access denied.</source>
+				<target state="translated">Acces refuzat.</target>
+			</trans-unit>
+			<trans-unit id="targetNoDir" approved="yes">
+				<source>Target was not a directory!</source>
+				<target state="translated">Ținta nu a fost un director!</target>
+			</trans-unit>
+			<trans-unit id="temp" approved="yes">
+				<source>Temporary files</source>
+				<target state="translated">Fișiere temporare</target>
+			</trans-unit>
+			<trans-unit id="write" approved="yes">
+				<source>W</source>
+				<target state="translated">W</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

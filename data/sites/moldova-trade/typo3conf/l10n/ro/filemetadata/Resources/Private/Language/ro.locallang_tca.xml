@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="fe_groups.files">Fișiere autorizate</label>
+			<label index="palette.content_date">Data conținutului</label>
+			<label index="palette.geo_location">Geolocalizare</label>
+			<label index="palette.metrics">Valori</label>
+			<label index="palette.visibility">Vizibilitate</label>
+			<label index="placeholder.keywords">Cuvînt cheie 1, cuvînt cheie 2, ...</label>
+			<label index="sys_file_metadata.caption">Etichetă</label>
+			<label index="sys_file_metadata.color_space">Spațiu de culori</label>
+			<label index="sys_file_metadata.content_creation_date">Data creării conținutului</label>
+			<label index="sys_file_metadata.content_modification_date">Data modificării conținutului</label>
+			<label index="sys_file_metadata.creator">Creator</label>
+			<label index="sys_file_metadata.creator_tool">Unealta de creare</label>
+			<label index="sys_file_metadata.download_name">Nume pentru descărcare</label>
+			<label index="sys_file_metadata.duration">Durată</label>
+			<label index="sys_file_metadata.fe_groups">Permisii frontend</label>
+			<label index="sys_file_metadata.height">Înălțime</label>
+			<label index="sys_file_metadata.keywords">Cuvinte cheie</label>
+			<label index="sys_file_metadata.language">Limba fișierului</label>
+			<label index="sys_file_metadata.latitude">Latitudine</label>
+			<label index="sys_file_metadata.location_city">Orașul</label>
+			<label index="sys_file_metadata.location_country">Țara</label>
+			<label index="sys_file_metadata.location_region">Regiunea</label>
+			<label index="sys_file_metadata.longitude">Longitudine</label>
+			<label index="sys_file_metadata.note">Notă</label>
+			<label index="sys_file_metadata.pages">Număr de pagini</label>
+			<label index="sys_file_metadata.publisher">Editor</label>
+			<label index="sys_file_metadata.ranking">Clasament</label>
+			<label index="sys_file_metadata.source">Sursă</label>
+			<label index="sys_file_metadata.status">Statut</label>
+			<label index="sys_file_metadata.status.1">Ok</label>
+			<label index="sys_file_metadata.status.2">În așteptare</label>
+			<label index="sys_file_metadata.status.3">În revizie</label>
+			<label index="sys_file_metadata.unit">Unitate</label>
+			<label index="sys_file_metadata.visible">Vizibil</label>
+			<label index="sys_file_metadata.width">Lungime</label>
+			<label index="tabs.metadata">Metainformații</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="all">Toate</label>
+			<label index="allpages">Statistici pentru toate paginile. Selectaţi o pagina ce conţine un formular de căutare indexată pentru a vedea mai multe statistici</label>
+			<label index="justthispage">Statistici doar pentru această pagină</label>
+			<label index="last24hours">Ultimele 24 de ore</label>
+			<label index="last30days">Ultimele 30 de zile</label>
+			<label index="noresults">Nici un rezultat</label>
+			<label index="title">Statistici căutare indexată</label>
+			<label index="title2">Lista celor mai căutate cuvinte</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="mlang_labels_tabdescr">Centrul de sarcini va ofera posibilitatea sa vedeti ce aveti de facut, mesaje, notite, etc. Deasemeni ofera shortcut-uri spre modulele frontend disponibile si spre cele mai recent editate pagini. Centrul de sarcini este locul in care iti tii evidenta indatoririlor zilnice.</label>
+			<label index="mlang_labels_tablabel">Centru de sarcini cu liste de actiuni si mesaje.</label>
+			<label index="mlang_tabs_tab">Centrul de sarcini</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

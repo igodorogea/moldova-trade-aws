@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="mlang_labels_tabdescr">Acest modul vă permite să creaţi şi să modificaţi paginile web, să vizualizaţi statistici, să modificaţi diferitele limbi şi coloane de conţinut ale paginilor precum şi să accesaţi conţinut special cum ar fi cartea de oaspeţi sau cumpărături.</label>
+			<label index="mlang_labels_tablabel">Conţinut de pagină</label>
+			<label index="mlang_tabs_tab">Pagină</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

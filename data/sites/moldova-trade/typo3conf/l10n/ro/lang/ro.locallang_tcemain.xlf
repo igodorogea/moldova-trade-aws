@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ro" datatype="plaintext" original="messages" date="2015-08-20T00:31:07Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="version_swap.offline_record_updated" approved="yes">
+				<source>Record '%s' (%s) was updated. (Offline version)</source>
+				<target state="translated">Înregistrarea '%s' (%s) a fost actualizată. (versiunea Offline)</target>
+			</trans-unit>
+			<trans-unit id="version_swap.online_record_updated" approved="yes">
+				<source>Record '%s' (%s) was updated. (Online version)</source>
+				<target state="translated">Înregistrarea '%s' (%s) a fost actualizată. (Versiunea online)</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

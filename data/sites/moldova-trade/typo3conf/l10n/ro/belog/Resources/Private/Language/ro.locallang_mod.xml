@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="mlang_labels_tabdescr">Vă permite accesul la jurnalul de modificări backend TYPO3.&lt;br /&gt;&lt;em&gt;Acces doar pentru utilizatorii 'admin'!&lt;/em&gt;</label>
+			<label index="mlang_labels_tablabel">Vizualizare jurnal</label>
+			<label index="mlang_tabs_tab">Jurnal</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

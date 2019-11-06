@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="Actions"/>
+			<label index="Case sensitive search"/>
+			<label index="Clear"/>
+			<label index="Done"/>
+			<label index="Enter the text you want to find"/>
+			<label index="Find and Replace"/>
+			<label index="found item"/>
+			<label index="found items"/>
+			<label index="Highlight"/>
+			<label index="Inform a replacement word"/>
+			<label index="Next"/>
+			<label index="not found"/>
+			<label index="Options"/>
+			<label index="replaced item"/>
+			<label index="replaced items"/>
+			<label index="Replace with:"/>
+			<label index="Search for:"/>
+			<label index="Substitute all occurrences"/>
+			<label index="Substitute this occurrence?"/>
+			<label index="Undo"/>
+			<label index="Whole words only"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

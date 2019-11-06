@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="Cached_info">Informații salvate în cache</label>
+			<label index="Debug_log">Jurnal de depanare</label>
+			<label index="SQL_check">Verificare SQL</label>
+			<label index="title">Modul analiză DBAL</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

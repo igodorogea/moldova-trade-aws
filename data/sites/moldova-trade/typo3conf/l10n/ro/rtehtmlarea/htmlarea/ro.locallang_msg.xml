@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="ActiveX-required">Încărcarea editorului în Internet Explorer necesită setarea permisiei de execuţie a controalelor ActiveX.</label>
+			<label index="Allow-Clipboard-Helper-Extension"/>
+			<label index="Allow-Clipboard-Helper-Extension-Success"/>
+			<label index="HTML-document-not-well-formed">Documentul HTML nu este bine format.</label>
+			<label index="Moz-Clipboard"/>
+			<label index="Moz-Extension"/>
+			<label index="Moz-Extension-Failure">Ne pare rău, instalarea a eşuat.</label>
+			<label index="Moz-Extension-Install-Not-Enabled">Instalarea nu poate fi efectuată. Vă rog schimbaţi setările browserului dumneavoastră pentru a permite instalarea programelor de pe acest site.</label>
+			<label index="Moz-Extension-Success">Instalarea s-a efectuat cu succes. Trebuie să ieşiţi şi să reporniţi browserul pentru ca schimbările să aibă loc.</label>
+			<label index="Mozilla-Org-Install-Not-Enabled"/>
+			<label index="Path">Cale</label>
+			<label index="TEXT_MODE">Sunteţi în mod TEXT. Folosiţi butonul [&lt;&gt;] pentru a reveni la WYSIWYG</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

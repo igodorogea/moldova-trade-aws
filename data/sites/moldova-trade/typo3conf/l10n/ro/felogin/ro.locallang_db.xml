@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="felogin_forgotHash">Hash uitat</label>
+			<label index="felogin_redirectPid">Redirectare odată conectat la pagina (felogin)</label>
+			<label index="tt_content.CType_pi1">Login utilizator website</label>
+			<label index="tt_content.pi_flexform.error_header">Antet eroare de conectare</label>
+			<label index="tt_content.pi_flexform.error_message">Mesaj eroare de conectare</label>
+			<label index="tt_content.pi_flexform.field_manualOrder">Folosind lista de câmpuri de mai jos:</label>
+			<label index="tt_content.pi_flexform.field_orderDetails">Câmpuri/detalii utilizator:</label>
+			<label index="tt_content.pi_flexform.field_orderList">Câmpuri/listă utilizator:</label>
+			<label index="tt_content.pi_flexform.forgot_header">Antet parolă uitată</label>
+			<label index="tt_content.pi_flexform.forgot_message">Mesaj parolă uitată</label>
+			<label index="tt_content.pi_flexform.general_header">Antet general</label>
+			<label index="tt_content.pi_flexform.general_message">Mesaj general</label>
+			<label index="tt_content.pi_flexform.groupSelection">Selecţie grup FE:</label>
+			<label index="tt_content.pi_flexform.groupSelection_noGroup">nici un grup</label>
+			<label index="tt_content.pi_flexform.groupSelectmode">Mod selectare grup FE:</label>
+			<label index="tt_content.pi_flexform.groupSelectmode_DontShowSelected">Nu afişa selecţia</label>
+			<label index="tt_content.pi_flexform.groupSelectmode_FromTS">(din Typoscript)</label>
+			<label index="tt_content.pi_flexform.groupSelectmode_showAll">Afişează tot</label>
+			<label index="tt_content.pi_flexform.groupSelectmode_showSelected">Afişează selecţia</label>
+			<label index="tt_content.pi_flexform.logout_header">Antet deconectare</label>
+			<label index="tt_content.pi_flexform.logout_message">Mesaj deconectare</label>
+			<label index="tt_content.pi_flexform.redirectDisable">Nu permite redirecționarea</label>
+			<label index="tt_content.pi_flexform.redirectFirstMethod">Foloseşte primul mod suportat</label>
+			<label index="tt_content.pi_flexform.redirect_header">Antet redirecționare</label>
+			<label index="tt_content.pi_flexform.redirect_message">Mesaj redirecționare</label>
+			<label index="tt_content.pi_flexform.redirectMode">Mod de redirecționare</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.0">Definit de înregistrarea "Grup de utilizatori"</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.1">Definit de înregistrarea "Utilizator"</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.2">După conectare (TS sau Flexform)</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.3">După deconectare (TS sau Flexform)</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.4">După o eroare de conectare (TS sau Flexform)</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.5">Definit de parametrii GET/POST</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.6">Definit de Referrer</label>
+			<label index="tt_content.pi_flexform.redirectMode.I.7">Definit de intrările de tip "Domenii"</label>
+			<label index="tt_content.pi_flexform.redirectPageLogin">După o conectare reușită, redirecționați la pagina</label>
+			<label index="tt_content.pi_flexform.redirectPageLoginError">După o conectare eșuată, redirecționați la pagina</label>
+			<label index="tt_content.pi_flexform.redirectPageLogout">După deconectare, redirecționați la pagina</label>
+			<label index="tt_content.pi_flexform.sheet_general">General</label>
+			<label index="tt_content.pi_flexform.sheet_messages">Mesaje</label>
+			<label index="tt_content.pi_flexform.sheet_redirect">Opţiuni redirecționare</label>
+			<label index="tt_content.pi_flexform.show_forgot_password">Afişează link pentru "parolă uitată"</label>
+			<label index="tt_content.pi_flexform.show_logoutFormAfterLogin">Afișează formularul de deconectare după o conexiune reușită</label>
+			<label index="tt_content.pi_flexform.show_permalogin">Afişează opțiunea "Rămâi conectat"</label>
+			<label index="tt_content.pi_flexform.status_header">Antet afişare stare</label>
+			<label index="tt_content.pi_flexform.status_message">Mesaj afişare stare</label>
+			<label index="tt_content.pi_flexform.success_header">Antet afișat după conectarea cu succes</label>
+			<label index="tt_content.pi_flexform.success_message">Mesaj afișat după conectarea cu succes</label>
+			<label index="tt_content.pi_flexform.template_file">Fişier template</label>
+			<label index="tt_content.pi_flexform.user_storage">Pagină de stocare a Utilizatorilor</label>
+			<label index="tt_content.pi_flexform.welcome_header">Antet afişat pe pagina de "Bun venit"</label>
+			<label index="tt_content.pi_flexform.welcome_message">Mesaj pe pagina de "Bun venit"</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

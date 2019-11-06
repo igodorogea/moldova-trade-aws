@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="index_config">Configurare indexare</label>
+			<label index="index_config.alternative_source_pid">Pagină sursă alternativă:</label>
+			<label index="index_config.chashcalc">Calculare cHash (forţare recreare cache)?</label>
+			<label index="index_config.depth">Adâncime:</label>
+			<label index="index_config.depth.I.0">Doar o pagină</label>
+			<label index="index_config.depth.I.1">1 nivel</label>
+			<label index="index_config.depth.I.2">2 nivele</label>
+			<label index="index_config.depth.I.3">3 nivele</label>
+			<label index="index_config.description">Descriere:</label>
+			<label index="index_config.extensions">Limitare la extensiile (listă separată de virgulă):</label>
+			<label index="index_config.externalUrl">URL Extern (ex: "http://www.domain.org/"):</label>
+			<label index="index_config.fields">Câmpuri (primul e titlul):</label>
+			<label index="index_config.filepath">Cale fişier:</label>
+			<label index="index_config.get_params">String parametru GET (cu înlocuire ###UID###):</label>
+			<label index="index_config.indexcfgs">Configurări indexare:</label>
+			<label index="index_config.parameterCfgs">Configurare combinare parametri ([nume tabela]:&amp;[param]=###UID###):</label>
+			<label index="index_config.recordsbatch">Câte înregistrări să fie indexate pe minut (standard e 100):</label>
+			<label index="index_config.records_indexonchange">Indexare înregistrări de îndată ce sunt salvate?</label>
+			<label index="index_config.rootpage">Pagina rădăcină:</label>
+			<label index="index_config.set_id"/>
+			<label index="index_config.table2index">Tabela de indexat:</label>
+			<label index="index_config.timer_frequency">Cât de des doriţi reindexarea?</label>
+			<label index="index_config.timer_frequency.I.0">La fiecare oră</label>
+			<label index="index_config.timer_frequency.I.1">În fiecare zi (24 ore)</label>
+			<label index="index_config.timer_frequency.I.2">În fiecare săptămână</label>
+			<label index="index_config.timer_next_indexing">Următoarea indexare e programată la (daca e gol câmpul, atunci are loc imediat):</label>
+			<label index="index_config.timer_offset">Adăugare Offset de la miezul nopţii:</label>
+			<label index="index_config.title">Titlu:</label>
+			<label index="index_config.type">Tip:</label>
+			<label index="index_config.type.I.1">Înregistrări baza de date</label>
+			<label index="index_config.type.I.2">Cale fişier pe server</label>
+			<label index="index_config.type.I.3">URL Extern</label>
+			<label index="index_config.type.I.4">Arbore pagini</label>
+			<label index="index_config.type.I.5">Configuraţie Meta</label>
+			<label index="index_config.url_deny">Introduceţi sub-URLuri în care să nu se indexeze:</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

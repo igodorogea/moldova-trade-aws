@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="toolbaritem">Documente deschise și folosite recent</label>
+			<label index="open_docs">Documente deschise</label>
+			<label index="recent_docs">Documente utilizate recent</label>
+			<label index="no_docs">Momentan, nu există documente deschise.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

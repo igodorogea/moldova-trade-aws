@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ro" datatype="plaintext" original="messages" date="2015-08-08T00:05:47Z" product-name="felogin">
+		<header/>
+		<body>
+			<trans-unit id="change_password" approved="yes">
+				<source>Change your password</source>
+				<target state="translated">Modificați parola</target>
+			</trans-unit>
+			<trans-unit id="cookie_warning" approved="yes">
+				<source>Warning: There is a possibility that cookies are not enabled in your web browser! If your login disappears on your next click that is the case and you should enable cookies (or accept cookies from this website) immediately!</source>
+				<target state="translated">Atenție: E posibil să nu aveți cookie-urile activate în navigator! Dacă sunteți deconectați de îndată ce apăsați pe următorul link atunci înseamnă că trebuie să activați cookie-urile (sau să acceptați cookie-urile primite de la acest site)!</target>
+			</trans-unit>
+			<trans-unit id="ll_change_password_done_message" approved="yes">
+				<source>Your password has been saved. You can now login with your new password.</source>
+				<target state="translated">Parola dumneavoastră a fost salvată. Vă puteți conecta acum folosind noua parolă.</target>
+			</trans-unit>
+			<trans-unit id="ll_change_password_header" approved="yes">
+				<source>Change your password</source>
+				<target state="translated">Modificare parolă</target>
+			</trans-unit>
+			<trans-unit id="ll_change_password_message" approved="yes">
+				<source>Please enter your new password twice. Password needs a minimum length of %s chars.</source>
+				<target state="translated">Vă rugăm să vă introduceți noua parolă de două ori. Parola trebuie să aibă minim %s caractere.</target>
+			</trans-unit>
+			<trans-unit id="ll_change_password_nolinkprefix_message" approved="no">
+				<source>Error: there is no prefix for the link. Please set one of the following in your typoscript template: plugin.tx_felogin_pi1.feloginBaseURL = http://yourdomain/, config.baseURL = http://yourdomain/, config.absRefPrefix = /</source>
+				<target state="needs-translation">Eroare: Linkul nu conține prefix. Vă rugăm setați una dintre următoarele valori în template-ul typoscript: plugin.tx_felogin_pi1.feloginBaseURL = http://domeniuldvs/, config.baseURL = http://domeniuldvs/, config.absRelPrefix = http://domeniuldvs/</target>
+			</trans-unit>
+			<trans-unit id="ll_change_password_notequal_message" approved="yes">
+				<source>The passwords are not equal, please enter your new password twice. Password needs a minimum length of %s chars.</source>
+				<target state="translated">Parolele nu sunt egale, vă rugăm introduceți noua parolă de două ori. Parolele trebuie să aibă minim %s caractere.</target>
+			</trans-unit>
+			<trans-unit id="ll_change_password_notvalid_message" approved="yes">
+				<source>The link you clicked is not valid. Please repeat the forgot message procedure.</source>
+				<target state="translated">Link-ul apăsat nu este valid. Vă rugăm repetați procedura.</target>
+			</trans-unit>
+			<trans-unit id="ll_change_password_tooshort_message" approved="yes">
+				<source>The password length is too short. Please enter your new password twice. Password needs a minimum length of %s chars.</source>
+				<target state="translated">Lungimea parolei este prea mică. Vă rugăm introduceți noua parolă de două ori. Parola trebuie să aibă minim %s caractere.</target>
+			</trans-unit>
+			<trans-unit id="ll_enter_your_data">
+				<source>Username or email address:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="ll_error_header" approved="yes">
+				<source>Login failure</source>
+				<target state="translated">Eroare conectare</target>
+			</trans-unit>
+			<trans-unit id="ll_error_message" xml:space="preserve" approved="yes">
+				<source>An error occurred during login. Most likely you didn't enter the username or password correctly.
+Be certain that you enter them precisely as they are, including upper/lower case.
+Another possibility is that cookies might be disabled in your web browser.</source>
+			<target state="translated">Nu putem efectua conectarea. Cel mai probabil nu aţi introdus numele de utilizator sau parola corectă. Asiguraţi-vă că le introduceţi exact aşa cum sunt, inclusiv folosind caractere mici/mari. O altă posibilitate e ca să nu aveţi setate acceptarea de cookie de către browserul dumneavoastră.</target></trans-unit>
+			<trans-unit id="ll_forgot_email_nopassword" xml:space="preserve" approved="yes">
+				<source>Your password
+Hi %s
+
+We couldn't find a username for this email address and so cannot send the password to you. Probably you misspelled the email address (upper/lower case makes a difference) or maybe you even didn't register yet?</source>
+			<target state="translated">Parola dumneavoastră
+Bună %s
+Nu am putut găsi un nume de utilizator cu această adresă de email deci nu vă putem trimite parola. Probabil a-ţi scris greşit adresa de email (pot fi case sensitive) sau poate nu v-aţi înregistrat încă?</target></trans-unit>
+			<trans-unit id="ll_forgot_email_password" xml:space="preserve" approved="yes">
+				<source>Your password
+Hi %s
+
+Your username is "%s"
+Your password is "%s"</source>
+			<target state="translated">Parola dumneavoastră
+Bună %s
+
+Numele dumneavoastră de utilizator este: "%s"
+Parola dumneavoastră este: "%s"</target></trans-unit>
+			<trans-unit id="ll_forgot_header" approved="yes">
+				<source>Forgot your password?</source>
+				<target state="translated">V-aţi uitat parola?</target>
+			</trans-unit>
+			<trans-unit id="ll_forgot_header_backToLogin" approved="yes">
+				<source>Return to login form</source>
+				<target state="translated">Retur la formularul de conectare</target>
+			</trans-unit>
+			<trans-unit id="ll_forgot_message" approved="yes">
+				<source>Please enter the email address by which you registered your user account. Then press "Send password" and your password will immediately be emailed to you. Make sure to spell your email address correctly.</source>
+				<target state="translated">Vă rog introduceţi adresa de email pe care aţi folosit-o ca să vă creaţi contul. Apoi apăsaţi "Trimite parola" şi parola vă va fi trimisă imediat pe email. Asiguraţi-vă că introduceţi adresa de email corectă.</target>
+			</trans-unit>
+			<trans-unit id="ll_forgot_message_emailSent" approved="yes">
+				<source>Your password has now been sent to the email address %s</source>
+				<target state="translated">Parola v-a fost trimisă la adresa de email %s</target>
+			</trans-unit>
+			<trans-unit id="ll_forgot_reset_message" approved="yes">
+				<source>Please enter your username or email address. Instructions for resetting the password will be immediately emailed to you.</source>
+				<target state="translated">Vă rugăm introduceți utilizatorul sau adresa dumneavoastră de email. Instrucțiunile pentru resetarea parolei vă vor fi trimise imediat pe email.</target>
+			</trans-unit>
+			<trans-unit id="ll_forgot_reset_message_emailSent" approved="yes">
+				<source>An email has been sent to the address stored in your account and contains a link to reset your password. If you do not receive an email, your account or email address was not found.</source>
+				<target state="translated">Un email a fost trimis la adresa de email asociată contului dumneavoastră. Acest email conține un link ce vă permite să vă resetați parola. Dacă nu veți primi emailul atunci, fie utilizatorul, fie adresa dumneavoastră de email nu au fost găsite.</target>
+			</trans-unit>
+			<trans-unit id="ll_forgot_reset_message_error" approved="yes">
+				<source>Your account or email address does not exist.</source>
+				<target state="translated">Contul sau adresa dumneavoastră de email nu există.</target>
+			</trans-unit>
+			<trans-unit id="ll_forgot_validate_reset_password" xml:space="preserve" approved="yes">
+				<source>Your new password
+Dear %s,
+
+This email was sent in response to your request to reset your password. Please click on the link below.
+%s
+
+For security reasons, this link is only active until %s. If you do not visit the link before then, you will need to repeat the password reset steps.</source>
+			<target state="translated">Noua dumneavoastră parolă
+Dragă %s,
+
+Acest email a fost trimis ca urmare a cererii făcute pentru a reseta parola. Vă rugăm să faceți click pe link-ul de mai jos
+%s
+
+Din motive de securitate, acest link va rămâne activ pînă la data de %s. Dacă nu vizitați acest link înainte de data specificată, va trebui să repetați procesul de resetare al parolei.</target></trans-unit>
+			<trans-unit id="ll_logout_header" approved="yes">
+				<source>You have logged out.</source>
+				<target state="translated">V-aţi deconectat.</target>
+			</trans-unit>
+			<trans-unit id="ll_logout_message" approved="yes">
+				<source>You just logged out from your user session on this website. You can login again or as another user by the form below.</source>
+				<target state="translated">Tocmai v-aţi deconectat de pe acest site. Puteţi să vă reconectați sau să vă conectați ca alt utilizator folosind formularul de mai jos.</target>
+			</trans-unit>
+			<trans-unit id="ll_status_header" approved="yes">
+				<source>Current status</source>
+				<target state="translated">Stare curentă</target>
+			</trans-unit>
+			<trans-unit id="ll_status_message" approved="yes">
+				<source>This is your current status:</source>
+				<target state="translated">Aceasta este starea curentă:</target>
+			</trans-unit>
+			<trans-unit id="ll_success_header" approved="yes">
+				<source>Login successful</source>
+				<target state="translated">Conectare efectuată</target>
+			</trans-unit>
+			<trans-unit id="ll_success_message" approved="yes">
+				<source>You are now logged in as '###USER###'</source>
+				<target state="translated">Sunteți conectat cu utilizatorul '###USER###'</target>
+			</trans-unit>
+			<trans-unit id="ll_welcome_header" approved="yes">
+				<source>User login</source>
+				<target state="translated">Nume de utilizator</target>
+			</trans-unit>
+			<trans-unit id="ll_welcome_message" approved="yes">
+				<source>Enter your username and password here in order to log in on the website:</source>
+				<target state="translated">Introduceţi numele de utilizator şi parola pentru a vă loga pe site:</target>
+			</trans-unit>
+			<trans-unit id="login" approved="yes">
+				<source>Login</source>
+				<target state="translated">Conectare</target>
+			</trans-unit>
+			<trans-unit id="logout" approved="yes">
+				<source>Logout</source>
+				<target state="translated">Deconectare</target>
+			</trans-unit>
+			<trans-unit id="newpassword_label1" approved="yes">
+				<source>Enter new password</source>
+				<target state="translated">Introduceți noua parolă</target>
+			</trans-unit>
+			<trans-unit id="newpassword_label2" approved="yes">
+				<source>Repeat new password</source>
+				<target state="translated">Reintroduceți noua parolă</target>
+			</trans-unit>
+			<trans-unit id="noValidRedirectUrl">
+				<source>Url "%s" for redirect was not accepted!</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="password" approved="yes">
+				<source>Password:</source>
+				<target state="translated">Parolă:</target>
+			</trans-unit>
+			<trans-unit id="permalogin" approved="yes">
+				<source>Stay logged in:</source>
+				<target state="translated">Rămâi conectat:</target>
+			</trans-unit>
+			<trans-unit id="reset_password" approved="yes">
+				<source>Reset Password</source>
+				<target state="translated">Resetare parolă</target>
+			</trans-unit>
+			<trans-unit id="send_password" approved="yes">
+				<source>Send password</source>
+				<target state="translated">Trimite parola</target>
+			</trans-unit>
+			<trans-unit id="username" approved="yes">
+				<source>Username:</source>
+				<target state="translated">Utilizator:</target>
+			</trans-unit>
+			<trans-unit id="xssAttackDetected">
+				<source>Url "%s" contained an XSS attack and was cleaned!</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="your_email" approved="yes">
+				<source>Your email:</source>
+				<target state="translated">Emailul dumneavoastră:</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

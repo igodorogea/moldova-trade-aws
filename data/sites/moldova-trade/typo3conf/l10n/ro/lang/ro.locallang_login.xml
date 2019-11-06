@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="availableInterfaces">Backend,Frontend,Backend Tradițional</label>
+			<label index="clear">Reinițializare cîmp!</label>
+			<label index="copyright">Copyright</label>
+			<label index="details.link">Mergeți la %s pentru detalii.</label>
+			<label index="error.capslock">Atenție: Caps lock este activ!</label>
+			<label index="error.cookies">Vă rugăm să activați Cookie-urile!</label>
+			<label index="error.cookies_ignore">Ignoră!</label>
+			<label index="error.furtherInformation">Pentru mai multe informații sau pentru ajutor adițional click aici</label>
+			<label index="error.javascript">Vă rugăm să activați JavaScript!</label>
+			<label index="error.login">Tentativa dumneavoastră de conectare a eșuat. Verificați vă rugăm corectitudinea utilizatorului și a parolei, inclusiv caracterele majuscule/minuscule.</label>
+			<label index="error.login.description">Verificați ca utilizatorul și parola să fie scrise corect, inclusiv folosirea de majuscule/minuscule.</label>
+			<label index="error.login.title">Încercarea de conectare a eșuat</label>
+			<label index="extension.copyright">Drepturile de autor al extensiilor aparține proprietarilor lor.</label>
+			<label index="free.software">Acesta este un program gratuit, sunteți bineveniți să îl redistribuiți sub anumite condiții; %sclick pentru detalii. %s</label>
+			<label index="headline">Conectare la backend-ul TYPO3 al sitului ###SITENAME###</label>
+			<label index="info.about">Acesta este accesul backend TYPO3. Aveți nevoie de un utilizator și o parolă pentru acces la interfața de administrare. Dacă sunteți un vizitator al sitului ###SITENAME###, vă rugăm să vizitați adresa publică a sitului: ###SITELINK###</label>
+			<label index="info.cookies_and_js">(Notă: Cookie și Javascript trebuie activate!)</label>
+			<label index="info.reset">Reinițializare formular</label>
+			<label index="interface.backend">Backend</label>
+			<label index="interface.backend_old">Backend Tradițional</label>
+			<label index="interface.frontend">Frontend</label>
+			<label index="keep.notice">Obstrucționarea acestei informații este interzisă prin lege.</label>
+			<label index="labels.donate">Donație</label>
+			<label index="labels.interface">Interfață</label>
+			<label index="labels.openId">OpenID</label>
+			<label index="labels.password">Parolă</label>
+			<label index="labels.submitLogin">Conectare</label>
+			<label index="labels.submitLogout">Deconectare</label>
+			<label index="labels.switchToDefault">Treceți la modul de conexiune implicit</label>
+			<label index="labels.switchToOpenId">Treceți în mod OpenID</label>
+			<label index="labels.username">Utilizator</label>
+			<label index="labels.whatIsOpenId">Ce este OpenID?</label>
+			<label index="login_process">Verificare date de conexiune...</label>
+			<label index="newsheadline">Mesaje importante:</label>
+			<label index="no.warranty">TYPO3 nu vine cu ABSOLUT NICI O GARANȚIE; %sclick pentru detalii.%s</label>
+			<label index="typo3.cms">CMS TYPO3</label>
+			<label index="typo3.logo">Logo TYPO3</label>
+			<label index="version.short">ver.</label>
+			<label index="warning.incompatibleBrowser">Folosiți o versiune a navigatorului care nu este suportată.</label>
+			<label index="warning.incompatibleBrowserHeadline">Navigatorul nu este suportat</label>
+			<label index="warning.incompatibleBrowserInternetExplorer">Vă rugăm instalați &lt;a href="http://www.microsoft.com/internetexplorer/" target="_blank" /&gt;o versiune mai nouă a navigatorului&lt;/a&gt;.</label>
+			<label index="warranty.by">Garanția este furnizată de %s; %sclick pentru detalii.%s</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

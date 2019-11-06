@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="areYouSure"/>
+			<label index="constantEditor"/>
+			<label index="createTemplate"/>
+			<label index="createTemplateToEditConfiguration"/>
+			<label index="extTemplate"/>
+			<label index="extTemplateAction"/>
+			<label index="extTemplateDescription"/>
+			<label index="goToClosest"/>
+			<label index="goToClosestAction"/>
+			<label index="goToClosestDescription"/>
+			<label index="infoModify"/>
+			<label index="isExt"/>
+			<label index="isRoot"/>
+			<label index="moduleTitle">Unelte template</label>
+			<label index="newWebsite"/>
+			<label index="newWebsiteAction"/>
+			<label index="newWebsiteDescription"/>
+			<label index="noTemplate"/>
+			<label index="noTemplateDescription"/>
+			<label index="objectBrowser"/>
+			<label index="overview"/>
+			<label index="pageName"/>
+			<label index="templateAnalyzer"/>
+			<label index="templates"/>
+			<label index="titleNewSite"/>
+			<label index="titleNewSiteStandard"/>
+			<label index="viewTemplates">Vizualizare template al</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

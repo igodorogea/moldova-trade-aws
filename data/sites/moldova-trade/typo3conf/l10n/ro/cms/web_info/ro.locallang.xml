@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="hits_title">Statistici accesare</label>
+			<label index="lang_getlangsta_createNewTranslationHeaders">Creare antete traduceri noi</label>
+			<label index="lang_renderl10n_badThingThereAre">EROARE: există două sau mai multe înregistrări care se suprapun pentru acest limbaj! Este permisă una singură!</label>
+			<label index="lang_renderl10n_CEcount">Numărare elemente de conţinut</label>
+			<label index="lang_renderl10n_default">Implicit</label>
+			<label index="lang_renderl10n_editDefaultLanguagePage">Editare antet - limbaj implicit pagină</label>
+			<label index="lang_renderl10n_editLangOverlays">Editare înregistrări toate limbajele</label>
+			<label index="lang_renderl10n_editLanguageOverlayRecord">Editare înregistrări limbaj</label>
+			<label index="lang_renderl10n_editPage">Editare pagina</label>
+			<label index="lang_renderl10n_editPageLang">Editare traducere pagină</label>
+			<label index="lang_renderl10n_editPageProperties">Editează toate proprietăţile paginii</label>
+			<label index="lang_renderl10n_page">Pagina</label>
+			<label index="lang_renderl10n_viewPage">Vezi pagina</label>
+			<label index="lang_title"/>
+			<label index="pageInformation">Informaţii despre pagini</label>
+			<label index="pages_0">Setări de bază</label>
+			<label index="pages_1">Înregistrări - vedere de ansamblu</label>
+			<label index="pages_2">Cache şi vîrsta</label>
+			<label index="page_sysnote">Note interne</label>
+			<label index="page_title">Structura de pagini</label>
+			<label index="pI_crDate">Data creării</label>
+			<label index="pI_crUser">Creat de</label>
+			<label index="pI_lastChange">Ultima schimbare</label>
+			<label index="pI_lastChangeContent">Ultima schimbare, conţinut</label>
+			<label index="stat_period">Statistici de la %s pînă la %s</label>
+			<label index="stat_type_0">Accesări pagină</label>
+			<label index="stat_type_1">Accesări totale</label>
+			<label index="stat_type_2">Accesări în secţiunile de bază</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

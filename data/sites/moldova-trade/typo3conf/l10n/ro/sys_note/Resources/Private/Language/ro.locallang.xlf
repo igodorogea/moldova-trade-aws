@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ro" datatype="plaintext" original="messages" date="2015-07-30T01:05:45Z" product-name="sys_note">
+		<header/>
+		<body>
+			<trans-unit id="author" approved="yes">
+				<source>Author:</source>
+				<target state="translated">Autor:</target>
+			</trans-unit>
+			<trans-unit id="category.1" approved="yes">
+				<source>Instructions</source>
+				<target state="translated">Instrucțiuni</target>
+			</trans-unit>
+			<trans-unit id="category.2" approved="yes">
+				<source>Template</source>
+				<target state="translated">Template</target>
+			</trans-unit>
+			<trans-unit id="category.3" approved="yes">
+				<source>Notes</source>
+				<target state="translated">Note</target>
+			</trans-unit>
+			<trans-unit id="category.4" approved="yes">
+				<source>To-do</source>
+				<target state="translated">De-făcut</target>
+			</trans-unit>
+			<trans-unit id="date" approved="yes">
+				<source>Date:</source>
+				<target state="translated">Dată:</target>
+			</trans-unit>
+			<trans-unit id="personal" approved="yes">
+				<source>Personal:</source>
+				<target state="translated">Personal:</target>
+			</trans-unit>
+			<trans-unit id="yes" approved="yes">
+				<source>Yes</source>
+				<target state="translated">Da</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

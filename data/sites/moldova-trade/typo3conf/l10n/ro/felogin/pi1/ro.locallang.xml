@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="change_password">Modificați parola</label>
+			<label index="cookie_warning">Atenție: E posibil să nu aveți cookie-urile activate în navigator! Dacă sunteți deconectați de îndată ce apăsați pe următorul link atunci înseamnă că trebuie să activați cookie-urile (sau să acceptați cookie-urile primite de la acest site)!</label>
+			<label index="ll_change_password_done_message">Parola dumneavoastră a fost salvată. Vă puteți conecta acum folosind noua parolă.</label>
+			<label index="ll_change_password_header">Modificare parolă</label>
+			<label index="ll_change_password_message">Vă rugăm să vă introduceți noua parolă de două ori. Parola trebuie să aibă minim %s caractere.</label>
+			<label index="ll_change_password_nolinkprefix_message">Eroare: Linkul nu conține prefix. Vă rugăm setați una dintre următoarele valori în template-ul typoscript: plugin.tx_felogin_pi1.feloginBaseURL = http://domeniuldvs/, config.baseURL = http://domeniuldvs/, config.absRelPrefix = http://domeniuldvs/</label>
+			<label index="ll_change_password_notequal_message">Parolele nu sunt egale, vă rugăm introduceți noua parolă de două ori. Parolele trebuie să aibă minim %s caractere.</label>
+			<label index="ll_change_password_notvalid_message">Link-ul apăsat nu este valid. Vă rugăm repetați procedura.</label>
+			<label index="ll_change_password_tooshort_message">Lungimea parolei este prea mică. Vă rugăm introduceți noua parolă de două ori. Parola trebuie să aibă minim %s caractere.</label>
+			<label index="ll_enter_your_data"/>
+			<label index="ll_error_header">Eroare conectare</label>
+			<label index="ll_error_message">Nu putem efectua conectarea. Cel mai probabil nu aţi introdus numele de utilizator sau parola corectă. Asiguraţi-vă că le introduceţi exact aşa cum sunt, inclusiv folosind caractere mici/mari. O altă posibilitate e ca să nu aveţi setate acceptarea de cookie de către browserul dumneavoastră.</label>
+			<label index="ll_forgot_email_nopassword">Parola dumneavoastră
+Bună %s
+Nu am putut găsi un nume de utilizator cu această adresă de email deci nu vă putem trimite parola. Probabil a-ţi scris greşit adresa de email (pot fi case sensitive) sau poate nu v-aţi înregistrat încă?</label>
+			<label index="ll_forgot_email_password">Parola dumneavoastră
+Bună %s
+
+Numele dumneavoastră de utilizator este: "%s"
+Parola dumneavoastră este: "%s"</label>
+			<label index="ll_forgot_header">V-aţi uitat parola?</label>
+			<label index="ll_forgot_header_backToLogin">Retur la formularul de conectare</label>
+			<label index="ll_forgot_message">Vă rog introduceţi adresa de email pe care aţi folosit-o ca să vă creaţi contul. Apoi apăsaţi "Trimite parola" şi parola vă va fi trimisă imediat pe email. Asiguraţi-vă că introduceţi adresa de email corectă.</label>
+			<label index="ll_forgot_message_emailSent">Parola v-a fost trimisă la adresa de email %s</label>
+			<label index="ll_forgot_reset_message">Vă rugăm introduceți utilizatorul sau adresa dumneavoastră de email. Instrucțiunile pentru resetarea parolei vă vor fi trimise imediat pe email.</label>
+			<label index="ll_forgot_reset_message_emailSent">Un email a fost trimis la adresa de email asociată contului dumneavoastră. Acest email conține un link ce vă permite să vă resetați parola. Dacă nu veți primi emailul atunci, fie utilizatorul, fie adresa dumneavoastră de email nu au fost găsite.</label>
+			<label index="ll_forgot_reset_message_error">Contul sau adresa dumneavoastră de email nu există.</label>
+			<label index="ll_forgot_validate_reset_password">Noua dumneavoastră parolă
+Dragă %s,
+
+Acest email a fost trimis ca urmare a cererii făcute pentru a reseta parola. Vă rugăm să faceți click pe link-ul de mai jos
+%s
+
+Din motive de securitate, acest link va rămâne activ pînă la data de %s. Dacă nu vizitați acest link înainte de data specificată, va trebui să repetați procesul de resetare al parolei.</label>
+			<label index="ll_logout_header">V-aţi deconectat.</label>
+			<label index="ll_logout_message">Tocmai v-aţi deconectat de pe acest site. Puteţi să vă reconectați sau să vă conectați ca alt utilizator folosind formularul de mai jos.</label>
+			<label index="ll_status_header">Stare curentă</label>
+			<label index="ll_status_message">Aceasta este starea curentă:</label>
+			<label index="ll_success_header">Conectare efectuată</label>
+			<label index="ll_success_message">Sunteți conectat cu utilizatorul '###USER###'</label>
+			<label index="ll_welcome_header">Nume de utilizator</label>
+			<label index="ll_welcome_message">Introduceţi numele de utilizator şi parola pentru a vă loga pe site:</label>
+			<label index="login">Conectare</label>
+			<label index="logout">Deconectare</label>
+			<label index="newpassword_label1">Introduceți noua parolă</label>
+			<label index="newpassword_label2">Reintroduceți noua parolă</label>
+			<label index="noValidRedirectUrl"/>
+			<label index="password">Parolă:</label>
+			<label index="permalogin">Rămâi conectat:</label>
+			<label index="reset_password">Resetare parolă</label>
+			<label index="send_password">Trimite parola</label>
+			<label index="username">Utilizator:</label>
+			<label index="xssAttackDetected"/>
+			<label index="your_email">Emailul dumneavoastră:</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

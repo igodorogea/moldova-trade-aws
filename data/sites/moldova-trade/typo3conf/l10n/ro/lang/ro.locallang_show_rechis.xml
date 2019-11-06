@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="age">Vîrstă</label>
+			<label index="changes">Schimbari asupra inregistrarii</label>
+			<label index="delete">ştergere</label>
+			<label index="differenceMsg">In coloana Diferente &lt;font color=green&gt;textul verde&lt;/font&gt; reprezinta noile valori, iar &lt;font color==red&gt;textul rosu reprezinta vechile valori ce au fost inlaturate.</label>
+			<label index="differences">Diferenţe</label>
+			<label index="elementHistory">Momentan vizualizaţi istoricul unui element.</label>
+			<label index="elementHistory_link">Afişează întregul istoric al paginii!</label>
+			<label index="externalChange">Intermediaza schimbare externa</label>
+			<label index="fullView">Retur la vederea completă</label>
+			<label index="insert">inserare</label>
+			<label index="linkRecordHistory">Limitează istoricul la această înregistrare</label>
+			<label index="markState">marchează această modificare</label>
+			<label index="maxSteps">Afişează înregistrări:</label>
+			<label index="maxSteps_all">TOATE</label>
+			<label index="maxSteps_marked">marcat</label>
+			<label index="mergedDifferences">Previzualizare pentru Restaurare</label>
+			<label index="no">Nu</label>
+			<label index="noDifferences">Nu există diferenţe faţă de pagina curentă!</label>
+			<label index="return">Revenire</label>
+			<label index="returnLink">Apasati aici pentru revenire la pagina anterioara</label>
+			<label index="revertAll">Restaurare toate modificările afişate</label>
+			<label index="revertField">Refacere valori vechi ale acestui camp</label>
+			<label index="revertRecord">Restaurare element</label>
+			<label index="settings">Setări</label>
+			<label index="showDiff">Afişează diferenţe:</label>
+			<label index="showDiff_inline">Inline</label>
+			<label index="showDiff_no">Nu</label>
+			<label index="showInsertDelete">Afişează inserările/ştergerile de elemente:</label>
+			<label index="showSubElements">Afişează subelemente:</label>
+			<label index="sumUpChanges">Acumuleaza schimbari pana in acest moment</label>
+			<label index="tableUid">Tabel/Uid</label>
+			<label index="time">Timp</label>
+			<label index="title">Arata istoria inregistrarilor</label>
+			<label index="unmarkState">demarchează această modificare</label>
+			<label index="user">Utilizator</label>
+			<label index="yes">Da</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

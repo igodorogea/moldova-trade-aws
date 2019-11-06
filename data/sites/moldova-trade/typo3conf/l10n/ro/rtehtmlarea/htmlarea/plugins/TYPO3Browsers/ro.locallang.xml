@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="download_altText">Porneşte descărcare fişier</label>
+			<label index="download_titleText">Porneşte descărcare fişier</label>
+			<label index="external_link_altText">Deschide link extern în fereastra curentă</label>
+			<label index="external_link_new_window_altText">Deschide link extern în fereastră nouă</label>
+			<label index="external_link_new_window_titleText">Deschide link extern în fereastră nouă</label>
+			<label index="external_link_titleText">Deschide link extern în fereastra curentă</label>
+			<label index="internal_link_altText">Deschide link intern în fereastra curentă</label>
+			<label index="internal_link_new_window_altText">Deschide link intern în fereastră nouă</label>
+			<label index="internal_link_new_window_titleText">Deschide link intern în fereastră nouă</label>
+			<label index="internal_link_titleText">Deschide link intern în fereastra curentă</label>
+			<label index="mail_altText">Deschide fereastră pentru a trimite email</label>
+			<label index="mail_titleText">Deschide fereastră pentru a trimite email</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

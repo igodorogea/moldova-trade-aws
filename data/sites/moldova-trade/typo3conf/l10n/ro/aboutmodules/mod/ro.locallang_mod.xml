@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+      <label index="mlang_labels_tablabel">Informaţii despre module</label>
+      <label index="mlang_labels_tabdescr">Afişează pe această pagină informaţii despre modulele disponibile</label>
+      <label index="mlang_tabs_tab">Despre module</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

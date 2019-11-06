@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="clickAPage_content">Va rugam apasati pe una din paginile din arbore.</label>
+			<label index="mlang_labels_tabdescr">Aici veti gasi functii pentru export si import. In plus, acest modul contine functii specializate - magicieni - utile in situatii specifice. De exemplu puteti crea un set de pagini si le puteti sorta.</label>
+			<label index="mlang_labels_tablabel">Functii avansate</label>
+			<label index="mlang_tabs_tab">Functii</label>
+			<label index="title">Functii avansate</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

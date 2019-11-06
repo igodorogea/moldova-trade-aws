@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="mlang_labels_tabdescr">Manual inline bazat pe sursele de informaţie pentru Context Sensitive Help din sistem.</label>
+			<label index="mlang_labels_tablabel">Manual inclus TYPO3 &lt;hr&gt; Context: Titlu modul</label>
+			<label index="mlang_tabs_tab">Manual</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

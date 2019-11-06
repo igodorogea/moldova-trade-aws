@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="1">Afișare pagină</label>
+			<label index="16">Editare conținut</label>
+			<label index="16_t">Schimba/Adauga/Sterge/Muta continut</label>
+			<label index="1_t">Afiseaza/Copie pagina si continutul</label>
+			<label index="2">Editare pagină</label>
+			<label index="2_t">Schimba/Muta pagina, ex. schimba titlul paginii</label>
+			<label index="4">Ștergere pagină</label>
+			<label index="4_t">Sterge pagina si continutul</label>
+			<label index="8">Pagini noi</label>
+			<label index="8_t">Creeaza pagini noi sub aceasta pagina</label>
+			<label index="Abort">Renunta</label>
+			<label index="A_Denied">Acces interzis</label>
+			<label index="A_Granted">Acces permis</label>
+			<label index="ch_permissions">Schimba drepturi</label>
+			<label index="def">Definitie: 'continutul' este reprezentat de inregistrarile din toate tabelele pentru o pagina, cu exceptia datelor din tabelul 'pages' (pagini).</label>
+			<label index="deleted">șters</label>
+			<label index="Depth">Profunzime</label>
+			<label index="Edit">EDITEAZA</label>
+			<label index="EditLock">Blocare</label>
+			<label index="EditLock_descr">Pagina şi întreg conţinutul este blocat la editare pentru toţi utilizatorii.</label>
+			<label index="Everybody">Toti</label>
+			<label index="Group">Grup</label>
+			<label index="Legend">Legenda</label>
+			<label index="levels">nivele</label>
+			<label index="mlang_labels_tabdescr">Stabilirea drepturilor asupra paginii este vitala pentru a controla accesul la pagini al utilizatorilor backend. Puteti desemna un utilizator si un grup drept proprietar al paginii si se pot stabili drepturi pentru fiecare.</label>
+			<label index="mlang_labels_tablabel">Editeaza permisiunile paginii</label>
+			<label index="mlang_tabs_tab">Acces</label>
+			<label index="Mode">Mod</label>
+			<label index="notSet">nesetat</label>
+			<label index="Owner">Proprietar</label>
+			<label index="pages_affected">pagini afectate</label>
+			<label index="permissions">Drepturi</label>
+			<label index="recursive">Seteaza recursiv</label>
+			<label index="Save">Salveaza</label>
+			<label index="User">Utilizator</label>
+			<label index="user_overview">Afiseaza drepturi utilizator</label>
+			<label index="WorkspaceWarning">Avertisment Spațiu de lucru</label>
+			<label index="WorkspaceWarningText">Permisiile setate în Spațiul de lucru sunt aplicate elementelor doar &lt;em&gt;după&lt;/em&gt; ce acestea sunt publicate! Dacă aveți nevoie să setați permisii ce trebuie să se aplice de îndată, trebuie să faceți modificările în spațiul de lucru Live. (Permisiile sunt întotdeauna evaluale în spațiul de lucru Live al unei versiuni ciornă)</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

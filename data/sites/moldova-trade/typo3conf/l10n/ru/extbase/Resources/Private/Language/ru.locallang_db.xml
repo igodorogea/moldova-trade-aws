@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="fe_groups.tx_extbase_type">Тип записи</label>
+			<label index="fe_groups.tx_extbase_type.0">не определен</label>
+			<label index="fe_groups.tx_extbase_type.Tx_Extbase_Domain_Model_FrontendUserGroup">Tx_Extbase_Domain_Model_FrontendUserGroup</label>
+			<label index="fe_users.tx_extbase_type">Тип записи</label>
+			<label index="fe_users.tx_extbase_type.0">не определен</label>
+			<label index="fe_users.tx_extbase_type.Tx_Extbase_Domain_Model_FrontendUser">Tx_Extbase_Domain_Model_FrontendUser</label>
+			<label index="task.action">Команда CommandController</label>
+			<label index="task.description">Позволяет настройку и использование команд Extbase CommandController через механизм планировщика.</label>
+			<label index="task.name">Задача Extbase CommandController</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

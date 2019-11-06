@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+      <label index="saltedpasswords.config.checkConfigurationFE">Проверка настройки внешнего интерфейса</label>
+      <label index="saltedpasswords.config.checkConfigurationBE">Проверка настройки внутреннего интерфейса</label>
+      <label index="saltedpasswords.config.FE.enabled">Включение во внешнем интерфейсе: включение SaltedPasswords во внешнем интерфейсе</label>
+      <label index="saltedpasswords.config.FE.saltedPWHashingMethod">Метод хеширования для внешнего интерфейса: определение используемого метода хеширования. Выберете "Портативное PHP хеширование паролей" для совместимости с другими CMS (например, Drupal, Wordpress). Выберете "MD5 salted хеширование" для использования паролей TYPO3 с идентификацией на уровне ОС (другие сервера могут использовать пароли TYPO3). Выберете "Blowfish salted хеширование" для повышенного уровня безопасности на уровне ОС (Blowfish может не поддерживаться на работающей системе).</label>
+      <label index="saltedpasswords.config.BE.saltedPWHashingMethod">Метод хеширования для внутреннего интерфейса: определение используемого метода хеширования. Выберете "Портативное PHP хеширование паролей" для совместимости с другими CMS (например, Drupal, Wordpress). Выберете "MD5 salted хеширование" для использования паролей TYPO3 с идентификацией на уровне ОС (другие сервера могут использовать пароли TYPO3). Выберете "Blowfish salted хеширование" для повышенного уровня безопасности на уровне ОС (Blowfish может не поддерживаться на работающей системе).</label>
+      <label index="saltedpasswords.config.checkConfigurationFE2">Проверка настроек внешнего интерфейса</label>
+      <label index="saltedpasswords.config.FE.forceSalted">Принудительное использование salted паролей: принудительное использование SaltedPasswords. Старые MD5 хешированные пароли перестают работать.</label>
+      <label index="saltedpasswords.config.FE.onlyAuthService">Эксклюзивное использование внешнего интерфейса: если включено и при аутентификации происходит ошибка, сервис аутентификации более не будет работать.</label>
+      <label index="saltedpasswords.config.FE.updatePasswd">Обновление паролей внешних пользователей: оставить существующие пароли внешних пользователей, но автоматически преобразовать их в формат salted хеширования при аутентификации (не будет работать, если включено forceSalted).</label>
+      <label index="saltedpasswords.config.checkConfigurationBE2">Проверка настроек внутреннего интерфейса</label>
+      <label index="saltedpasswords.config.BE.forceSalted">Принудительное использование salted паролей: принудительное использование SaltedPasswords. Старые MD5 хешированные пароли перестают работать.</label>
+      <label index="saltedpasswords.config.BE.onlyAuthService">Эксклюзивное использование внутреннего интерфейса: если включено и при аутентификации происходит ошибка, сервис аутентификации более не будет работать.</label>
+      <label index="saltedpasswords.config.BE.updatePasswd">Обновление паролей внутренних пользователей: оставить существующие пароли внутренних пользователей, но автоматически преобразовать их в формат salted хеширования при аутентификации (не будет работать, если включено forceSalted).</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

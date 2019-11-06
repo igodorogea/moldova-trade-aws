@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+      <label index=".description">Настройка индексирующего поиска позволяет настраивать индексирование внешних, относительно дерева страниц TYPO3, ресурсов. Это может быть библиотека записей (например новости), структура файлов в папках (например PDF) или внешний URL с определенной глубиной, или стороннее содержимое из других расширений, доступное через прерывания.</label>
+      <label index=".details">Записи настроек индексирующего поиска используются для описания процесса индексирования, его расписания и места индексирования в дереве страниц. Важное требование, которое нужно учитывать, то, что "поисковое" расширение должно быть установлено прежде чем механизм индексирования будет использовать очередь "поискового" расширения для синхронизации, ведь использование расширения "поиска" – значит использование cron-задания для активизации его из оболочки.</label>
+      <label index="title.description">Название настроек.</label>
+      <label index="description.description">При необходимости, здесь можно дать описание для настроек или другую важную инфромацию.</label>
+      <label index="hidden.description">Этот флажок отключает настройку. При этом настройка будет исключена при обработке cron-задания.</label>
+      <label index="hidden.details">Примечание. Отключения процесса индексирования не скроет уже проиндексированное содержимое из результатов поиска!</label>
+      <label index="_hidden.seeAlso">index_config:starttime</label>
+      <label index="starttime.description">Время для работы настроек. Если установлено, настройки сработают через cron-задание в это время.</label>
+      <label index="_starttime.seeAlso">index_config:hidden</label>
+      <label index="timer_frequency.description">Используйте для настройки частоты процесса индексирования для этой конфигурации.</label>
+      <label index="_timer_frequency.seeAlso">index_config:timer_next_indexing, index_config:timer_offset</label>
+      <label index="timer_offset.description">Смещение используется для запуска процесса индексирования в определенное время суток.</label>
+      <label index="_timer_offset.seeAlso">index_config:timer_frequency</label>
+      <label index="timer_next_indexing.description">Поле содержит дату и время следующей сессии индексирования. Если оставить пустым, следующее индексирование произойдет при новом срабатывании cron-сценария (обычно в течение нескольких минут), после чего будет установлено новое время, соответственно частоте и смещению.</label>
+      <label index="_timer_next_indexing.seeAlso">index_config:timer_offset, index_config:timer_frequency</label>
+      <label index="type.description">Выберете тип настроек индексирования.</label>
+      <label index="type.details">&lt;b&gt;Записи&lt;/b&gt; - включение индексирования записей на определенной странице из определенной таблицы БД. Можно определить, какие поля из этой записи нужно индексировать и как должны выглядеть дополнительные GET параметры при ссылке на результаты поиска. &lt;b&gt;Файлы&lt;/b&gt; - индексирование файлов в целой директории из папки fileadmin/. Дополнительно можно определить глубину вложенных папок, на которую нужно индексировать файлы. &lt;b&gt;Внешний URL&lt;/b&gt; - возможность индексирования внешнего сайта и поиска на нем из текущей установки TYPO3! Можно установить глубину поиска по внешнему URL. &lt;b&gt;Page tree&lt;/b&gt; - Allows you to index the page tree using the cron script. This type will not be useful as a category for searching like the other types. &lt;b&gt;Meta configuration&lt;/b&gt; - Points to a collection of other indexing configurations in which the search will be done. Cannot be used for cron-job based indexing. &lt;b&gt;Custom&lt;/b&gt; - Other extensions might register custom types of configurations.</label>
+      <label index="table2index.description">Определение таблицы БД для индексирования ее записей.</label>
+      <label index="alternative_source_pid.description">По умолчанию индесирование будет производиться с записями на странице с id, где сохранена настройка индексирования. Если источником записей должна служить другая страница, здесь нужно ввести ее id.</label>
+      <label index="_alternative_source_pid.seeAlso">index_config:table2index</label>
+      <label index="get_params.description">Введите параметры GET, необходимые для отображения результатов поиска. Можно использовать ###UID### в качестве маркера в шаблоне параметров.</label>
+      <label index="get_params.details">Примечание: GET параметры применяются для URL страницы с сохраненной настройкой индексирования (на которой должно находиться расширение, которое сможет отобразить записи с данными параметрами!). Пример значения: "&amp;showUid=###UID###"</label>
+      <label index="_get_params.seeAlso">index_config:table2index</label>
+      <label index="fieldlist.description">Введите через запятую список полей, которые должны быть проиндексированы. Первое назване поля будет использовано для заголовка результатов поиска.</label>
+      <label index="fieldlist.details">&lt;b&gt;Пример:&lt;/b&gt; "header,bodytext,image_caption", будет индексироваться поля Header, Bodytext и Image Caption из "tt_content". Помните, что должны использоваться настоящие названия полей базы данных, проверьте правильность их написания!</label>
+      <label index="_fieldlist.seeAlso">index_config:table2index</label>
+      <label index="chashcalc.description">Если включено, URL результата поиска для записей будет закодирован с параметрами "&amp;cHash" для возможности кеширования. Используйте только если поддерживается расширением!</label>
+      <label index="_chashcalc.seeAlso">index_config:table2index</label>
+      <label index="recordsbatch.description">Количество записей для индексирования в каждом экземпляре процесса индексирования (количество в минуту). По умолчанию — 100 записей.</label>
+      <label index="_recordsbatch.seeAlso">index_config:table2index</label>
+      <label index="records_indexonchange.description">Если включено, новые и изменившиеся записи из этой таблицы будут индексироваться через обработчик в ядре (TCEmain), это значит, что они будут доступны для поиска сразу после добавления в систему.</label>
+      <label index="_records_indexonchange.seeAlso">index_config:table2index</label>
+      <label index="externalUrl.description">URL внешнего сайта, который нужно проиндексировать.</label>
+      <label index="url_deny.description">Введите посторочно URL, на которых не нужно производить поиск.</label>
+      <label index="url_deny.details">Пример: Если нужно проиндексировать "http://typo3.org/", без "http://typo3.org/extensions/" и "http://typo3.org/downloads/", нужно просто ввести эти два URL в поле: http://typo3.org/downloads/ http://typo3.org/extensions/</label>
+      <label index="_url_deny.seeAlso">index_config:externalUrl</label>
+      <label index="filepath.description">Введите путь к файлам, внутри директории fileadmin/ для индексирования находящихся в ней файлов.</label>
+      <label index="filepath.details">Пример: "fileadmin/newsletters/"</label>
+      <label index="extensions.description">Если нужно проиндексировать лишь определенные файлы в директории, введите список расширений для этих файлов. Пример: "html,pdf,doc"</label>
+      <label index="_extensions.seeAlso">index_config:filepath</label>
+      <label index="depth.description">Количество просмотриваемых подуровней.</label>
+      <label index="depth.details">Для индексирования файлов, это число уровней поддиректорий для данной директории. Для внешних URL — это глубина просматриваемых уровней ссылок.</label>
+      <label index="_depth.seeAlso">index_config:externalUrl, index_config:filepath</label>
+      <label index="indexcfgs.description">После проведения поиска с этими настройками индексирования, фактический поиск будет проводиться по проиндексированному содержимому через сделанные здесь настройки. Также можно ввести страницы, при поиске будут задействованы настройки, найденные на них.</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

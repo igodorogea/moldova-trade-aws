@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="editThisColumn">Editare câmp '%s'</label>
+			<label index="editTSconfig">Editare TSconfig pentru pagina curentă</label>
+			<label index="editTSconfig_all">Editare TSconfig pentru toate paginile</label>
+			<label index="editTSconfig_default">Cionfiguraţia implicită pentru TYPO3_CONF_VARS</label>
+			<label index="mod_pagetsconfig">Pagina TSconfig</label>
+			<label index="sort_alphabetic"/>
+			<label index="tsconf_configFields">Vezi conţinut câmpuri TSconfig</label>
+			<label index="tsconf_parts_0">Tot</label>
+			<label index="tsconf_parts_1">Modul ('mod') cu setări pentru utilizatori</label>
+			<label index="tsconf_parts_1a">Modul: Web&gt;Pagini</label>
+			<label index="tsconf_parts_1b">Modul: Web&gt;Vizualizare</label>
+			<label index="tsconf_parts_1c">Modul: Web&gt;Module</label>
+			<label index="tsconf_parts_1d">Modul: Web&gt;Listă</label>
+			<label index="tsconf_parts_1e">Modul: Web&gt;Info</label>
+			<label index="tsconf_parts_1f">Modul: Web&gt;Func</label>
+			<label index="tsconf_parts_1g">Modul: Web&gt;Şablon</label>
+			<label index="tsconf_title">Pagina TSconfig</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

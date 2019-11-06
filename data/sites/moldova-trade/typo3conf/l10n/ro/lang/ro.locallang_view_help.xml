@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="close">Inchide</label>
+			<label index="description">Manualul utilizator TYPO3 este compus din documentația disponibilă în această instalare TYPO3 (Context Sensitive Help). Aici veți găsi descrierea generală a modulelor Core TYPO3, a modulelor Backend specifice și a tabelelor din baza de date disponibile în funcție de drepturile corespondente contului dvs.</label>
+			<label index="details">Detalii</label>
+			<label index="fullDescription">Vezi descrierea completa a tabelului</label>
+			<label index="fullDescription_module">Vezi descrierea completă a modulului</label>
+			<label index="full_manual">Manual complet (o singură pagină)</label>
+			<label index="full_manual_chapters">Capitole Manual</label>
+			<label index="goBack">Inapoi</label>
+			<label index="goToToc">Mergi la TOC</label>
+			<label index="introduction">Introducere</label>
+			<label index="manual_title">Manual de utilizare TYPO3</label>
+			<label index="seeAlso">Vezi şi</label>
+			<label index="syntax">Sintaxa</label>
+			<label index="title">Indicaţii inline TYPO3</label>
+			<label index="TOC">TOC</label>
+			<label index="TOC_core">Opţiuni de bază TYPO3</label>
+			<label index="TOC_extensions">Extensii</label>
+			<label index="TOC_glossary">Glosar</label>
+			<label index="TOC_modules">Module Backend</label>
+			<label index="TOC_other">Altele</label>
+			<label index="TOC_tables">Tabele baze de date</label>
+			<label index="to_top">Sus</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

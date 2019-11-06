@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="deleteItem">Ştergere</label>
+			<label index="deleteWarning">Eşti sigur că vrei să ştergi această înregistrare?</label>
+			<label index="editWholeRecord">Editare completă a înregistrării</label>
+			<label index="noDocuments">Nu sunt documente deschise</label>
+			<label index="noDocuments_listmodule">Modulul Web&gt;Listă</label>
+			<label index="noDocuments_msg">Nu există documente deschise disponibile pentru editare.</label>
+			<label index="noDocuments_msg2">Puteţi merge la %s pentru a găsi pagina sau înregistrarea pe care doriţi s-o editaţi.</label>
+			<label index="noDocuments_msg3">Puteţi selecta una din înregistrările care au fost modificate recent:</label>
+			<label index="noDocuments_OR">sau</label>
+			<label index="noDocuments_pagemodule">Modulul Web&gt;Pagini</label>
+			<label index="openDocs">DOCUMENTE DESCHISE</label>
+			<label index="recordHistory">Verifică istoricul modificărilor efectuate</label>
+			<label index="undoLastChange">Anulează/Execută din nou ultima modificare (ultimile %s)</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

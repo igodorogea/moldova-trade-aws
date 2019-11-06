@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="Cancel"/>
+			<label index="CONFIRM_LINK_CLICK"/>
+			<label index="Dictionary"/>
+			<label index="Document information"/>
+			<label index="Finished list of mispelled words"/>
+			<label index="HTMLArea Spell Checker"/>
+			<label index="Ignore"/>
+			<label index="Ignore all"/>
+			<label index="Info"/>
+			<label index="I will open it in a new page."/>
+			<label index="Learn"/>
+			<label index="Misspelled words"/>
+			<label index="NO_ERRORS"/>
+			<label index="NO_ERRORS_CLOSING"/>
+			<label index="No information available"/>
+			<label index="occurrences"/>
+			<label index="of the word"/>
+			<label index="OK"/>
+			<label index="One occurrence"/>
+			<label index="Original word"/>
+			<label index="Please wait. Calling spell checker."/>
+			<label index="Please wait: changing dictionary to"/>
+			<label index="pliz weit ;-)"/>
+			<label index="QUIT_CONFIRMATION"/>
+			<label index="Re-check"/>
+			<label index="Replace"/>
+			<label index="Replace all"/>
+			<label index="Replacement"/>
+			<label index="Replace with"/>
+			<label index="Revert"/>
+			<label index="SC-spell-check"/>
+			<label index="seconds"/>
+			<label index="Spell Checker"/>
+			<label index="Spelling checked in"/>
+			<label index="Suggestions"/>
+			<label index="Total suggestions"/>
+			<label index="Total words"/>
+			<label index="Total words suggested"/>
+			<label index="Two occurrences"/>
+			<label index="was found."/>
+			<label index="were found."/>
+		</languageKey>
+  </data>
+</T3locallangExt>

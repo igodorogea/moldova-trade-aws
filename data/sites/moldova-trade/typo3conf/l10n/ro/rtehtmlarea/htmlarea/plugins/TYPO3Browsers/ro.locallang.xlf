@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ro" datatype="plaintext" original="messages" date="2015-08-20T00:50:39Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="download_altText" xml:space="preserve" approved="yes">
+				<source>Initiates file download</source>
+			<target state="translated">Porneşte descărcare fişier</target></trans-unit>
+			<trans-unit id="download_titleText" xml:space="preserve" approved="yes">
+				<source>Initiates file download</source>
+			<target state="translated">Porneşte descărcare fişier</target></trans-unit>
+			<trans-unit id="external_link_altText" xml:space="preserve" approved="yes">
+				<source>Opens external link in current window</source>
+			<target state="translated">Deschide link extern în fereastra curentă</target></trans-unit>
+			<trans-unit id="external_link_new_window_altText" xml:space="preserve" approved="yes">
+				<source>Opens external link in new window</source>
+			<target state="translated">Deschide link extern în fereastră nouă</target></trans-unit>
+			<trans-unit id="external_link_new_window_titleText" xml:space="preserve" approved="yes">
+				<source>Opens external link in new window</source>
+			<target state="translated">Deschide link extern în fereastră nouă</target></trans-unit>
+			<trans-unit id="external_link_titleText" xml:space="preserve" approved="yes">
+				<source>Opens external link in current window</source>
+			<target state="translated">Deschide link extern în fereastra curentă</target></trans-unit>
+			<trans-unit id="internal_link_altText" xml:space="preserve" approved="yes">
+				<source>Opens internal link in current window</source>
+			<target state="translated">Deschide link intern în fereastra curentă</target></trans-unit>
+			<trans-unit id="internal_link_new_window_altText" xml:space="preserve" approved="yes">
+				<source>Opens internal link in new window</source>
+			<target state="translated">Deschide link intern în fereastră nouă</target></trans-unit>
+			<trans-unit id="internal_link_new_window_titleText" xml:space="preserve" approved="yes">
+				<source>Opens internal link in new window</source>
+			<target state="translated">Deschide link intern în fereastră nouă</target></trans-unit>
+			<trans-unit id="internal_link_titleText" xml:space="preserve" approved="yes">
+				<source>Opens internal link in current window</source>
+			<target state="translated">Deschide link intern în fereastra curentă</target></trans-unit>
+			<trans-unit id="mail_altText" xml:space="preserve" approved="yes">
+				<source>Opens window for sending email</source>
+			<target state="translated">Deschide fereastră pentru a trimite email</target></trans-unit>
+			<trans-unit id="mail_titleText" xml:space="preserve" approved="yes">
+				<source>Opens window for sending email</source>
+			<target state="translated">Deschide fereastră pentru a trimite email</target></trans-unit>
+		</body>
+	</file>
+</xliff>

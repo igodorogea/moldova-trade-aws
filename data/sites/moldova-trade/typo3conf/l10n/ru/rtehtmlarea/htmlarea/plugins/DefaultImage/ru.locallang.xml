@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ru" type="array">
+			<label index="Bottom:">Снизу:</label>
+			<label index="Bottom padding">Отступ снизу</label>
+			<label index="image_url">URL изображения</label>
+			<label index="image_url_invalid">Невозможно получить доступ к url или изображение с ошибкой.</label>
+			<label index="Left padding">Отступ слева</label>
+			<label index="Right:">Справа:</label>
+			<label index="Right padding">Отступ справа</label>
+			<label index="Top:">Сверху:</label>
+			<label index="Top padding">Отступ сверху</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

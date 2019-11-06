@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ro" datatype="plaintext" original="messages" date="2015-07-29T23:13:10Z" product-name="func_wizards">
+		<header/>
+		<body>
+			<trans-unit id="mod_wizards" xml:space="preserve" approved="yes">
+				<source>Wizards</source>
+			<target state="translated">Asistenţi</target></trans-unit>
+			<trans-unit id="wiz_lWizards" xml:space="preserve" approved="yes">
+				<source>Select Wizard</source>
+			<target state="translated">Alege asistent</target></trans-unit>
+		</body>
+	</file>
+</xliff>

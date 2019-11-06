@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="dbal.config.sql_query.passthrough">Permite trecerea prin MySQL: Suportul metodei $GLOBALS['TYPO3_DB']-&gt;sql_query() în DBAL este momentan experimental. Folosirea metodei ar trebui evitată. Cînd este activă, această opțiune îi va permite DBAL să trimită query-ul direct lui MySQL, ca și cum DBAL nu ar fi încărcat.</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

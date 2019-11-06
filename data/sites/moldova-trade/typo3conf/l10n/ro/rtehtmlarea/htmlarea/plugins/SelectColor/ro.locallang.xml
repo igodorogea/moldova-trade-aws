@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="CO-forecolor"/>
+			<label index="CO-forecolor_title"/>
+			<label index="CO-hilitecolor"/>
+			<label index="CO-hilitecolor_title"/>
+			<label index="color_title"/>
+			<label index="no_color"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

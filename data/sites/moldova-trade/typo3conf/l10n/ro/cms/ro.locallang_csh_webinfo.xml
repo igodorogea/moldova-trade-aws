@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="func_0.alttitle">Setări de bază</label>
+			<label index="func_0.description"/>
+			<label index="func_0.details"/>
+			<label index="_func_0.image"/>
+			<label index="func_0.image_descr"/>
+			<label index="_func_0.seeAlso"/>
+			<label index="func_1.alttitle">Prezentare generală înregistrări</label>
+			<label index="func_1.description"/>
+			<label index="func_1.details"/>
+			<label index="_func_1.image"/>
+			<label index="func_1.image_descr"/>
+			<label index="_func_1.seeAlso"/>
+			<label index="func_2.alttitle">Cache şi vârsta</label>
+			<label index="func_2.description"/>
+			<label index="_func_2.image"/>
+			<label index="func_2.image_descr"/>
+			<label index="_func_2.seeAlso"/>
+			<label index="func_hits.alttitle">Vederi statistici</label>
+			<label index="func_hits.description"/>
+			<label index="func_hits.details"/>
+			<label index="_func_hits.image"/>
+			<label index="lang.alttitle">Prezentare generală localizare</label>
+			<label index="lang.description"/>
+			<label index="lang.details"/>
+			<label index="_lang.image"/>
+			<label index="lang.image_descr"/>
+			<label index="pagetree_overview.alttitle">Prezentare generală arbore de pagini</label>
+			<label index="pagetree_overview.description">Prezentarea generală a arborelui de pagini afişează informaţii legate de paginile unei ramuri ale arborelul de pagini. Aceasta include timpul de start şi stop, setări cache, etc.</label>
+			<label index="_pagetree_overview.image"/>
+			<label index="pagetree_overview.image_descr">Una dintre trăsăturile prezentării generale a arborelui de pagini este vizualizarea tipului de înregistrări ce se găsesc pe paginile dintr-o ramură. Aici numărul înregistrărilor este afişată pe o ramură de adâncime de 2 nivele.</label>
+			<label index="_pagetree_overview.seeAlso"/>
+			<label index="stat.alttitle">Statistici acces pagini</label>
+			<label index="stat.description"/>
+			<label index="stat.details"/>
+			<label index="_stat.image"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,21 @@
+<f:layout name="Default" />
+<f:section name="Main">
+
+	<div class="hero-image">
+		<f:cObject typoscriptObjectPath="lib.dynamicContent" data="{pageUid: '{data.uid}', colPos: '3'}" />
+	</div>
+
+	<div class="news-title-overlay"></div>
+
+	<div class="container news-events-columns">
+		<div class="row">
+			<div class="col-sm-6">
+				<f:cObject typoscriptObjectPath="lib.dynamicContent" data="{pageUid: '{data.uid}', colPos: '20'}" />
+			</div>
+			<div class="col-sm-6">
+				<f:cObject typoscriptObjectPath="lib.dynamicContent" data="{pageUid: '{data.uid}', colPos: '21'}" />
+			</div>
+		</div>
+	</div>
+
+</f:section>

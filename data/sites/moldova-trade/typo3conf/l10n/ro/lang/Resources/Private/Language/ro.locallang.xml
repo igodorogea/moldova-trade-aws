@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="button.cancel">Anulare</label>
+			<label index="button.update">Actualizare din depozit</label>
+			<label index="flashmessage.canceled">Procesul a fost anulat.</label>
+			<label index="flashmessage.error">Eroare</label>
+			<label index="flashmessage.information">Informație</label>
+			<label index="flashmessage.multipleErrors">Anumite cereri au eșuat. Vă rugăm verificați conexiunea la internet!</label>
+			<label index="flashmessage.success">Succes</label>
+			<label index="flashmessage.updateComplete">Actualizarea traducerilor s-a efectuat cu succes.</label>
+			<label index="header.languageSelectionList">Limbi</label>
+			<label index="header.module">Administrare limbi</label>
+			<label index="header.translationUpdateList">Traduceri</label>
+			<label index="state.checking">Verificare...</label>
+			<label index="state.error">Eroare</label>
+			<label index="state.failed">Eșuat</label>
+			<label index="state.invalid">Invalid</label>
+			<label index="state.notAvailable">Indisponibil</label>
+			<label index="state.notChecked">Neverificat</label>
+			<label index="state.updated">Actualizat</label>
+			<label index="state.upToDate">Actualizat</label>
+			<label index="table.extension">Extensie</label>
+			<label index="table.language">Limbă</label>
+			<label index="table.locale">Localizare</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

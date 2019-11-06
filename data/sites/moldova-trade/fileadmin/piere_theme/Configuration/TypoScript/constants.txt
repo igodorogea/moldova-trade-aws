@@ -1,0 +1,38 @@
+[globalVar = GP:theme = ]
+	config {
+		compressCss = 0
+		concatenateCss = 0
+		admPanel = 0
+		compressJs = 0
+		concatenateJs = 0
+	}
+
+	plugin.bootstrap_package.settings.less {
+		brand-primary = #406da4
+		navbar-height = 40px
+		font-family-sans-serif = "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif
+		font-size-base = 14px
+		headings-font-family = "Roboto Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif
+		headings-color = #232350
+		headings-small-color = lighten(@headings-color, 5%)
+	}
+
+	page {
+		logo {
+			file = fileadmin/piere_theme/Resources/Public/Images/logo.png
+#			file =
+			width = 504
+			height = 55
+		}
+
+		theme.news.list.maxWInText = 0
+
+		theme.copyright.text = &copy; 2015 Moldova Trade. All Rights Reserved.
+
+		fluidtemplate {
+			layoutRootPath = fileadmin/piere_theme/Resources/Private/Layouts/
+			partialRootPath = fileadmin/piere_theme/Resources/Private/Partials/
+			templateRootPath = fileadmin/piere_theme/Resources/Private/Templates/
+		}
+	}
+[global]

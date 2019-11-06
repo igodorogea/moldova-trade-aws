@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ro" datatype="plaintext" original="messages" date="2015-08-20T00:50:35Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="ActiveX-required" approved="yes">
+				<source>Loading the editor in Internet Explorer requires the execution of ActiveX controls to be enabled.</source>
+				<target state="translated">Încărcarea editorului în Internet Explorer necesită setarea permisiei de execuţie a controalelor ActiveX.</target>
+			</trans-unit>
+			<trans-unit id="Allow-Clipboard-Helper-Extension">
+				<source>For security reasons, unprivileged applications cannot access the clipboard. Click YES to install a component that will enable you to specify the sites or pages that will be allowed to access the clipboard and perform copy, cut and paste operations.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="Allow-Clipboard-Helper-Extension-Success">
+				<source>The installation was successful. You need to exit and restart your browser for the change to take effect. Afterwards, use the AllowClipboard Helper from the tools menu to allow specific sites to use the clipboard.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="HTML-document-not-well-formed" approved="yes">
+				<source>The HTML document is not well-formed.</source>
+				<target state="translated">Documentul HTML nu este bine format.</target>
+			</trans-unit>
+			<trans-unit id="Moz-Clipboard">
+				<source>Unprivileged scripts cannot access Cut/Copy/Paste programatically for security reasons. Click YES to see a technical note at mozilla.org which shows you how to allow a script to access the clipboard.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="Moz-Extension">
+				<source>For security reasons, unprivileged applications cannot access the clipboard. Click YES to install a component that will enable applications from this site to access the clipboard and perform copy, cut and paste operations.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="Moz-Extension-Failure" approved="yes">
+				<source>Sorry, Firefox Add-on AllowClipboard Helper could not be installed.</source>
+				<target state="translated">Ne pare rău, instalarea a eşuat.</target>
+			</trans-unit>
+			<trans-unit id="Moz-Extension-Install-Not-Enabled" approved="yes">
+				<source>The installation cannot be performed. Please change your browser preferences in order to allow installation of sofware from this site.</source>
+				<target state="translated">Instalarea nu poate fi efectuată. Vă rog schimbaţi setările browserului dumneavoastră pentru a permite instalarea programelor de pe acest site.</target>
+			</trans-unit>
+			<trans-unit id="Moz-Extension-Success" approved="yes">
+				<source>The installation was successful. You need to exit and restart your browser for the change to take effect.</source>
+				<target state="translated">Instalarea s-a efectuat cu succes. Trebuie să ieşiţi şi să reporniţi browserul pentru ca schimbările să aibă loc.</target>
+			</trans-unit>
+			<trans-unit id="Mozilla-Org-Install-Not-Enabled">
+				<source>The installation cannot be performed. Please change your browser preferences in order to allow installation of sofware from https://addons.mozilla.org.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="Path" approved="yes">
+				<source>Path</source>
+				<target state="translated">Cale</target>
+			</trans-unit>
+			<trans-unit id="TEXT_MODE" approved="no">
+				<source>You are in TEXT MODE.  Use the [&lt;&gt;] button to switch back to WYSIWYG.</source>
+				<target state="needs-translation">Sunteţi în mod TEXT. Folosiţi butonul [&lt;&gt;] pentru a reveni la WYSIWYG</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

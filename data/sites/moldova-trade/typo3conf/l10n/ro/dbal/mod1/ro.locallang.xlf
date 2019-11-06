@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ro" datatype="plaintext" original="messages" date="2015-07-29T23:04:00Z" product-name="dbal">
+		<header/>
+		<body>
+			<trans-unit id="Cached_info" approved="yes">
+				<source>Cached info</source>
+				<target state="translated">Informații salvate în cache</target>
+			</trans-unit>
+			<trans-unit id="Debug_log" approved="yes">
+				<source>Debug log</source>
+				<target state="translated">Jurnal de depanare</target>
+			</trans-unit>
+			<trans-unit id="SQL_check" approved="yes">
+				<source>SQL Check</source>
+				<target state="translated">Verificare SQL</target>
+			</trans-unit>
+			<trans-unit id="title" approved="yes">
+				<source>DBAL Analysis Module</source>
+				<target state="translated">Modul analiză DBAL</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

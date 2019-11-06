@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="ro" datatype="plaintext" original="messages" date="2015-07-29T23:02:48Z" product-name="css_styled_content">
+		<header/>
+		<body>
+			<trans-unit id="cssstyledcontent.config.removePositionTypes" approved="yes">
+				<source>Remove unused positioning types: This will disable the image positions that make no sense on CType=image (it leaves just "above left", "center" and "right").</source>
+				<target state="translated">Șterge tipurile de poziție nefolosite: Opțiunea va dezactiva pozițiile pentru imagini ce nu au sens pentru elementele cu CType=image (va păstra doar opțiunile "deasupra centrat", "centrat" și "dreapta")</target>
+			</trans-unit>
+			<trans-unit id="cssstyledcontent.config.setPageTSconfig" approved="yes">
+				<source>Set PageTSconfig by default: If you are going to use this extension by default in this database then set this flag. In that case you don't need to set specific PageTSconfig for each page, which you have to do otherwise!</source>
+				<target state="translated">Setare configurație PageTSconfig implicită: Dacă o să folosiți această extensie implicit cu această bază de date atunci setați această opțiune. Astfel nu trebuie să setați o configurație PageTSconfig pentru fiecare pagină în parte, ceea ce va trebui să faceți dacă această opțiune nu este activă.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

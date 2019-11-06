@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="wiz_crMany">Creează pagini multiple</label>
+			<label index="wiz_newPages">Creează pagini noi</label>
+			<label index="wiz_newPages_addMoreLines">Adăugați mai multe linii</label>
+			<label index="wiz_newPages_create">Paginile au fost create!</label>
+			<label index="wiz_newPages_currentMenu">Structură de pagină nouă</label>
+			<label index="wiz_newPages_errorMsg1">Nu puteţi crea subpagini noi în această pagină!</label>
+			<label index="wiz_newPages_hidePages">Ascunde paginile noi</label>
+			<label index="wiz_newPages_hidePagesInMenus">Ascunde paginile noi în meniu</label>
+			<label index="wiz_newPages_lCreate">Creare pagini</label>
+			<label index="wiz_newPages_lCreate_msg1">Veţi crea multe pagini noi. Sigur vreţi să continuaţi?</label>
+			<label index="wiz_newPages_listEnd">Pune paginile noi după subpaginile existente</label>
+			<label index="wiz_newPages_lReset">Şterge câmpuri</label>
+			<label index="wiz_newPages_noCreate">Nici o pagină nu a fost creată!</label>
+			<label index="wiz_newPages_page">Pagină</label>
+			<label index="wiz_W">W!</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

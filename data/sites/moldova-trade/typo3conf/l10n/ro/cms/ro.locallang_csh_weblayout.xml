@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index=".alttitle">Web &gt; Modul pagini</label>
+			<label index="button_panel.alttitle">Butoanele "Mari"</label>
+			<label index="button_panel.description"/>
+			<label index="_button_panel.image">EXT:cms/cshimages/pagemodule_5.png</label>
+			<label index="_button_panel.seeAlso"/>
+			<label index="columns_1.alttitle">Listare pe coloane</label>
+			<label index="columns_1.description">În vederea pe coloane puteţi controla conţinutul paginii cand acesta e poziţionat pe coloane</label>
+			<label index="columns_2.alttitle">Listare după limbă</label>
+			<label index="columns_2.description">În vederea pe limbi puteţi controla conţinutul paginii web, aceasta fiind afişată în coloane corespunzătoare fiecărei limbi definite.</label>
+			<label index="_columns_2.seeAlso"/>
+			<label index="columns_3.alttitle">Informaţie pagină</label>
+			<label index="columns_3.description">În vederea informaţiilor paginii puteţi vedea numeroase statistici ale unei pagini.</label>
+			<label index="columns_3.details"/>
+			<label index="_columns_3.image">EXT:cms/cshimages/pagemodule_5.png</label>
+			<label index="columns_multi.alttitle">Elemente de conţinut al paginii în coloane multiple</label>
+			<label index="columns_multi.description">Vederea pe coloane multiple va afişa conţinutul sitului aranjat în coloane multiple. Acesta e cazul dacă situl dumneavoastră suportă mai mult de o zonă de conţinut şi elementele din fiecare zonă sunt aranjate în "coloane".</label>
+			<label index="_columns_multi.image">EXT:cms/cshimages/pagemodule_5.png</label>
+			<label index="columns_multi.image_descr"/>
+			<label index="_columns_multi.seeAlso"/>
+			<label index="columns_single.alttitle">Elemente de conţinut al paginii într-o singură coloană</label>
+			<label index="columns_single.description"/>
+			<label index="columns_single.details"/>
+			<label index="_columns_single.image">EXT:cms/cshimages/pagemodule_5.png</label>
+			<label index="columns_single.image_descr"/>
+			<label index="_columns_single.seeAlso"/>
+			<label index=".description">Modulul de pagini este activat din backend şi este modulul de bază folosit pentru toate operaţiile sistemului CMS atunci când întreţineţi conţinutul paginii de internet</label>
+			<label index=".details"/>
+			<label index="_.image">EXT:cms/cshimages/pagemodule_13.png,
+EXT:cms/cshimages/pagemodule_14.png,
+EXT:cms/cshimages/pagemodule_15.png</label>
+			<label index=".image_descr">Faceți click pe modulul Pagină, apoi pe titlul paginii în arborescență.
+Modulul Pagină este acum activat în partea dreapta a ecranului, afișând conținutul paginii selectate.
+Aceste butoane sunt legături directe spre funcțiile Istoric/Refă (1), Creeză nou element de conținut (2), Mută pagina (3), Creează pagină nouă (4) și formularul de editare al proprietăților paginii (5). Vedeți linkurile pentru mai multe detalii.</label>
+			<label index="language_list.alttitle">Vederea pe limbă</label>
+			<label index="language_list.description">Această vedere va afişa traducerile disponibile ale conţinutului una lângă cealaltă. Permite utilizatorilor să creeze noi traduceri ale paginii.</label>
+			<label index="_language_list.image"/>
+			<label index="language_list.image_descr"/>
+			<label index="_language_list.seeAlso"/>
+			<label index="quickEdit.alttitle">Editare rapidă</label>
+			<label index="quickEdit.description">Editorul Rapid vă permite accesul direct la câmpurile formularului de conţinut al paginii.</label>
+			<label index="quickEdit.details">Editorul Rapid este proiectat să reducă numărul de clickuri necesare pentru editarea conţinutului unei pagini. Dând un click pe titlul paginii în arborele paginilor se va încărca primul element de conţinut din coloana principală. Din bara de instrumente se sus puteţi selecta alte elemente de conţinut de pe pagină utilizând căsuţa de selecţie.</label>
+			<label index="_quickEdit.image">EXT:cms/cshimages/pagemodule_5.png</label>
+			<label index="quickEdit.image_descr"/>
+			<label index="_quickEdit.seeAlso">_MOD_web_layout:quickEdit_selElement</label>
+			<label index="quickEdit_selElement.alttitle">Elemente de conţinut</label>
+			<label index="quickEdit_selElement.description">Acesta este un rezumat al elementelor de conţinut de pe această pagină. Selectaţi un element pentru a-l edita sau daţi un click pe iconiţa "Nou" pentru a crea un nou element de conţinut.</label>
+			<label index="_quickEdit_selElement.image">EXT:cms/cshimages/pagemodule_5.png</label>
+			<label index="quickEdit_selElement.image_descr"/>
+			<label index="_quickEdit_selElement.seeAlso"/>
+			<label index="_.seeAlso"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

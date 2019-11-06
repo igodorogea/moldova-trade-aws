@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="LGL.address">Adresa:</label>
+			<label index="LGL.allLanguages">[Tot]</label>
+			<label index="LGL.any_login">Afiseaza la orice autentificare</label>
+			<label index="LGL.author">Autor:</label>
+			<label index="LGL.baseStorage">Depozit:</label>
+			<label index="LGL.caption">Generic:</label>
+			<label index="LGL.category">Categorie:</label>
+			<label index="LGL.city">Oras:</label>
+			<label index="LGL.code">Cod:</label>
+			<label index="LGL.company">Companie:</label>
+			<label index="LGL.country">Tara:</label>
+			<label index="LGL.creationDate">Creat la:</label>
+			<label index="LGL.creationUserId">Creat de:</label>
+			<label index="LGL.default_value">Implicit</label>
+			<label index="LGL.description">Descriere:</label>
+			<label index="LGL.disable">Dezactivat:</label>
+			<label index="LGL.disableRTE">Dezactivarea Editorului de Text Imbogatit:</label>
+			<label index="LGL.email">Email:</label>
+			<label index="LGL.endtime">Stop:</label>
+			<label index="LGL.error">Eroare!</label>
+			<label index="LGL.external">Adresa URL externa</label>
+			<label index="LGL.fax">Fax:</label>
+			<label index="LGL.fe_group">Acces:</label>
+			<label index="LGL.first_name">Prenume:</label>
+			<label index="LGL.folder">Director:</label>
+			<label index="LGL.hidden">Ascuns:</label>
+			<label index="LGL.hide_at_login">Ascunde la autentificare</label>
+			<label index="LGL.image">Imagine:</label>
+			<label index="LGL.images">Imagini:</label>
+			<label index="LGL.keywords">Cuvinte cheie (,):</label>
+			<label index="LGL.l18n_parent">Trad.Orig:</label>
+			<label index="LGL.language">Limba:</label>
+			<label index="LGL.lastlogin">Ultima conectare:</label>
+			<label index="LGL.last_name">Nume de familie:</label>
+			<label index="LGL.layout">Afisaj</label>
+			<label index="LGL.links">Link-uri</label>
+			<label index="LGL.middle_name">Nume mijlociu:</label>
+			<label index="LGL.name">Nume:</label>
+			<label index="LGL.normal">Normal</label>
+			<label index="LGL.note">Nota:</label>
+			<label index="LGL.parameters">Parametrii:</label>
+			<label index="LGL.phone">Telefon:</label>
+			<label index="LGL.prependAtCopy">(copie %s)</label>
+			<label index="LGL.recursive">Recurent:</label>
+			<label index="LGL.shortcut_page">Legatura la pagina:</label>
+			<label index="LGL.startingpoint">Punct de inceput:</label>
+			<label index="LGL.starttime">Start:</label>
+			<label index="LGL.subheader">Subheader:</label>
+			<label index="LGL.text">Text:</label>
+			<label index="LGL.timestamp">Ultima modificare:</label>
+			<label index="LGL.title">Titlu:</label>
+			<label index="LGL.title_person">Titlu:</label>
+			<label index="LGL.type">Tip:</label>
+			<label index="LGL.usergroups">__Grupuri de utilizatori:__</label>
+			<label index="LGL.versionLabel">Etichetă Versiune:</label>
+			<label index="LGL.www">www:</label>
+			<label index="LGL.zip">Cod postal:</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

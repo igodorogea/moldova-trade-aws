@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+			<label index="All">Tot</label>
+			<label index="All HTML:">Toate tagurile HTML:</label>
+			<label index="Cancel">Anulare</label>
+			<label index="Cleaning Area">Zonă curăţare</label>
+			<label index="Cleaning options">Tip de formatarea care să fie şters</label>
+			<label index="Formatting:">Formatare HTML:</label>
+			<label index="Images:">Imagini:</label>
+			<label index="MS Word Formatting:">Formatare MS Word:</label>
+			<label index="OK">OK</label>
+			<label index="Remove formatting">Şterge formatarea</label>
+			<label index="RemoveFormatTooltip">Şterge formatarea</label>
+			<label index="Selection">Selecţie</label>
+			<label index="Select the type of formatting you wish to remove.">Selectaţi tipul de formatare care să fie înlăturat.</label>
+			<label index="Spaces"/>
+			<label index="Typographical punctuation:"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

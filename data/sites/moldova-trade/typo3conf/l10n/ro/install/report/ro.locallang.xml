@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="ro" type="array">
+      <label index="status_fileSystem">Sistem de fișiere</label>
+      <label index="status_writable">Cu drept de scriere</label>
+      <label index="status_missingDirectory">Directorul cerut lipsește</label>
+      <label index="status_nonExistingDirectory">Directorul nu există</label>
+      <label index="status_recommendedWritableDirectory">Directorul trebuie să aibă drept de scriere</label>
+      <label index="status_requiredWritableDirectory">Directorul nu are drept de scriere</label>
+      <label index="status_directoryDoesNotExist">%s nu există.</label>
+      <label index="status_directoryDoesNotExistCouldNotCreate">%s nu există și nu poate fi creat</label>
+      <label index="status_directoryShouldAlsoBeWritable">De asemenea, rețineți că acesta ar trebui să aibă drept de scriere, în cazul în care ar exista.</label>
+      <label index="status_directoryShouldBeWritable">%s ar trebui să aibă drept de scriere.</label>
+      <label index="status_directoryMustBeWritable">%s trebuie să aibă drept de scriere.</label>
+      <label index="status_remainingUpdates">Actualizări rămase</label>
+    </languageKey>
+  </data>
+</T3locallangExt>
